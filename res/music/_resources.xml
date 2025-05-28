@@ -1,0 +1,54 @@
+<ResourceManifest>
+	<Resources id="music">
+		<SetDefaults path="res/music/" idprefix="BGM_"/>
+		<Sound id="APLACECALLEDHOME" path="APlaceCalledHome" streaming="true" bus="Music" />
+		<Sound id="BIGCOMPUTER" path="BigComputer" streaming="true" bus="Music" />
+		<Sound id="BLACKSTAIN_20YEARS_BACKROOM" path="blackstain_20years_backroom" streaming="true" bus="Music" />
+		<Sound id="BLACKSTAIN_JELLY" path="blackstain_jelly" streaming="true" bus="Music" />
+		<Sound id="BLACKSTAIN_LEVEL_INTRO" path="blackstain_level_intro" streaming="true" bus="Music" />
+		<Sound id="BLACKSTAIN_MISTYYEARS_END" path="blackstain_MistyYears_end" streaming="true" bus="Music" />
+		<Sound id="BLACKSTAIN_MISTYYEARS_INSTRUMENTAL_LOOP" path="blackstain_MistyYears_instrumental_loop" streaming="true" bus="Music" />
+		<Sound id="BLACKSTAIN_MISTYYEARS_LOOP" path="blackstain_MistyYears_loop" streaming="true" bus="Music" />
+		<Sound id="BLACKSTAIN_PROTO_ATOMICEXPRESS_SHORTEND" path="blackstain_proto_AtomicExpress_ShortEnd" streaming="true" bus="Music" />
+		<Sound id="BLACKSTAIN_PROTO_HALLWAY" path="blackstain_proto_hallway" streaming="true" bus="Music" />
+		<Sound id="BLACKSTAIN_PROTO_MIDNIGHTSTEAMLINER" path="blackstain_proto_MidnightSteamliner" streaming="true" bus="Music" />
+		<Sound id="BLACKSTAIN_PROTO_OFFICE" path="blackstain_proto_office" streaming="true" bus="Music" />
+		<Sound id="BLACKSTAIN_PROTO_OTTCC" path="blackstain_proto_ottcc" streaming="true" bus="Music" />
+		<Sound id="BURNDOWN" path="BurnDown" streaming="true" bus="Music" />
+		<Sound id="BURNINGMAN2" path="BurningMan2" streaming="true" bus="Music" />
+		<Sound id="BURNINGMAN2_MIN" path="BurningMan2_min" streaming="true" bus="Music" />
+		<Sound id="DIKIRAZER_NOPERC" path="dikirazer_noperc" streaming="true" bus="Music" />
+		<Sound id="GRAVITYPROCESSINGUNIT" path="GravityProcessingUnit" streaming="true" bus="Music" />
+		<Sound id="HIGHWAY_100" path="Highway_100" streaming="true" bus="Music" />
+		<Sound id="HIGHWAY_200" path="Highway_200" streaming="true" bus="Music" offsets="0.0,24.78,28.43" />
+		<Sound id="JELLY_CH" path="jelly_ch" streaming="true" bus="Music" />
+		<Sound id="JELLY_SLOW" path="jelly_slow" streaming="true" bus="Music" />
+		<Sound id="JELLY_SUPERSLOW" path="jelly_superslow" streaming="true" bus="Music" />
+		<Sound id="MYSTERIOUSPIPE" path="MysteriousPipe" streaming="true" bus="Music" />
+		<Sound id="OTTCC_SYNTH_MIX" path="OttCC_synth_mix" streaming="true" bus="Music" />
+		<Sound id="OTTCC_WEREALLINITTOGETHER" path="OttCC_WereAllInItTogether" streaming="true" bus="Music" />
+		<Sound id="PAPERGOOLF_DIKI" path="PaperGoolf_Diki" streaming="true" bus="Music" />
+		<Sound id="PAPERGOOLF_TITLE_STINGER" path="PaperGoolf_title_stinger" streaming="true" bus="Music" />
+		<Sound id="PAPERGOOLF_YEARSOFWORK" path="PaperGoolf_YearsOfWork" streaming="true" bus="Music" />
+		<Sound id="RAINWINDY" path="RainWindy" streaming="true" bus="Music" />
+		<Sound id="RPS_A" path="rps_a" streaming="true" bus="Music" />
+		<Sound id="RPS_ANDALUSIAN" path="RPS_Andalusian" streaming="true" bus="Music" />
+		<Sound id="RPS_B" path="rps_b" streaming="true" bus="Music" />
+		<Sound id="SCREAMER24" path="Screamer24" streaming="true" bus="Music" />
+		<Sound id="THEATOMICEXPRESS" path="TheAtomicExpress" streaming="true" bus="Music" />
+		<Sound id="THEATOMICEXPRESS_NOPERC" path="TheAtomicExpress_noperc" streaming="true" bus="Music" />
+		<Sound id="THEGOOFILLEDHILLS" path="TheGooFilledHills" streaming="true" bus="Music" offsets="10,30,120" />
+		<Sound id="THELASTOFTHEGOOBALLSANDTHEFLYINGMACHINE" path="TheLastOfTheGooBallsAndTheFlyingMachine" streaming="true" bus="Music" />
+		<Sound id="THELASTOFTHEGOOBALLSANDTHEFLYINGMACHINE_MIN" path="TheLastOfTheGooBallsAndTheFlyingMachine_min" streaming="true" bus="Music" />
+		<Sound id="THISWAYUP_STINGER" path="ThisWayUp_stinger" streaming="true" bus="Music" />
+		<Sound id="THREADCUTTER" path="Threadcutter" streaming="true" bus="Music" />
+		<Sound id="TUMBLER_FASHION" path="Tumbler_Fashion" streaming="true" bus="Music" />
+		<Sound id="TUMBLER_ORGAN" path="Tumbler_organ" streaming="true" bus="Music" />
+		<Sound id="TUMBLER_WEREALLINITTOGETHER" path="Tumbler_WereAllInItTogether" streaming="true" bus="Music" offsets="0.0,37.8" />
+		<Sound id="WORLDOFGOOBEGINNING" path="WorldOfGooBeginning" streaming="true" bus="Music" offsets="0.0,9.463" />
+		<Sound id="YEARSOFWORK_WEREALLINITTOGETHER" path="YearsOfWork_WereAllInItTogether" streaming="true" bus="Music" />
+		<Sound id="YEOLDERECKONATOR" path="YeOldeReckonator" streaming="true" bus="Music" />
+		<!-- Assets by vEra -->
+		<Sound id="YEARSOFWORK_VERA_COVER" path="vEra/YearsOfWorkCover" streaming="true" bus="Music" />
+	</Resources>
+</ResourceManifest>

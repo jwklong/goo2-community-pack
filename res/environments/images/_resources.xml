@@ -75,5 +75,7 @@
 		<Image id="VIRTUALSUN_DARKPINKSKY" path="VirtualSun/DarkPinkSky"  />
 		<Image id="VIRTUALSUN_DARKPINKMOUNTAINS" path="VirtualSun/DarkPinkMountains"  />
 		<Image id="VIRTUALSUN_PINKSKYGRADIENT" path="VirtualSun/PinkSkyGradient"  />
+		<!-- Assets by vEra -->
+		<Image id="VERA_INFOSUPERHIGHWAY" path="vEra/InfoSuperHighway"  />
 	</Resources>
 </ResourceManifest>

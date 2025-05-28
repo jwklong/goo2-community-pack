@@ -1,0 +1,150 @@
+{
+	"name":	"InfoSuperHighway",
+	"id":	"d239c7aa-0d42-4c30-98c2-e17949a852f7",
+	"layers":	[{
+			"imageName":	"ENV_BG_VERA_INFOSUPERHIGHWAY",
+			"scale":	12,
+			"depth":	-3000,
+			"fill":	false,
+			"foreground":	false,
+			"repeatX":	false,
+			"repeatY":	false,
+			"anchors":	{
+				"x":	0,
+				"y":	0
+			},
+			"bloom":	1,
+			"color":	4294967295,
+			"blendingType":	2,
+			"flashAnimationName":	"",
+			"isFlashAnimation":	false,
+			"animScroll":	{
+				"x":	0,
+				"y":	0
+			}
+		}, {
+			"imageName":	"ENV_BG_CHAINREACTION_ALPHA",
+			"scale":	6,
+			"depth":	0,
+			"fill":	true,
+			"foreground":	false,
+			"repeatX":	false,
+			"repeatY":	false,
+			"anchors":	{
+				"x":	0,
+				"y":	-0.71170002222061157
+			},
+			"bloom":	0,
+			"color":	4294967295,
+			"blendingType":	2,
+			"flashAnimationName":	"",
+			"isFlashAnimation":	false,
+			"animScroll":	{
+				"x":	0,
+				"y":	0
+			}
+		}, {
+			"imageName":	"ENV_BG_CHAINREACTION_ADD",
+			"scale":	6,
+			"depth":	0,
+			"fill":	false,
+			"foreground":	true,
+			"repeatX":	true,
+			"repeatY":	false,
+			"anchors":	{
+				"x":	0,
+				"y":	-0.42340001463890076
+			},
+			"bloom":	0,
+			"color":	4294967295,
+			"blendingType":	3,
+			"flashAnimationName":	"",
+			"isFlashAnimation":	false,
+			"animScroll":	{
+				"x":	0,
+				"y":	0
+			}
+		}],
+	"bloomPosition":	{
+		"x":	1,
+		"y":	0
+	},
+	"bloomRange":	0,
+	"lightingColor":	4294967038,
+	"dynamicLighting":	false,
+	"lightingTopLeftColor":	4287861651,
+	"lightingTopRightColor":	4292993248,
+	"lightingBottomLeftColor":	4289040014,
+	"lightingBottomRightColor":	4291598475,
+	"lightingBackgroundTopLeftColor":	0,
+	"lightingBackgroundTopRightColor":	0,
+	"lightingBackgroundBottomLeftColor":	0,
+	"lightingBackgroundBottomRightColor":	0,
+	"waterTopColor":	4294965916,
+	"waterBottomColor":	4294952646,
+	"waterColorBlend":	0.22599999606609344,
+	"waterRandomRippleTimeout":	{
+		"x":	3,
+		"y":	10
+	},
+	"waterRandomRippleSize":	{
+		"x":	4,
+		"y":	7
+	},
+	"waterRandomRippleTime":	{
+		"x":	6,
+		"y":	10
+	},
+	"liquidOverrides":	[{
+			"startColor":	0,
+			"endColor":	0,
+			"insideParticleStartColor":	0,
+			"insideParticleEndColor":	0
+		}, {
+			"startColor":	0,
+			"endColor":	0,
+			"insideParticleStartColor":	0,
+			"insideParticleEndColor":	0
+		}, {
+			"startColor":	0,
+			"endColor":	0,
+			"insideParticleStartColor":	0,
+			"insideParticleEndColor":	0
+		}, {
+			"startColor":	0,
+			"endColor":	0,
+			"insideParticleStartColor":	0,
+			"insideParticleEndColor":	0
+		}],
+	"backgroundBloomFactor":	1,
+	"windForce":	{
+		"x":	0.5,
+		"y":	0.5
+	},
+	"windFactor":	0.5,
+	"windAddFactor":	0.20000000298023224,
+	"windDecorationFactor":	0.5,
+	"shadowOffset":	-0.05000000074505806,
+	"shadowColor":	1493172224,
+	"finalFx":	{
+		"layerRed":	1,
+		"layerGreen":	1,
+		"layerBlue":	1,
+		"layerOp":	0,
+		"layerEnabled":	false,
+		"layerK":	0,
+		"brightness":	0,
+		"contrast":	0,
+		"exposure":	0,
+		"saturation":	0,
+		"levelBlack":	0,
+		"levelWhite":	0,
+		"mode":	0
+	},
+	"sound":	{
+		"reverbWet":	0,
+		"lowPassWet":	0
+	},
+	"fireBlendingType":	2,
+	"fireLut":	"ENV_LUT_NORMAL"
+}
