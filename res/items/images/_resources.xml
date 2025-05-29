@@ -302,5 +302,13 @@
 		<!-- Assets by jwklong -->
 		<Image id="JWKLONG_SCAFFOLDCIRCLE" path="jwklong/ScaffoldCircle"  />
 		<Image id="JWKLONG_SCAFFOLDCIRCLEBLACK" path="jwklong/ScaffoldCircleBlack"  />
+		<!-- Assets by djm334 -->
+		<Image id="DJM_FLESHSPIRE1" path="djm334/FleshSpire1"  />
+		<Image id="DJM_FLESHSPIRE2" path="djm334/FleshSpire2"  />
+		<Image id="DJM_FLESHSPIRE3" path="djm334/FleshSpire3"  />
+		<Image id="DJM_FLESHSPIRE4" path="djm334/FleshSpire4"  />
+		<Image id="DJM_RUSTYCOG1" path="djm334/RustyCog1"  />
+		<Image id="DJM_RUSTYCOG2" path="djm334/RustyCog2"  />
+		<Image id="DJM_RUSTYCOG3" path="djm334/RustyCog3"  />
 	</Resources>
 </ResourceManifest>
