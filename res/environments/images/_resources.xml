@@ -71,6 +71,10 @@
 		<Image id="SUNSPOTS" path="sunspots"  />
 		<Image id="TRASHCOMPACTORBACKGROUND" path="trashcompactorBackground"  />
 		<Image id="UPDRAFT" path="Updraft"  />
+		<!-- Assets extracted from switch release verison -->
+		<Image id="MOON_ADD" path="Moon_Add"  />
+		<Image id="MOON_ALPHA" path="Moon_Alpha"  />
+		<Image id="MOON_MOON" path="Moon_Moon"  />
 		<!-- Assets by VirtualSun -->
 		<Image id="VIRTUALSUN_DARKPINKSKY" path="VirtualSun/DarkPinkSky"  />
 		<Image id="VIRTUALSUN_DARKPINKMOUNTAINS" path="VirtualSun/DarkPinkMountains"  />
