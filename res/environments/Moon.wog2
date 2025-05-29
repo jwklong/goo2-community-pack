@@ -1,0 +1,132 @@
+{
+	"name":	"MoonLevel",
+	"id":	"55e44deb-ecf8-4408-ba31-e3c8186a35ca",
+	"layers":	[{
+			"imageName":	"ENV_BG_MOON_MOON",
+			"scale":	12,
+			"depth":	-2866.6669921875,
+			"fill":	false,
+			"foreground":	false,
+			"repeatX":	false,
+			"repeatY":	false,
+			"anchors":	{
+				"x":	0,
+				"y":	-1
+			},
+			"bloom":	0.5,
+			"color":	4294967295,
+			"blendingType":	2
+		}, {
+			"imageName":	"ENV_BG_MOON_ALPHA",
+			"scale":	4.7768001556396484,
+			"depth":	0,
+			"fill":	false,
+			"foreground":	false,
+			"repeatX":	false,
+			"repeatY":	false,
+			"anchors":	{
+				"x":	0,
+				"y":	-1
+			},
+			"bloom":	0,
+			"color":	3925868543,
+			"blendingType":	2
+		}, {
+			"imageName":	"ENV_BG_MOON_ADD",
+			"scale":	6.5577998161315918,
+			"depth":	0,
+			"fill":	true,
+			"foreground":	true,
+			"repeatX":	false,
+			"repeatY":	false,
+			"anchors":	{
+				"x":	0,
+				"y":	-1
+			},
+			"bloom":	0,
+			"color":	4294967295,
+			"blendingType":	3
+		}],
+	"bloomPosition":	{
+		"x":	0.5,
+		"y":	0.5
+	},
+	"bloomRange":	10,
+	"lightingColor":	4283716692,
+	"dynamicLighting":	false,
+	"lightingTopLeftColor":	4285361598,
+	"lightingTopRightColor":	4294967295,
+	"lightingBottomLeftColor":	4286085324,
+	"lightingBottomRightColor":	4289374960,
+	"lightingBackgroundTopLeftColor":	0,
+	"lightingBackgroundTopRightColor":	0,
+	"lightingBackgroundBottomLeftColor":	0,
+	"lightingBackgroundBottomRightColor":	0,
+	"waterTopColor":	4294967295,
+	"waterBottomColor":	4294967295,
+	"waterColorBlend":	0.5,
+	"waterRandomRippleTimeout":	{
+		"x":	3,
+		"y":	10
+	},
+	"waterRandomRippleSize":	{
+		"x":	4,
+		"y":	7
+	},
+	"waterRandomRippleTime":	{
+		"x":	6,
+		"y":	10
+	},
+	"liquidOverrides":	[{
+			"startColor":	0,
+			"endColor":	0,
+			"insideParticleStartColor":	0,
+			"insideParticleEndColor":	0
+		}, {
+			"startColor":	0,
+			"endColor":	0,
+			"insideParticleStartColor":	0,
+			"insideParticleEndColor":	0
+		}, {
+			"startColor":	0,
+			"endColor":	0,
+			"insideParticleStartColor":	0,
+			"insideParticleEndColor":	0
+		}, {
+			"startColor":	0,
+			"endColor":	0,
+			"insideParticleStartColor":	0,
+			"insideParticleEndColor":	0
+		}],
+	"backgroundBloomFactor":	0,
+	"windForce":	{
+		"x":	0,
+		"y":	0
+	},
+	"windFactor":	0.5,
+	"windAddFactor":	0.20000000298023224,
+	"windDecorationFactor":	0.5,
+	"shadowOffset":	-0.05000000074505806,
+	"shadowColor":	1493172224,
+	"finalFx":	{
+		"layerRed":	1,
+		"layerGreen":	1,
+		"layerBlue":	1,
+		"layerOp":	0,
+		"layerEnabled":	false,
+		"layerK":	0,
+		"brightness":	0,
+		"contrast":	0,
+		"exposure":	0,
+		"saturation":	0,
+		"levelBlack":	0,
+		"levelWhite":	0,
+		"mode":	0
+	},
+	"sound":	{
+		"reverbWet":	0,
+		"lowPassWet":	0
+	},
+	"fireBlendingType":	2,
+	"fireLut":	"ENV_LUT_NORMAL"
+}
