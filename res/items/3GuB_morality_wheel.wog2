@@ -1,0 +1,261 @@
+{
+	"items":	[{
+			"name":	"3GuB/3rd Wheel",
+			"uuid":	"3GuB_MoralityWheel",
+			"type":	1,
+			"category":	"misc",
+			"layer":	2,
+			"minDepth":	-10,
+			"maxDepth":	10,
+			"sortOffset":	0,
+			"radiusOverride":	0,
+			"canRotate":	true,
+			"uniformScale":	true,
+			"canBeCopied":	true,
+			"variations":	true,
+			"useLighting":	true,
+			"castShadow":	true,
+			"checkVisibility":	true,
+			"color":	4294967295,
+			"animationName":	"",
+			"animationAlias":	"",
+			"animationSpeed":	1,
+			"animationInNormalizedTime":	0.5,
+			"animationPlayNormalizedTimeRange":	{
+				"x":	0,
+				"y":	0
+			},
+			"animationLocalPosition":	{
+				"x":	0,
+				"y":	0
+			},
+			"animationLocalScale":	{
+				"x":	1,
+				"y":	1
+			},
+			"animationRotation":	0.1,
+			"userValue1":	0,
+			"userValue2":	0,
+			"snapObjectIndex":	0,
+			"destroyForce":	-1,
+			"objects":	[{
+					"name":	"IMAGE_ITEM_MORALITY_WHEEL",
+					"randomizationGroup":	1,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	{
+						"x":	0.57,
+						"y":	0.57
+					},
+					"color":	4294967295,
+					"depthOffset":	0,
+					"sortOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"rotationSpeed":	1,
+					"invisible":	false,
+					"clickable":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"ignoreScale":	false,
+					"shaderFactor":	1,
+					"enableWind":	false,
+					"windFactor":	{
+						"x":	0,
+						"y":	0
+					},
+					"body":	{
+						"id":	"",
+						"type":	2,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	true,
+						"materialName":	"rock",
+						"tags":	"",
+						"geoms":	[{
+								"type":	1,
+								"width":	0,
+								"height":	0,
+								"radius":	281,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-320,
+										"y":	-50
+									}, {
+										"x":	314.95268,
+										"y":	-52.20820
+									}, {
+										"x":	322.29885,
+										"y":	43.48659
+									}, {
+										"x":	-315.46599,
+										"y":	56.54912
+									}]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-202.21659,
+										"y":	-252.99891
+									}, {
+										"x":	267.52521,
+										"y":	174.21582
+									}, {
+										"x":	208.31101,
+										"y":	249.74818
+									}, {
+										"x":	-270.83558,
+										"y":	-171.36126
+									}]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-57.28627,
+										"y":	318.70326
+									}, {
+										"x":	-59.45859,
+										"y":	-318.71526
+									}, {
+										"x":	73.74030,
+										"y":	-315.05875
+									}, {
+										"x":	78.14469,
+										"y":	312.76386
+									}]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	261.77697,
+										"y":	-192.44863
+									}, {
+										"x":	-195.35806,
+										"y":	266.75395
+									}, {
+										"x":	-264.25287,
+										"y":	201.78161
+									}, {
+										"x":	193.77062,
+										"y":	-251.82005
+									}]
+							}],
+						"categoryBits":	0
+					},
+					"colorFx":	{
+						"enabled":	false,
+						"brightness":	0,
+						"contrast":	0,
+						"exposure":	0,
+						"saturation":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}],
+			"alternates":	[],
+			"userVariables":	[],
+			"snapPoints":	[],
+			"limits":	{
+				"minScale":	0.1,
+				"maxScale":	100
+			},
+			"sound":	{
+				"collisionSounds":	[],
+				"minCollisionCosine":	0.699999988079071,
+				"collisionTimeout":	0.5,
+				"collisionLoopSound":	{
+					"soundId":	""
+				},
+				"minCollisionLoopAngularVelocity":	0.10000000149011612,
+				"maxCollisionLoopAngularVelocity":	0.5,
+				"collisionLoopBlendSpeed":	0.10000000149011612
+			}
+		}]
+}

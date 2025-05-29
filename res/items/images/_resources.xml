@@ -297,12 +297,12 @@
 		<Image id="WORLD_STARFIELD" path="World/Starfield"  />
 		<Image id="WORLD_STARFIELD2" path="World/Starfield2"  />
 		<Image id="WORLD_WM_BACKGROUND" path="World/WM_Background"  />
-		<!-- Assets by HesJustThisGuy -->
+		<!-- Assets provided by HesJustThisGuy -->
 		<Image id="HESJUSTTHISGUY_LIQUIDLAUNCHERFOSSIL" path="HesJustThisGuy/LiquidLauncherFossil"  />
-		<!-- Assets by jwklong -->
+		<!-- Assets provided by jwklong -->
 		<Image id="JWKLONG_SCAFFOLDCIRCLE" path="jwklong/ScaffoldCircle"  />
 		<Image id="JWKLONG_SCAFFOLDCIRCLEBLACK" path="jwklong/ScaffoldCircleBlack"  />
-		<!-- Assets by djm334 -->
+		<!-- Assets provided by djm334 -->
 		<Image id="DJM_FLESHSPIRE1" path="djm334/FleshSpire1"  />
 		<Image id="DJM_FLESHSPIRE2" path="djm334/FleshSpire2"  />
 		<Image id="DJM_FLESHSPIRE3" path="djm334/FleshSpire3"  />
@@ -310,5 +310,37 @@
 		<Image id="DJM_RUSTYCOG1" path="djm334/RustyCog1"  />
 		<Image id="DJM_RUSTYCOG2" path="djm334/RustyCog2"  />
 		<Image id="DJM_RUSTYCOG3" path="djm334/RustyCog3"  />
+		<!-- Assets provided by 3GuB -->
+		<Image id="MORALITY_WHEEL" path="3GuB/morality_wheel"/>
+		<Image id="LEVER" path="3GuB/lever"/>
+		<Image id="LEVER_BLUR" path="3GuB/lever_blur"/>
+		<Image id="LEVER_HALF" path="3GuB/lever_half"/>
+		<Image id="INVISIBLE_SCAFFOLD" path="3GuB/invisible_scaffold"/>
+		<Image id="INVISIBLE_ROTATING_WHEEL" path="3GuB/invisible_rotating_sphere"/>
+		<Image id="INVISIBLE_ROTATING_WHEEL_DEADLY" path="3GuB/invisible_rotating_sphere_deadly"/>
+		<Image id="GEAR_1" path="3GuB/gear1"/>
+		<Image id="GEAR_1BLACK" path="3GuB/gear1black"/>
+		<Image id="GEAR_1WHITE" path="3GuB/gear1white"/>
+		<Image id="GEAR_1BLUR" path="3GuB/gear1blur"/>
+		<Image id="GEAR_1BLURBLACK" path="3GuB/gear1blurBlack"/>
+		<Image id="GEAR_1BLURGRAY" path="3GuB/gear1blurGray"/>
+		<Image id="GEAR_2_256" path="3GuB/gear2_256"/>
+		<Image id="GEAR_BALLBUSTER" path="3GuB/gearBallbuster"/>
+		<Image id="GEAR_DETACH" path="3GuB/gearDetach"/>
+		<Image id="GEAR_DISTANT" path="3GuB/gearDistant"/>
+		<Image id="GEAR_ISH_BLUR" path="3GuB/ish_gearblur"/>
+		<Image id="GEAR_ISHR_BLUR" path="3GuB/ishr_gearblur"/>
+		<Image id="WHEEL_MACHINEWHEEL1" path="3GuB/MachineWheel1"/>
+		<Image id="WHEEL_MACHINEWHEEL1_SMALL" path="3GuB/MachineWheel1Small"/>
+		<Image id="WHEEL_RPS" path="3GuB/RPS_wheel"/>
+		<Image id="WHEEL_1BLACK" path="3GuB/wheel1black"/>
+		<Image id="WHEEL_1BLURBLACK" path="3GuB/wheel1black_blur"/>
+		<Image id="WHEEL_2BLACK" path="3GuB/wheel2black"/>
+		<Image id="WHEEL_2BLURBLACK" path="3GuB/wheel2black_blur"/>
+		<Image id="WHEEL_3BLACK" path="3GuB/wheel3black"/>
+		<Image id="WHEEL_3BLURBLACK" path="3GuB/wheel3black_blur"/>
+		<Image id="WINDMILL_PROPELLER" path="3GuB/windmillPropeller"/>
+		<Image id="WINDMILL_PROPELLERBLUR" path="3GuB/windmillPropellerBlur"/>
+		<Image id="WINDMILL_PROPELLER_SMALL" path="3GuB/windmillPropellerSmall"/>
 	</Resources>
 </ResourceManifest>
