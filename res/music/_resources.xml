@@ -53,5 +53,11 @@
 		<Sound id="THREADCUTTER_SYNTH" path="Threadcutter_Synth" streaming="true" bus="Music" />
 		<!-- Assets by vEra -->
 		<Sound id="YEARSOFWORK_VERA_COVER" path="vEra/YearsOfWorkCover" streaming="true" bus="Music" />
+		<!-- Assets by MiseryMouse -->
+		<Sound id="SCREAMER_MISERYMOUSE_COVER" path="MiseryMouse/Screamer_Choir_remix" streaming="true" bus="Music" />
+		<Sound id="SLOPPYWALKER_MISERYMOUSE_COVER" path="MiseryMouse/Sloppy_Walker_remix" streaming="true" bus="Music" />
+		<Sound id="MIDNIGHTSTEAMLINER_MISERYMOUSE_COVER" path="MiseryMouse/Midnight_Steamleaner_remake" streaming="true" bus="Music" />
+		<Sound id="REDCARPET_MISERYMOUSE_COVER" path="MiseryMouse/Red_Carpet_remix" streaming="true" bus="Music" />
+		<Sound id="RPS_MISERYMOUSE_COVER" path="MiseryMouse/Regurgitation_Pumping_Station_remix" streaming="true" bus="Music" />
 	</Resources>
 </ResourceManifest>

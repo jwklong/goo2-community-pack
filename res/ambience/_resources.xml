@@ -1,0 +1,30 @@
+<ResourceManifest>
+	<Resources id="ambience">
+		<SetDefaults path="res/ambience/" idprefix="AMBIENCE_GLOBAL_"/>
+		<Sound id="AIRSHIP" path="airship" streaming="true" bus="Music" />
+		<Sound id="CAVE_DRIPPING" path="cave_dripping" streaming="true" bus="Music" />
+		<Sound id="GREEN_HILL" path="green_hill" streaming="true" bus="Music" />
+		<Sound id="GULL_COAST" path="gull_coast" streaming="true" bus="Music" />
+		<Sound id="HARBOR_FAR" path="harbor_far" streaming="true" bus="Music" />
+		<Sound id="HARBOR_NEAR" path="harbor_near" streaming="true" bus="Music" />
+		<Sound id="ISLAND2_MAIN" path="island2_main" streaming="true" bus="Music" />
+		<Sound id="ISLAND2_SATELLITES" path="island2_satellites" streaming="true" bus="Music" />
+		<Sound id="ISLAND2_THRUSTERS" path="island2_thrusters" streaming="true" bus="Music" />
+		<Sound id="KILL_BLADES" path="kill_blades" streaming="true" bus="Music" />
+		<Sound id="LAKE_WAVES" path="lake_waves" streaming="true" bus="Music" />
+		<Sound id="LOON_LAKE" path="loon_lake" streaming="true" bus="Music" />
+		<Sound id="NIGHT_CRICKETS" path="night_crickets" streaming="true" bus="Music" />
+		<Sound id="RAIN_HEAVY_RUMBLE" path="rain_heavy_rumble" streaming="true" bus="Music" />
+		<Sound id="RAIN_LIGHT" path="rain_light" streaming="true" bus="Music" />
+		<Sound id="RAIN_LITE_RUMBLE" path="rain_lite_rumble" streaming="true" bus="Music" />
+		<Sound id="SQUIDDYBOG" path="squiddybog" streaming="true" bus="Music" />
+		<Sound id="TRAIN_WIND" path="train_wind" streaming="true" bus="Music" />
+		<Sound id="WATERSIDE" path="waterside" streaming="true" bus="Music" />
+		<Sound id="WHALE_PARTY" path="whale_party" streaming="true" bus="Music" />
+		<Sound id="WINDY_FARM" path="windy_farm" streaming="true" bus="Music" />
+		<Sound id="WIND_HEAVY" path="wind_heavy" streaming="true" bus="Music" />
+		<Sound id="WIND_LIGHT" path="wind_light" streaming="true" bus="Music" />
+		<!-- Assets by MiseryMouse -->
+		<Sound id="MISERYMOUSE_CELEBRITYLOOP" path="MiseryMouse/loop_celebrityCrowd" streaming="true" bus="Music" />
+	</Resources>
+</ResourceManifest>
