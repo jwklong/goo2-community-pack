@@ -300,6 +300,7 @@
 		<!-- Assets provided by HesJustThisGuy -->
 		<Image id="HESJUSTTHISGUY_LIQUIDLAUNCHERFOSSIL" path="HesJustThisGuy/LiquidLauncherFossil"  />
 		<Image id="HESJUSTTHISGUY_SCAFFOLDMOSSY" path="HesJustThisGuy/ScaffoldMossy"  />
+		<Image id="HESJUSTTHISGUY_STUMP" path="HesJustThisGuy/Stump"  />
 		<!-- Assets provided by jwklong -->
 		<Image id="JWKLONG_SCAFFOLDCIRCLE" path="jwklong/ScaffoldCircle"  />
 		<Image id="JWKLONG_SCAFFOLDCIRCLEBLACK" path="jwklong/ScaffoldCircleBlack"  />

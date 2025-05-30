@@ -1,0 +1,180 @@
+{
+	"items":	[{
+			"name":	"StumpDynamic",
+			"uuid":	"5c02cf12-dc3e-453a-b161-e5bed8e217bf",
+			"type":	1,
+			"category":	"misc",
+			"layer":	2,
+			"minDepth":	-10,
+			"maxDepth":	10,
+			"sortOffset":	0,
+			"radiusOverride":	0,
+			"canRotate":	true,
+			"uniformScale":	true,
+			"canBeCopied":	true,
+			"variations":	true,
+			"useLighting":	true,
+			"castShadow":	true,
+			"checkVisibility":	true,
+			"color":	4294967295,
+			"animationName":	"",
+			"animationAlias":	"",
+			"animationSpeed":	1,
+			"animationInNormalizedTime":	0.5,
+			"animationPlayNormalizedTimeRange":	{
+				"x":	0,
+				"y":	0
+			},
+			"animationLocalPosition":	{
+				"x":	0,
+				"y":	0
+			},
+			"animationLocalScale":	{
+				"x":	1,
+				"y":	1
+			},
+			"animationRotation":	0.1,
+			"userValue1":	0,
+			"userValue2":	0,
+			"snapObjectIndex":	0,
+			"destroyForce":	-1,
+			"objects":	[{
+					"name":	"IMAGE_ITEM_HESJUSTTHISGUY_STUMP",
+					"randomizationGroup":	1,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	{
+						"x":	0.57,
+						"y":	0.57
+					},
+					"color":	4294967295,
+					"depthOffset":	0,
+					"sortOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"rotationSpeed":	0,
+					"invisible":	false,
+					"clickable":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"ignoreScale":	false,
+					"shaderFactor":	1,
+					"enableWind":	false,
+					"windFactor":	{
+						"x":	0,
+						"y":	0
+					},
+					"body":	{
+						"id":	"",
+						"type":	1,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	true,
+						"materialName":	"rock",
+						"tags":	"",
+						"geoms":	[{
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-375,
+										"y":	-380
+									}, {
+										"x":	130,
+										"y":	-380
+									}, {
+										"x":	130,
+										"y":	420
+									}, {
+										"x":	-375,
+										"y":	420
+									}]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-175,
+										"y":	-155
+									}, {
+										"x":	140,
+										"y":	-180
+									}, {
+										"x":	380,
+										"y":	205
+									}, {
+										"x":	220,
+										"y":	285
+									}]
+							}],
+						"categoryBits":	0
+					},
+					"colorFx":	{
+						"enabled":	false,
+						"brightness":	0,
+						"contrast":	0,
+						"exposure":	0,
+						"saturation":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}],
+			"alternates":	[],
+			"userVariables":	[],
+			"snapPoints":	[],
+			"limits":	{
+				"minScale":	0.1,
+				"maxScale":	100
+			},
+			"sound":	{
+				"collisionSounds":	[],
+				"minCollisionCosine":	0.699999988079071,
+				"collisionTimeout":	0.5,
+				"collisionLoopSound":	{
+					"soundId":	""
+				},
+				"minCollisionLoopAngularVelocity":	0.10000000149011612,
+				"maxCollisionLoopAngularVelocity":	0.5,
+				"collisionLoopBlendSpeed":	0.10000000149011612
+			}
+		}]
+}
