@@ -305,6 +305,15 @@
 		<Image id="HESJUSTTHISGUY_GRAYTOTEMROCKLUSH" path="HesJustThisGuy/GrayTotemRockLush"  />
 		<Image id="HESJUSTTHISGUY_GRAYTOTEMROCKLUSH2" path="HesJustThisGuy/GrayTotemRockLush2"  />
 		<Image id="HESJUSTTHISGUY_MANGROVE" path="HesJustThisGuy/Mangrove"  />
+		<Image id="HESJUSTTHISGUY_CATTAIL1" path="HesJustThisGuy/Cattail1"  />
+		<Image id="HESJUSTTHISGUY_CATTAIL2" path="HesJustThisGuy/Cattail2"  />
+		<Image id="HESJUSTTHISGUY_CATTAIL3" path="HesJustThisGuy/Cattail3"  />
+		<Image id="HESJUSTTHISGUY_CATTAIL4" path="HesJustThisGuy/Cattail4"  />
+		<Image id="HESJUSTTHISGUY_ROBOTHANDBLUR" path="HesJustThisGuy/RobotHandBlur"  />
+		<Image id="HESJUSTTHISGUY_FIREHYDRANT" path="HesJustThisGuy/FireHydrant"  />
+		<Image id="HESJUSTTHISGUY_FIREHYDRANTRUSTY" path="HesJustThisGuy/FireHydrantRusty"  />
+		<Image id="HESJUSTTHISGUY_FIREHYDRANTMOSSY" path="HesJustThisGuy/FireHydrantMossy"  />
+		<Image id="HESJUSTTHISGUY_GRASSSPROUT" path="HesJustThisGuy/GrassSprout"  />
 		<!-- Assets provided by jwklong -->
 		<Image id="JWKLONG_SCAFFOLDCIRCLE" path="jwklong/ScaffoldCircle"  />
 		<Image id="JWKLONG_SCAFFOLDCIRCLEBLACK" path="jwklong/ScaffoldCircleBlack"  />
