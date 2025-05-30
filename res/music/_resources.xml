@@ -48,6 +48,9 @@
 		<Sound id="WORLDOFGOOBEGINNING" path="WorldOfGooBeginning" streaming="true" bus="Music" offsets="0.0,9.463" />
 		<Sound id="YEARSOFWORK_WEREALLINITTOGETHER" path="YearsOfWork_WereAllInItTogether" streaming="true" bus="Music" />
 		<Sound id="YEOLDERECKONATOR" path="YeOldeReckonator" streaming="true" bus="Music" />
+		<!-- Assets extracted from switch release verison -->
+		<Sound id="BLACKSTAIN_BESTOFTIMES" path="blackstain_BestOfTimes" streaming="true" bus="Music" />
+		<Sound id="THREADCUTTER_SYNTH" path="Threadcutter_Synth" streaming="true" bus="Music" />
 		<!-- Assets by vEra -->
 		<Sound id="YEARSOFWORK_VERA_COVER" path="vEra/YearsOfWorkCover" streaming="true" bus="Music" />
 	</Resources>
