@@ -357,5 +357,10 @@
 		<Image id="WINDMILL_PROPELLER" path="3GuB/windmillPropeller"/>
 		<Image id="WINDMILL_PROPELLERBLUR" path="3GuB/windmillPropellerBlur"/>
 		<Image id="WINDMILL_PROPELLER_SMALL" path="3GuB/windmillPropellerSmall"/>
+		<!-- Assets provided by Special_Paint -->
+		<Image id="SPECIAL_PAINT_SMOKESTACK" path="Special_Paint/SmokeStack"  />
+		<Image id="SPECIAL_PAINT_SMOKESTACKBLUR" path="Special_Paint/SmokeStackBlur"  />
+		<Image id="SPECIAL_PAINT_SMOKESTACKBROKEN" path="Special_Paint/SmokeStackBroken"  />
+		<Image id="SPECIAL_PAINT_SMOKESTACKBROKENBLUR" path="Special_Paint/SmokeStackBrokenBlur"  />
 	</Resources>
 </ResourceManifest>
