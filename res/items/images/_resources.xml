@@ -316,6 +316,14 @@
 		<Image id="HESJUSTTHISGUY_GRASSSPROUT" path="HesJustThisGuy/GrassSprout"  />
 		<Image id="HESJUSTTHISGUY_SERVERSILHOUETTE" path="HesJustThisGuy/ServerSilhouette"  />
 		<Image id="HESJUSTTHISGUY_CACTUSROUND" path="HesJustThisGuy/CactusRound"  />
+		<Image id="HESJUSTTHISGUY_TUBE1" path="HesJustThisGuy/Tube1"  />
+		<Image id="HESJUSTTHISGUY_TUBE1BLUR" path="HesJustThisGuy/Tube1Blur"  />
+		<Image id="HESJUSTTHISGUY_TUBE1FRONT" path="HesJustThisGuy/Tube1Front"  />
+		<Image id="HESJUSTTHISGUY_TUBE1FRONTBLUR" path="HesJustThisGuy/Tube1FrontBlur"  />
+		<Image id="HESJUSTTHISGUY_TUBE2" path="HesJustThisGuy/Tube2"  />
+		<Image id="HESJUSTTHISGUY_TUBE2BLUR" path="HesJustThisGuy/Tube2Blur"  />
+		<Image id="HESJUSTTHISGUY_TUBE2FRONT" path="HesJustThisGuy/Tube2Front"  />
+		<Image id="HESJUSTTHISGUY_TUBE2FRONTBLUR" path="HesJustThisGuy/Tube2FrontBlur"  />
 		<!-- Assets provided by jwklong -->
 		<Image id="JWKLONG_SCAFFOLDCIRCLE" path="jwklong/ScaffoldCircle"  />
 		<Image id="JWKLONG_SCAFFOLDCIRCLEBLACK" path="jwklong/ScaffoldCircleBlack"  />
