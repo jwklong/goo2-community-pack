@@ -2,13 +2,17 @@
 Community driven assets pack for World of Goo 2.
 
 # How to install
+
 1. Download this repository as a ZIP file
 2. Extract the contents somewhere readily accesible (i.e. your desktop)
 3. Locate your World of Goo 2 installation folder
-4. Find the folder named `res.goo` (It should be under `World of Goo 2/game/res.goo`). Back it up somewhere outside of `game`, and rename it to `res.zip`
+4. Find the folder named `res.goo` (It should be under `World of Goo 2/game/res.goo`). Make a backup copy somewhere outside of `game`, and rename the original to `res.zip`
 5. Extract `res.zip`. Ensure the correct file structure: `World of Goo 2/game/res/...`.
-6. Merge the downloaded `res` folder into the one that you extracted from the game
+6. Merge the downloaded `res` folder into the one that you extracted from the game. You can do this by moving the downloaded `res` folder into the `World of Goo 2/game` folder. When asked, chose to replace all files.
 7. You should be good to go!
+
+**Click this image to see a video of the installation after downloading and extracting the files:**
+[![Video of the installation process](https://img.youtube.com/vi/ievhS4xmzjM/0.jpg)](https://youtu.be/ievhS4xmzjM)
 
 # Contributors
 
