@@ -21,3 +21,4 @@ Community driven assets pack for World of Goo 2.
 - MiseryMouse: Various track remixes, ambient cameras loop
 - Special_Plant: Smokestacks item
 - p0b: Various items
+- Tristen Arctician: Generic Signpost text

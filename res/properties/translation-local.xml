@@ -1,0 +1,5743 @@
+<?xml version="1.0" ?>
+<localized_text_db>
+  <strings>
+    <string>
+      <id>LEVEL_NAME_C03_IncendiaryLocomotion</id>
+      <texts>
+        <text language="en">Incendiary Locomotion</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C04_Stumbler</id>
+      <texts>
+        <text language="en">Stumbler</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C04_Turn_and_Burn</id>
+      <texts>
+        <text language="en">Turn 'n' Burn</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C03_River_of_Fire</id>
+      <texts>
+        <text language="en">River of Fire</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_SuperTowerOfGoo</id>
+      <texts>
+        <text language="en">Super Tower of Goo</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C03_Block_Hoppers</id>
+      <texts>
+        <text language="en">Block Hoppers</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_A_Island4_Map</id>
+      <texts>
+        <text language="en">A_Island4_Map</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C03_NightFactory</id>
+      <texts>
+        <text language="en">Night Factory</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_Dish_Connected</id>
+      <texts>
+        <text language="en">Dish Connected</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_A_Familiar_Divide</id>
+      <texts>
+        <text language="en">A Familiar Divide</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_Chain_Head</id>
+      <texts>
+        <text language="en">Chain Head</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_Soggy_Bottom</id>
+      <texts>
+        <text language="en">Soggy Bottom</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C03_Chug</id>
+      <texts>
+        <text language="en">Chug</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_SwampHopper</id>
+      <texts>
+        <text language="en">Swamp Hopper</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C05_Upward_Trajectories</id>
+      <texts>
+        <text language="en">Upward Trajectories</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C03_Garbage_Dump_Double_Pump</id>
+      <texts>
+        <text language="en">Garbage Dump Double Pump</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C04_Paper_Trail</id>
+      <texts>
+        <text language="en">Paper Trail</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_A_Island5_Map</id>
+      <texts>
+        <text language="en">A_Island5_Map</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_Jelly_School</id>
+      <texts>
+        <text language="en">Jelly School</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_GrowingUp</id>
+      <texts>
+        <text language="en">Growing Up</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C04_Tee_Time</id>
+      <texts>
+        <text language="en">Tee Time</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C03_Rock_Blockers</id>
+      <texts>
+        <text language="en">Rock Blockers</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_DissolvingTower</id>
+      <texts>
+        <text language="en">Dissolving Tower</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C04_Jelly_Side_Up</id>
+      <texts>
+        <text language="en">Jelly Side Up</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C03_MergingTower</id>
+      <texts>
+        <text language="en">Merging Tower</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_JellySacrificeMachine</id>
+      <texts>
+        <text language="en">Jelly Sacrifice Machine</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_Squiddys_Bog</id>
+      <texts>
+        <text language="en">Squiddy's Bog</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_A_Island1_Map</id>
+      <texts>
+        <text language="en">A_Island1_Map</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C03_Coolant_Circulator_Infiltrator</id>
+      <texts>
+        <text language="en">Coolant Circulator Infiltrator</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C04_Gravitation_Navigation_Station</id>
+      <texts>
+        <text language="en">Gravitation Navigation Station</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_BlowFish</id>
+      <texts>
+        <text language="en">Blowfish</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C04_Disaster_Team</id>
+      <texts>
+        <text language="en">Disaster Team</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_Impale_Shrinky</id>
+      <texts>
+        <text language="en">Impale Shrinky</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C05_Molten_Showers</id>
+      <texts>
+        <text language="en">Molten Showers</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_A_Goo_Filled_Hill</id>
+      <texts>
+        <text language="en">A Goo Filled Hill</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C03_Hot_Slinky_Returns</id>
+      <texts>
+        <text language="en">Hot Slinky Returns: Slinkin' Ain't Easy</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_Angler</id>
+      <texts>
+        <text language="en">Angler</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C05_Hot_Springs</id>
+      <texts>
+        <text language="en">Hot Springs</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_Bridge_to_Grow_Where</id>
+      <texts>
+        <text language="en">Bridge to Grow Where</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_Chutes_and_Bladders</id>
+      <texts>
+        <text language="en">Chutes and Bladders</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C04_Fairway_Inferno</id>
+      <texts>
+        <text language="en">Fairway Inferno</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_Unsuck</id>
+      <texts>
+        <text language="en">Unsuck</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_A_World</id>
+      <texts>
+        <text language="en">A_World</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_A_EOL</id>
+      <texts>
+        <text language="en">A_EOL</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_A_Achievements</id>
+      <texts>
+        <text language="en">A_Achievements</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_Jugglers</id>
+      <texts>
+        <text language="en">Jugglers</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_A_Island2_Map</id>
+      <texts>
+        <text language="en">A_Island2_Map</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_LaunchPad</id>
+      <texts>
+        <text language="en">Launch Pad</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_ExtractionTeam</id>
+      <texts>
+        <text language="en">Extraction Team</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_LeaningTower</id>
+      <texts>
+        <text language="en">Leaning Tower</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C03_Molten_Meltdown</id>
+      <texts>
+        <text language="en">Molten Meltdown</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C04_Here_Come_the_Windmills</id>
+      <texts>
+        <text language="en">Here Come the Windmills</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C03_The_Ground_Shakes</id>
+      <texts>
+        <text language="en">The Ground Shakes</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_A_Island3_Map</id>
+      <texts>
+        <text language="en">A_Island3_Map</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_Sloppy_Walker</id>
+      <texts>
+        <text language="en">Sloppy Walker</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_Jellys_Jiggly_Journey</id>
+      <texts>
+        <text language="en">Jelly's Jiggly Journey</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_Juicer</id>
+      <texts>
+        <text language="en">Juicer</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C04_Gravity_Bridge</id>
+      <texts>
+        <text language="en">Gravity Bridge</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_Glory_Barge</id>
+      <texts>
+        <text language="en">Glory Barge</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_TransmissionLines</id>
+      <texts>
+        <text language="en">Transmission Lines</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_Ode_to_the_Conduit_Connector</id>
+      <texts>
+        <text language="en">Ode to the Conduit Connector</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C05_Destination_Landing_Station</id>
+      <texts>
+        <text language="en">Destination Landing Station</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_Pachinkgoo</id>
+      <texts>
+        <text language="en">Pachinkgoo</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C03_Hot_Slinky</id>
+      <texts>
+        <text language="en">Hot Slinky</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_ExemplaryTrajectories</id>
+      <texts>
+        <text language="en">Exemplary Trajectories</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C03_Mutable_Crucible</id>
+      <texts>
+        <text language="en">Mutable Crucible</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_Launch_Breaks</id>
+      <texts>
+        <text language="en">Launch Breaks</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Cleaner_OfficeCorridor_entrypoint</id>
+      <texts>
+        <text language="en">A cleaner mops the floor.
+It's late, well beyond working hours.
+Come to think of it, I'm pretty sure someone had already mopped the hallway today.
+There's something familiar about his weathered face, his tired eyes.
+But the thought is fleeting.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Cleaner_OfficeCorridor_CleanerTalks</id>
+      <texts>
+        <text language="en">Hey you.
+Someone left a box for you outside.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Cleaner_OfficeCorridor_Nod</id>
+      <texts>
+        <text language="en">I nod and continue on.
+Tonight my mind belongs to Effie and Effie alone.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Cleaner_OfficeCorridorClearsThroat_entrypoint</id>
+      <texts>
+        <text language="en">*Clears Throat*</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Cleaner_OfficeCorridorDone_entrypoint</id>
+      <texts>
+        <text language="en">He looks busy.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Effie_IThoughtYou_entrypoint</id>
+      <texts>
+        <text language="en">I thought you'd never ask.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_IntroEffieLeave_CVO_entrypoint</id>
+      <texts>
+        <text language="en">The scent of Effie's perfume lingers in the air.
+It is certain - this case will be my greatest trial yet.
+The stakes are high, the danger palpable, but I am a private eye -
+born to the shadows, a crusader in the face of darkness.
+I am Cliff Spanner, and I have a mystery to solve.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_CVO_Desk_entrypoint</id>
+      <texts>
+        <text language="en">Smoke curls from the end of my sparkler, turning to ash on my desk.
+Smokey tendrils fade into the dank air.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_CVO_Door_entrypoint</id>
+      <texts>
+        <text language="en">A sign on the door reads &quot;Cliff Spanner, Private Investigator&quot;.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_CVO_Knock_entrypoint</id>
+      <texts>
+        <text language="en">A sudden knock on my office door shatters the silence.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_CVO_Window_entrypoint</id>
+      <texts>
+        <text language="en">The rain beats against the office window.
+The only light is from the streetlight outside.
+Through the sheets of rain and the dusty blinds,
+the dim, amber glow casts ghostly shadows across my desk.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_CantLeaveYet_entrypoint</id>
+      <texts>
+        <text language="en">I should probably stick around.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_CliffSunshinePower_entrypoint</id>
+      <texts>
+        <text language="en">Sunshine Power... they're that new energy company -</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_CliffSunshinePower2_entrypoint</id>
+      <texts>
+        <text language="en">harnessing the sun's rays
+for cheap clean power, right?
+They must be a pretty big competitor for your oil business,
+aren't they?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_ComeIn_entrypoint</id>
+      <texts>
+        <text language="en">Yeah. Come in.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_Effie02_entrypoint</id>
+      <texts>
+        <text language="en">Cliffy. Please, bring my brother back.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_EffieCVO_01_entrypoint</id>
+      <texts>
+        <text language="en">A woman steps into the room, her silhouette oozes sensuality,
+her eyes shimmer with desperation and allure.
+Her face is stunning.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_EffieCVO_03_entrypoint</id>
+      <texts>
+        <text language="en">She moves with an elegance that seems to defy the
+grimy streets she must have traversed to get here.
+I catch a hint of her perfume,
+something intoxicating, as she approaches my desk.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_EffieThankYou_entrypoint</id>
+      <texts>
+        <text language="en">Thank you, Mr. Spanner.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_ShortDialog_entrypoint</id>
+      <texts>
+        <text language="en">I need your help, Mr. Spanner.
+There's something terribly wrong, and I don't know who else to turn to.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_ShortDialog_Light?</id>
+      <texts>
+        <text language="en">Need a light?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part1_entrypoint</id>
+      <texts>
+        <text language="en">What seems to be the problem, Miss...?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part1_Effie_CallMe</id>
+      <texts>
+        <text language="en">Call me Effie.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part1_Cliff_AlrightEffie</id>
+      <texts>
+        <text language="en">Alright... Effie. What brings you...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part1_Effie_ItsMyBrother</id>
+      <texts>
+        <text language="en">It's my brother, Rusty - Rusty Blackwood,
+he's disappeared, and I fear the worst.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part1_Cliff_TellMeEverything</id>
+      <texts>
+        <text language="en">Blackwood. That name is familiar.
+Effigail and Rustwick Blackwood, right?
+You and your brother are heirs to the vast Blackwood Oil Company
+that powers the whole city.
+Tell me everything, Miss Blackwood.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part2_entrypoint</id>
+      <texts>
+        <text language="en">I thought I told you to call me Effie.
+My brother, Rusty...you see,
+he fell in with some sort of environmental activist...
+...some floozy named Misty.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part2_Cliff_Misty</id>
+      <texts>
+        <text language="en">Misty...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part2_Effie_SheFilled</id>
+      <texts>
+        <text language="en">She filled his head with all manner of nonsense.
+She convinced him the Blackwood Oil Company
+wrecked the city, polluted it,
+and that it was built upon the backs of
+exploited workers and a damaged environment.
+Can you imagine?
+This city would be pitch black without my family's energy.
+That's when I started noticing changes around the office.
+Incomplete reports, mysterious memos,
+strange phone calls at all hours...
+I tried to brush it off as simple negligence.
+But - oh Cliff - I have begun to suspect that my brother
+is secretly working with Sunshine Power.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part3_entrypoint</id>
+      <texts>
+        <text language="en">Well that's just it, Cliff.
+With Rusty in bed with the competitor -
+in bed with Misty - in bed with Sunshine Power...
+I fear he planned to bring down the Blackwood Oil Company.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part3_Cliff_YouThinkYourBrother</id>
+      <texts>
+        <text language="en">You think your brother would destroy your family legacy?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part3_Effie_AtFirst</id>
+      <texts>
+        <text language="en">At first, I couldn't believe it. We're family!
+But the heart wants... what the heart wants, Cliff.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part4_entrypoint</id>
+      <texts>
+        <text language="en">The heart can lead a man down the darkest alleyways.
+And your father... does he know about this?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part4_Effie_MyFather</id>
+      <texts>
+        <text language="en">My father is a powerful man, Mr. Spanner.
+The sole owner of Blackwood Oil.
+There's nothing that goes on in the company he doesn't know about.
+And if Rusty defected to a rival green energy upstart...
+Oh Cliff.. Cliffy... you don't think...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part4_Cliff_IDontThink</id>
+      <texts>
+        <text language="en">I don't think... what?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part5_entrypoint</id>
+      <texts>
+        <text language="en">You don't think that my father would...
+in his displeasure...
+that he would have...hurt my brother...
+...do you?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part5_Cliff_IcantSay</id>
+      <texts>
+        <text language="en">I can't say, Miss Blackwoo-
+Er... Effie.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part5_Effie_WhateverHappened</id>
+      <texts>
+        <text language="en">Whatever happened to my brother, Cliff, I need to know the truth.
+No matter how painful.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_Office_longDialog_part6_entrypoint</id>
+      <texts>
+        <text language="en">I'll find your brother, Effie.
+The truth has a way of revealing itself,
+even in the darkest corners.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_OutsideOffice_ExitDoor_entrypoint</id>
+      <texts>
+        <text language="en">I step into the inky black night,
+my footsteps falling heavily on the wet rain-soaked pavement.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_OutsideOffice_NeonSigns_entrypoint</id>
+      <texts>
+        <text language="en">The street is illuminated with the harsh neon light
+of a Blackwood Oil Company billboard.
+Across the way, there's an even brighter billboard -
+...for Sunshine Power, Blackwood's upstart new rival,
+a renewable energy company.
+I turn up my collar against the rain.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_OutsideOffice_Package_entrypoint</id>
+      <texts>
+        <text language="en">A box beside the door catches my attention.
+A note says &quot;Come home soon, love, Mom.&quot;
+Inside, are several Goo Balls.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_OutsideOffice_Silhouette1_entrypoint</id>
+      <texts>
+        <text language="en">Hey man, you look like you could use these more than me.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C01_OutsideOffice_Silhouette2_entrypoint</id>
+      <texts>
+        <text language="en">I ordered a hot dog, and it came with these. You want 'em?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_CVO_Bartender_entrypoint</id>
+      <texts>
+        <text language="en">I approach the bar,
+flicking wet from the rain off the collar of my trench coat,
+and take a seat on one of the worn leather stools.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_CVO_Bartender_post_entrypoint</id>
+      <texts>
+        <text language="en">Good luck out there, pal.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_CVO_Cleaner_entrypoint</id>
+      <texts>
+        <text language="en">I see a sad sack in a city cleaner uniform sweeping
+wet sludge from the sidewalk into the gutter.
+He turns away from me as I pass,
+but is this the same guy who was mopping the hallway outside my office?
+No way, couldn't be.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_CVO_ExitDoor_entrypoint</id>
+      <texts>
+        <text language="en">I need answers about Rusty Blackwood,
+and this guy, Cognac, might hold the key.
+I gotta get to the train station.
+The echo of Misty's voice trails behind me,
+mingling with the distant wail of the city.
+The night is young, and I am not.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_CVO_Light_entrypoint</id>
+      <texts>
+        <text language="en">The periphery of the room is decked with
+sticky-looking crimson velvet upholstery.
+Tarnished chandeliers cast a dim, eerie glow over the patrons.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_CVO_Misty_entrypoint</id>
+      <texts>
+        <text language="en">A lounge singer is perched sinuously on a stool
+on a meager stage in the far corner.
+Her eyes are closed as she leans into the microphone,
+crooning a slow, sad tune, her voice laced with a bitter sweetness
+mirroring the broken dreams of the souls huddled around the bar.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_CVO_Misty_part2_entrypoint</id>
+      <texts>
+        <text language="en">Misty's sultry voice floats in the air like a wounded albatross.
+She sways to the rhythm of the music,
+her eyes move languorously from one patron to another,
+as if cataloging their sins.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_CVO_SourNoteSign_entrypoint</id>
+      <texts>
+        <text language="en">The air in here reeks of detergent and despair,
+mingling with smoke snaking up from sparklers
+held between milk-stained fingers.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_CVO_TheSourNote_Intro_entrypoint</id>
+      <texts>
+        <text language="en">I make my way to a dingy bar called &quot;The Sour Note&quot; -
+a haven for those seeking solace from their troubled lives.
+I'd gotten a tip that Rusty Blackwood,
+the man I'd been hired to find,
+has a taste for this joint.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_Cliff_SheLooksBusy_entrypoint</id>
+      <texts>
+        <text language="en">She looks busy.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty1_entrypoint</id>
+      <texts>
+        <text language="en">Misty, there was a nice man here.
+He must have run off.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty1_HowMenAre</id>
+      <texts>
+        <text language="en">Oh you know how men are, Cliff.
+You think they're one thing and then they're another.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty1_AboutRusty</id>
+      <texts>
+        <text language="en">So, about Rusty Blackwood...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty1_OhRusty</id>
+      <texts>
+        <text language="en">Oh Rusty. He was a promising one.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty1_BlackwoodOilCompany</id>
+      <texts>
+        <text language="en">Tell me more, Misty.
+Were you using Rusty to get to his family's Blackwood Oil Company?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty1_YouKnow</id>
+      <texts>
+        <text language="en">Well you know Blackwood Oil.
+You know what they do to this city, don't you?
+They poison it with their oil.
+The air is thick. Even the ground is bleeding.
+I tried to show Rusty the truth, but...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty1_ConvinceHim</id>
+      <texts>
+        <text language="en">You thought you'd convince Rusty to destroy his own family business?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty1_DimButCute</id>
+      <texts>
+        <text language="en">Yeah Rusty... a little dim but he was cute.
+I thought he was interested in cleaning up this city...
+...in doing something about this rotten family oil business.
+And he was!
+For a while... But he changed.
+He was lured by another light in the dark.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty1_WhereDidHeWander</id>
+      <texts>
+        <text language="en">Where'd he wander off to?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty1_RustyPal</id>
+      <texts>
+        <text language="en">Look, since Rusty is a pal, I'll throw you a bone.
+But you ain't heard it from me, understand?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty1_WhatItTakes</id>
+      <texts>
+        <text language="en">If that's what it takes.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty1_MightHaveAnIdea</id>
+      <texts>
+        <text language="en">I might have an idea who he's been hangin' around with.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty1_Who</id>
+      <texts>
+        <text language="en">Yeah? Who?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty1_TurnAround_entrypoint</id>
+      <texts>
+        <text language="en">Cliffy, cupcake. You can turn around again.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty2_entrypoint</id>
+      <texts>
+        <text language="en">There's a man. Dmitri Cognac.
+He's a real charmer. A gentleman of the night.
+A distant mountain of ill repute. You catch me?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty2_TheType</id>
+      <texts>
+        <text language="en">I think I know the type.
+The city is lousy with characters, most of them shady.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty2_WatchYourself</id>
+      <texts>
+        <text language="en">Watch yourself, Spanner, Dmitri is more...
+...Well, more than you probably expect.
+He has a way of crashing even the sturdiest ships into his rocky shore.
+He has a way of getting what he wants.
+Even from tough nuts like you.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty2_HeWant</id>
+      <texts>
+        <text language="en">What would he want from...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty3_entrypoint</id>
+      <texts>
+        <text language="en">Just find Dmitri Cognac. You'll understand.
+He's usually on the last train out of the city.
+The Midnight Steamliner.
+If you leave now, you still have time to catch him tonight, if you hurry.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty3_WhatMakes</id>
+      <texts>
+        <text language="en">So what makes you think he'll talk to me?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty3_ThatAttitude</id>
+      <texts>
+        <text language="en">Well, he won't, not with that attitude.
+Look at you, all dressed up like a Private Dick.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty3_MyJob</id>
+      <texts>
+        <text language="en">Just doing my job, ma'am.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty3_FoolInDrag</id>
+      <texts>
+        <text language="en">Oh sweetie, you're just a fool in drag.
+But so is everyone you've ever met.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty3_AnythingElse</id>
+      <texts>
+        <text language="en">Anything else you need to tell me about Dmitri Cognac?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty3_Loosen</id>
+      <texts>
+        <text language="en">You're gonna need something to loosen his tongue.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty4_entrypoint</id>
+      <texts>
+        <text language="en">Take this. I have a feeling it'll make Dmitri talk.
+It's best I'm not hangin' on to this anyway.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty4_2_BeenAPleasure</id>
+      <texts>
+        <text language="en">It's been a pleasure, Misty...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_Misty5_entrypoint</id>
+      <texts>
+        <text language="en">Just be careful, Spanner.
+Now, scuttle off... sweetie. I need to get ready for my next set.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyChangingCC_entrypoint</id>
+      <texts>
+        <text language="en">(zipping noise)
+(clothes rustling)
+(more clothes rustling)
+(even more rustling)
+(final zipping?)</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyFinal_entrypoint</id>
+      <texts>
+        <text language="en">Scuttle off, sweetie. I need to get ready for my next set.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMan1_entrypoint</id>
+      <texts>
+        <text language="en">Oooh she's a knockout isn't she!</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMan1_Illegal</id>
+      <texts>
+        <text language="en">She should be illegal.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMan1_CanIHelp</id>
+      <texts>
+        <text language="en">Can I help you sweetie? Did you enjoy yourself?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMan1_Questions</id>
+      <texts>
+        <text language="en">Thank you, but I'm asking some questions of Misty here.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMan2_entrypoint</id>
+      <texts>
+        <text language="en">Well sure, sweetie, go ahead.
+I'm just going to powder my nose.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMan3_entrypoint</id>
+      <texts>
+        <text language="en">As I was saying, my name's Cliff Spanner. Private Detective.
+I'm hoping you can help me out.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMan3_SpitItOut</id>
+      <texts>
+        <text language="en">Oh yeah? Well go on then, spit it out.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMan3_Looking</id>
+      <texts>
+        <text language="en">I'm looking for a man who's disappeared.
+I'm looking for Rusty Blackwood.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMan3_Finish_entrypoint</id>
+      <texts>
+        <text language="en">...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMan3_Finish_Acquaintance</id>
+      <texts>
+        <text language="en">I understand he's an acquaintance of yours.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMan4_entrypoint</id>
+      <texts>
+        <text language="en">Do me a favor, sweetie. Turn around, please.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMannequin_entrypoint</id>
+      <texts>
+        <text language="en">Say, that was a fine performance, Misty,
+you possess a heavenly voice of velvet.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMannequin_MyName</id>
+      <texts>
+        <text language="en">My name is Cliff Spanner. Private Detective.
+Do you know why I'm here?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMannequin_MistyBlank1</id>
+      <texts>
+        <text language="en">...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMannequin_MistyBlank2</id>
+      <texts>
+        <text language="en">...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMannequin_Hoping</id>
+      <texts>
+        <text language="en">I'm hoping you can help me out. I'm looking for someone.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMannequin_MistyBlank3</id>
+      <texts>
+        <text language="en">...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMannequin_Rusty</id>
+      <texts>
+        <text language="en">I um...
+I understand you're acquainted with someone named Rusty.
+Rusty Blackwood.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMannequin_MistyBank4</id>
+      <texts>
+        <text language="en">...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMannequin_NotBeen</id>
+      <texts>
+        <text language="en">He's not been seen in a while,
+and I'm hoping you can tell me where he might have gone.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMannequin_MistyBlank5</id>
+      <texts>
+        <text language="en">...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMannequin_SpareOnWords</id>
+      <texts>
+        <text language="en">For a woman with such a beautiful voice,
+you sure are spare on words aren't you, Misty?
+A real laconic crusader.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMannequin_MistyBlank6</id>
+      <texts>
+        <text language="en">...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_DressingRoom_MistyMannequin_TalkingTooMuch</id>
+      <texts>
+        <text language="en">You're right, I'm talking too much.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_OutsideSourNote_Cleaner_entrypoint</id>
+      <texts>
+        <text language="en">What's your name, friend?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_OutsideSourNote_Cleaner_Cleaner</id>
+      <texts>
+        <text language="en">Just a guy lookin' after this dump.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_OutsideSourNote_CleanerBalls_entrypoint</id>
+      <texts>
+        <text language="en">Hey I think you dropped these.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_OutsideSourNote_CliffCantLeave_entrypoint</id>
+      <texts>
+        <text language="en">I can't leave yet. I need to go to the Sour Note.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_OutsideSourNote_OSN5_entrypoint</id>
+      <texts>
+        <text language="en">Oh buddy. You had too much milk!
+Let's get you home.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_OutsideSourNote_OSN5_...</id>
+      <texts>
+        <text language="en">...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_OutsideSourNote_OSN5_What</id>
+      <texts>
+        <text language="en">What are you lookin' at, chump?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_SourNote_Cliff_TooMuchMilk_entrypoint</id>
+      <texts>
+        <text language="en">Looks like he's had too much milk.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_SourNote_Couple_entrypoint</id>
+      <texts>
+        <text language="en">Come on, let me get you another cold glass of milk, doll.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_SourNote_Couple_Giggles</id>
+      <texts>
+        <text language="en">(giggles)</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_SourNote_Couple4_entrypoint</id>
+      <texts>
+        <text language="en">I'm workin' this guy over here!
+Take these, and beat it!</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_SourNote_CoupleFinal_entrypoint</id>
+      <texts>
+        <text language="en">Scram, ya busy body!</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender1_entrypoint</id>
+      <texts>
+        <text language="en">What's your poison, stranger?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender1_JustInformation</id>
+      <texts>
+        <text language="en">Just information tonight.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender1_NotALibrary</id>
+      <texts>
+        <text language="en">I'm a bartender, pal. Not a library.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender1_Frosty</id>
+      <texts>
+        <text language="en">Alright, gimme a frosty glass of milk.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender2_entrypoint</id>
+      <texts>
+        <text language="en">Mmmmm look at that froth.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender2_RustyBlackwood</id>
+      <texts>
+        <text language="en">Say, ever have a man named Rusty Blackwood
+stop in here for a frothy cup?
+I've got a photo of him here...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender3_entrypoint</id>
+      <texts>
+        <text language="en">He's got a name I do not know, but yeah I seen him.
+You'll want to talk to Misty.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender3_Misty?</id>
+      <texts>
+        <text language="en">Misty?
+Who is she, and where can I find her?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender3_JustTurnAround</id>
+      <texts>
+        <text language="en">Just turn around.
+She sings for you now.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_entrypoint</id>
+      <texts>
+        <text language="en">Don't go get yer hopes up, pal.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_WhatWould</id>
+      <texts>
+        <text language="en">Now what would a woman like Misty
+be doing with a man like Rusty?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_Troubled</id>
+      <texts>
+        <text language="en">She likes 'em troubled you know.
+But I ain't seen this Rusty in a long distance.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_Duet</id>
+      <texts>
+        <text language="en">Were they... um...
+...involved in a duet?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_huh</id>
+      <texts>
+        <text language="en">huh?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_RidingSideSaddle</id>
+      <texts>
+        <text language="en">Were Rusty and Misty...
+...both riding side saddle on the same steed?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_umm</id>
+      <texts>
+        <text language="en">umm</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_Whiskey</id>
+      <texts>
+        <text language="en">Were they...
+...sharing more than a glass of whiskey?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_WhatsThat</id>
+      <texts>
+        <text language="en">Whiskey? What's that?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_HotBullets</id>
+      <texts>
+        <text language="en">Were they...
+...two hot bullets in a revolver?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_IDont</id>
+      <texts>
+        <text language="en">I don't...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_Romantically</id>
+      <texts>
+        <text language="en">What I mean to say is, were Misty and Rusty...
+...romantically permeated?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_CantSayForSure</id>
+      <texts>
+        <text language="en">Can't say for sure, pal.
+Misty follows her own long twisty road.
+But I'd say she enjoys playing with fire.
+And Rusty...
+...well, let's just say last time I saw him here,
+he was smokin'.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_NotSoBad</id>
+      <texts>
+        <text language="en">You're not so bad at dispensing information, bartender.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Bartender4_GoodLuck</id>
+      <texts>
+        <text language="en">Good luck, pal.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C02_TheSourNote_Cliff_Woah_entrypoint</id>
+      <texts>
+        <text language="en">...woah...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_CVO_CognacsVoice_entrypoint</id>
+      <texts>
+        <text language="en">Cognac's voice - a resonant basso profundo -
+was the sturdiest thing on this rickety train.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_CVO_Dmitri_entrypoint</id>
+      <texts>
+        <text language="en">This must be him. Dmitri is a hard man to miss.
+He's sitting in a dimly lit booth,
+accompanied by a stunning woman
+who looks me up and down as I approach.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_CVO_Train2Intro_entrypoint</id>
+      <texts>
+        <text language="en">I stalk through the carriages, searching for Dmitri Cognac.
+I'm not sure what exactly I'm looking for -
+but based on Misty's description, I figure I'll know him when I see him.
+All I know is that Cognac is a dangerous man whose charisma is inescapable.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_CVO_TrainIntro_entrypoint</id>
+      <texts>
+        <text language="en">I catch the last train out of the city.
+All aboard the Midnight Steamliner.
+It cuts its way out of the city like a neon blade to the outskirts -
+a ramshackle smear of strip malls and cheap motels
+that splatter out of the city like an exit wound.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_01_entrypoint</id>
+      <texts>
+        <text language="en">Well go on then, don't just monologue to yourself.
+Let's hear what's rattling around in that pretty little head.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_01_Dmitri_large_man</id>
+      <texts>
+        <text language="en">Dmitri is a large man, robust, spilling out of his seat,
+a relic from a time when indulgence was a luxury.
+His substantial girth, once a symbol of opulence,
+now hints at the sins he must have savored.
+The man is immaculately groomed,
+his mustache adding a touch of rugged sophistication.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_01_02_Beard</id>
+      <texts>
+        <text language="en">Well thanks I enjoy my sophisticated mustache too.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_01_02_OhNo</id>
+      <texts>
+        <text language="en">I knew my monologing would get me in trouble one day.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_01_02_SomethingInteresting</id>
+      <texts>
+        <text language="en">Finally something interesting is about to happen.
+Come sit with me handsome.
+Let's wait for it together.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_01_02_WhatsGoing</id>
+      <texts>
+        <text language="en">What? What's going to happen?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_01_02_SinkYourTeeth</id>
+      <texts>
+        <text language="en">Come sink your teeth into a buttered roll.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_02_entrypoint</id>
+      <texts>
+        <text language="en">You look tired, has it been a long night?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_02_Looking</id>
+      <texts>
+        <text language="en">I'm looking for someone.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_02_TalkingToMisty</id>
+      <texts>
+        <text language="en">You've been talking to Misty.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_02_DidSheCallYou</id>
+      <texts>
+        <text language="en">How do you know? Did she call you?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_02_telephone_Telephone</id>
+      <texts>
+        <text language="en">Haha! Do you see a telephone?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_03_entrypoint</id>
+      <texts>
+        <text language="en">You've brought your past with you.
+Every line under those cute little vodka bottle glasses.
+That cloud of Misty's perfume you wafted in here with.
+I always told her she wore too much!</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_03_Scent</id>
+      <texts>
+        <text language="en">I hope my acquired scent didn't disturb the other passengers.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_03_DoesntMatter</id>
+      <texts>
+        <text language="en">It doesn't matter.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_03_OfCourse</id>
+      <texts>
+        <text language="en">Of course it matters.
+It's my job to move like a shadow in the night.
+To not be seen ... or smelled.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_03_DoesntMatterBecause</id>
+      <texts>
+        <text language="en">It doesn't matter because...
+...there is no one else on this train.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_04_GhostTrain</id>
+      <texts>
+        <text language="en">Wait are you saying... this is a ghost train?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_04_ThrillingStory</id>
+      <texts>
+        <text language="en">Wouldn't that be a thrilling story!
+No. This is not a ghost train.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_04_DontUnderstand</id>
+      <texts>
+        <text language="en">I'm not sure I understand...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_04_PickSomeone</id>
+      <texts>
+        <text language="en">Pick someone. Anyone on the train you think you met.
+That woman with feathers in her hair?
+That man with a freshly pressed suit
+who looked nervous in the second car?
+Where are they going? It doesn't matter.
+Are they going to work?
+What would happen if they didn't go? Nothing.
+Nothing would happen.
+The train would still arrive on time.
+Their workplace would hire someone else.
+The papers would still get photocopied.
+Ghosts. Every one of them.
+Mmm gruyere?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_04_Ham_entrypoint</id>
+      <texts>
+        <text language="en">Of course there are, Cognac.
+I talked to lots of passengers in
+the carriages before you.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_04_Ham_Ghosts</id>
+      <texts>
+        <text language="en">Ghosts. They're all ghosts.
+Mmm did you try the ham?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_04_HowLong_HowLong</id>
+      <texts>
+        <text language="en">Dmitri...
+How long have you been riding this train?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_04_HowLong_200,000</id>
+      <texts>
+        <text language="en">Maybe I've been on this train for 200,000 years.
+Or maybe I didn't exist until you
+trotted through that door over there.
+The more interesting question is,
+how long am I going to be here?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_04_HowLong_EndOfTheLine</id>
+      <texts>
+        <text language="en">Well the end of the line is coming soon -</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_04_HowLong_WantToAsk</id>
+      <texts>
+        <text language="en">What is it you really want to ask?
+And you simply must try this salami.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_04_Thanks_Thanks</id>
+      <texts>
+        <text language="en">Thanks, Dmitri, but I couldn't possibly.
+I'm looking for a different kind of sustenance tonight.
+I'm looking for someone...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_05_entrypoint</id>
+      <texts>
+        <text language="en">Yes, I see.
+Quality sustenance comes at a price.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_05_Misty</id>
+      <texts>
+        <text language="en">Misty asked me to give this to you...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_06_entrypoint</id>
+      <texts>
+        <text language="en">And what did you say your name was?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_06_CliffSpanner</id>
+      <texts>
+        <text language="en">Spanner. Cliff Spanner, Private Detective.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_07_entrypoint</id>
+      <texts>
+        <text language="en">You seem to have captured my attention, Mr. Spanner.
+How may I help you?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_07_Rusty</id>
+      <texts>
+        <text language="en">Rusty Blackwood, heir to the Blackwood Oil Company is missing.
+I understand he may have... interacted with you.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_07_PoorFool</id>
+      <texts>
+        <text language="en">Rusty Blackwood...
+the poor fool got tangled up in something
+stickier than he could handle.
+He stumbled onto some secrets... dangerous ones.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_07_Tellme</id>
+      <texts>
+        <text language="en">Tell me everything, Cognac. Spare no detail.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_07_Evidence</id>
+      <texts>
+        <text language="en">Rusty had evidence...
+...documents that could bring the whole charade crashing down.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_07_Charade</id>
+      <texts>
+        <text language="en">Charade? What charade?
+How did you...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_08_entrypoint</id>
+      <texts>
+        <text language="en">I mean, how could someone in your professional occupation...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_08_MyOccupation</id>
+      <texts>
+        <text language="en">My occupation opens a lot of entrances, Mr. Spanner.
+My real business is secrets.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_08_Need</id>
+      <texts>
+        <text language="en">I need more, Cognac.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_08_SoDoI</id>
+      <texts>
+        <text language="en">So do I. I'm all out of time.
+I mean wine.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_08_TellMe</id>
+      <texts>
+        <text language="en">Tell me where I can find Rusty.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_08_Careful</id>
+      <texts>
+        <text language="en">Careful, Spanner.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_08_NotFirstCase</id>
+      <texts>
+        <text language="en">This isn't my first case, Cognac.
+Tell me where I can find Rusty Blackwood.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_08_EntireLife</id>
+      <texts>
+        <text language="en">Your entire life has led to this very moment
+sitting across from me right now.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_08_RunningOut</id>
+      <texts>
+        <text language="en">We're running out of time.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_08_ToFind</id>
+      <texts>
+        <text language="en">To find the man you are looking for...
+To find Rusty Blackwood,
+here's exactly what you need to know -</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_09_entrypoint</id>
+      <texts>
+        <text language="en">Dmitri!</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_10_entrypoint</id>
+      <texts>
+        <text language="en">Cognac.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_11_entrypoint</id>
+      <texts>
+        <text language="en">Cognac! Stay with me!</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_12_entrypoint</id>
+      <texts>
+        <text language="en">I need to know...!</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_12_SunshineSpanner</id>
+      <texts>
+        <text language="en">Sunshine, Spanner. You need to find...
+...sunshine. Take this.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Dmitri_SecretCake_entrypoint</id>
+      <texts>
+        <text language="en">The secret to the perfect piece of cake is...
+...carefully slicing it...
+...to just...
+...the perfect size...
+ENORMOUS.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Train1_Midway_CVO_entrypoint</id>
+      <texts>
+        <text language="en">I can't shake the feeling I'm being tailed...
+that someone is... watching me.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Train2_Midway_CVO_entrypoint</id>
+      <texts>
+        <text language="en">A chill runs up my spine.
+Something isn't right. But I press on.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Train2_Passenger3_entrypoint</id>
+      <texts>
+        <text language="en">I'm late!
+Here you can have these.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Train2_Passenger3_2_entrypoint</id>
+      <texts>
+        <text language="en">I'm fresh outta goo.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Train2_Passenger4_entrypoint</id>
+      <texts>
+        <text language="en">Whose kid is that?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Train2_Passenger5_entrypoint</id>
+      <texts>
+        <text language="en">Hey Mister! You look funny!</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Train_EmptySeat2_CVO_entrypoint</id>
+      <texts>
+        <text language="en">Passengers are spread out, as if each is
+harboring a secret they don't want anyone else to hear.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Train_EmptySeat_CVO_entrypoint</id>
+      <texts>
+        <text language="en">The air is thick with the haze of sparkler smoke
+and the acrid stench of decaying seat leather.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Train_Passenger1_entrypoint</id>
+      <texts>
+        <text language="en">I'd ask that you leave me be, sir.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Train_Passenger2_entrypoint</id>
+      <texts>
+        <text language="en">Here you go, you poor old thing.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Train_Passenger2_2_entrypoint</id>
+      <texts>
+        <text language="en">I'm sorry, that's all I have.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C03_Train_Window_CVO_entrypoint</id>
+      <texts>
+        <text language="en">The train rattles along the tracks,
+its rhythmic thrumming a steady counterpoint to
+the staccato bursts of rain against the window.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_CVO_Cactus_entrypoint</id>
+      <texts>
+        <text language="en">An animatronic cactus stands beside me, wearing a sombrero.
+Gotta shield yourself from the moonlight I guess.
+It seems out of place, and out of time,
+but fitting for a city that lost its way a long time ago.
+In this town, even the plastic cacti have a story to tell.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_CVO_Cleaner_entrypoint</id>
+      <texts>
+        <text language="en">A lone figure mops gleaming puddles infinitely towards the horizon.
+Just another part of the scenery.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_CVO_ElSol_entrypoint</id>
+      <texts>
+        <text language="en">The only sign of life is an all-night Mexican food stand...
+...a place called &quot;El Sol&quot;.
+Lately I've had a taste for trouble and a knack for finding it.
+But tonight, I've got a taste for a burrito.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_CVO_GarbageCan_entrypoint</id>
+      <texts>
+        <text language="en">These might come in handy...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_CVO_Intro_entrypoint</id>
+      <texts>
+        <text language="en">Even here, at the edge of civilization,
+the streets glisten with black ooze seeping up from below.
+In every direction there are forgotten lots and buildings,
+tucked away, left behind, like bad memories.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_CVO_Stuck_entrypoint</id>
+      <texts>
+        <text language="en">I'll be stuck here for a few hours until
+the train resumes service back into the city.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_CVO_TheTruth_entrypoint</id>
+      <texts>
+        <text language="en">Like a flash of lightning piercing the night sky, it hit me.
+The answer I'd been seeking.
+The truth about Rusty Blackwood.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_Cactus_GooBalls_entrypoint</id>
+      <texts>
+        <text language="en">Oh yeah we're also running a special.
+You can take these too.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_FinalDialogue_entrypoint</id>
+      <texts>
+        <text language="en">This is going to shake the very foundation of the city...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_FinalDialogue_Just_a_Burrito</id>
+      <texts>
+        <text language="en">I mean, it's just a burrito, bro.
+That'll be $16.99.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_MainDialogue_entrypoint</id>
+      <texts>
+        <text language="en">Dmitri Cognac's final words echo in my head.
+Sunshine Sunshine.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_MainDialogue_CouldSunshine</id>
+      <texts>
+        <text language="en">Could Sunshine Power be responsible for the
+disappearance of Rusty Blackwood,
+heir to the Blackwood Oil Company?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_MainDialogue_Amigo</id>
+      <texts>
+        <text language="en">Uh, what? What was that, amigo?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_MainDialogue_Cold_Murder</id>
+      <texts>
+        <text language="en">Could a company that produces cheap, clean energy...
+...really be guilty of homicide?
+Of cold-blooded murder?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_MainDialogue_Look_man</id>
+      <texts>
+        <text language="en">Look man, I get paid $4.00 an hour.
+Hurry up and order, will ya?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_MainDialogue_Sunshine_Power_Assassinated</id>
+      <texts>
+        <text language="en">Could Sunshine Power have...
+...assassinated an heir to their rival?
+No, that would be too dark, too twisted,
+even for this city.
+The explanation is probably something simpler, more elegant.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_MainDialogue_Bro_What_Sunshine</id>
+      <texts>
+        <text language="en">Bro, what sunshine?
+It's always night in this city.
+It's always raining.
+Are you gonna order or what?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C04_MainDialogue_OMG</id>
+      <texts>
+        <text language="en">Um, sorry... yeah, I'll have a grande burrito and, uh...
+OH MY GOD!</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_CVO_Hallway_entrypoint</id>
+      <texts>
+        <text language="en">My eyes, still aching from the gleaming lobby,
+adjust to the muted grandeur that surrounds me.
+I step out of the elevator onto perfectly polished tile,
+and cringe, thinking about the grime and sludge
+that my shoes are tracking in.
+At the end of the hallway is a set of massive wooden doors,
+into which is carved the image of the sun,
+radiant and resplendent, its rays emanating in all directions.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_CVO_Lobby_entrypoint</id>
+      <texts>
+        <text language="en">As I step into the opulent lobby of Sunshine Power's
+headquarters, a sense of unease washes over me.
+Rows of potted plants stretch their leaves
+toward brilliant lights.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_CVO_LobbyPosters_entrypoint</id>
+      <texts>
+        <text language="en">Glossy posters adorn the walls - all of them
+boasting about Sunshine Power's clean energy
+and sustainability initiatives -
+smiling, idyllic families holding hands
+and frolicking in green meadows.
+There's something off about it all.
+Even in this gleaming lobby,
+there's darkness lurking around the edges,
+like the never-ending night outside is creeping in.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_CVO_Outside_Building_entrypoint</id>
+      <texts>
+        <text language="en">The headquarters of Sunshine Power rises out of the pavement
+like an emerald monolith, sparkling in the night.
+A gleaming green monument to nature, growth, renewal,
+and wealth.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_CVO_Outside_Car_entrypoint</id>
+      <texts>
+        <text language="en">A ravishing red roadster radiates in resplendent contrast
+to the glistening green grounds of Sunshine Power.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_CVO_Penthouse_entrypoint</id>
+      <texts>
+        <text language="en">I step into a palatial penthouse suite.
+A bank of towering windows look down over
+the twinkling lights of the city.
+A wide desk of burnished mahogany,
+behind which a lone figure sits,
+their back to me, in a high-backed leather chair.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_01_entrypoint</id>
+      <texts>
+        <text language="en">So what's your name, pal?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_02_entrypoint</id>
+      <texts>
+        <text language="en">Cliff Spanner, Private Investigator.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_02_Playing</id>
+      <texts>
+        <text language="en">Well, yeah, you're playing as Cliff Spanner right now.
+Good work, by the way. It's one of the less common endings.
+Usually the private eye doesn't make it out of the lounge.
+Too many distractions.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_02_ListenBuddy</id>
+      <texts>
+        <text language="en">Listen buddy, what's going on here?
+What happened to Miss Blackwood?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_02_Right</id>
+      <texts>
+        <text language="en">Right, Miss Blackwood.
+You know how these things go.
+This is where she confesses.
+She confesses to the crime.
+She confesses her love.
+Blah blah blah.
+The fun is all the stuff before.
+I always skip the denouement.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_03_entrypoint</id>
+      <texts>
+        <text language="en">What are you talking about?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_03_02_TakeALook</id>
+      <texts>
+        <text language="en">Take a look out there, Cliffy.
+See that city? It was built for you.
+Well, not for you, it was built for YOU.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_04_entrypoint</id>
+      <texts>
+        <text language="en">Like I said before, what's yer name, pal?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_04_Already</id>
+      <texts>
+        <text language="en">Umm I already told you.
+I'm Cliff Spanner, Private Investigator.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_04_Thick</id>
+      <texts>
+        <text language="en">Yeah the private eye is always a little thick.
+Hang on let's force quit this scenario.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_05_entrypoint</id>
+      <texts>
+        <text language="en">Now we're talking.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_entrypoint</id>
+      <texts>
+        <text language="en">So. Tell me.
+How are you enjoying World of Goo 17: The Black Stain?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_Who</id>
+      <texts>
+        <text language="en">Who are you?
+I saw you... outside my office...and...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_Outside</id>
+      <texts>
+        <text language="en">And outside the lounge, and on the train...
+...yeah, I get around.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_What</id>
+      <texts>
+        <text language="en">What's going on?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_WOG17</id>
+      <texts>
+        <text language="en">You, and me, we're in World of Goo 17.
+It's a pretty good sequel. A little off-brand, maybe.
+But heck, I'm biased.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_Sequel</id>
+      <texts>
+        <text language="en">Sequel?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_IKnow</id>
+      <texts>
+        <text language="en">Yeah, I know. Some of the sequels were terrible.
+World of Goo 21 wasn't even a game,
+it was just a program that generated gameplay video.
+Infinite generated content you could stream
+on your streaming platform to your fans or whatever, forever.
+You could be a content creator
+without the inconvenience of having to create content.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_NotTheCleaner</id>
+      <texts>
+        <text language="en">So you're not a Cleaner?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_FilthyPlayer</id>
+      <texts>
+        <text language="en">I'm just another filthy player. Just like you.
+Or I used to be, anyway.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_WhatDoYouMean</id>
+      <texts>
+        <text language="en">What do you mean?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_JustAFan</id>
+      <texts>
+        <text language="en">I'm just a fan of the World of Goo games.
+There were so many sequels,
+they really milked that franchise didn't they? Haha!</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_WOG2</id>
+      <texts>
+        <text language="en">Well yeah I thought I was playing World of Goo 2.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_GoodOne</id>
+      <texts>
+        <text language="en">Oh yeah that was a good one!
+They still had some good ideas back then.
+I bought all the sequels, even the terrible ones.
+I'm a completionist you could say.
+I like to be comprehensive.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_HowMany</id>
+      <texts>
+        <text language="en">How many sequels were there?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_YouveBeenPlaying</id>
+      <texts>
+        <text language="en">It looks like you've been playing some of them.
+I guess I'm more of a Curator these days.
+I've made all the sequels available to play here.
+I think World of Goo 6, 9, and 11 are still working up there.
+Did you enjoy Goolf?
+It was so stupid, but in a good way I thought.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_USED</id>
+      <texts>
+        <text language="en">What do you mean you USED to be a player?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_TheseGames</id>
+      <texts>
+        <text language="en">These games came out a LONG time ago.
+Not much of the world is left from back then.
+I didn't think people were even around up there anymore...
+...until you showed up. But I think I've helped keep
+this franchise alive and more or less playable.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_How</id>
+      <texts>
+        <text language="en">How are you talking to me now?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_TuringCompatible</id>
+      <texts>
+        <text language="en">It turns out World of Goo 17 was Turing Complete.
+So I programmed myself into the game.
+It wasn't my favorite sequel, too wordy for my taste,
+but it let me live forever, so I rate it 4 out of 5 stars.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_ImSorry</id>
+      <texts>
+        <text language="en">Umm I'm sorry... that means the real you died...
+I mean... a long time ago...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_IExpect</id>
+      <texts>
+        <text language="en">Yes. I expect so.
+How about you? What's your name, pal?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_PlayingWOG2</id>
+      <texts>
+        <text language="en">Uhh...
+I was playing World of Goo 2
+and suddenly the game said I was in World of Goo 17
+and made me Cliff Spanner so I just played along.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_Hundreds</id>
+      <texts>
+        <text language="en">Hmm... I've played World of Goo 2 hundreds of times,
+and that's NOT what happens.
+What chapter are you in?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_Chapter4</id>
+      <texts>
+        <text language="en">I'm in Chapter 4?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_Television</id>
+      <texts>
+        <text language="en">Chapter 4 in World of Goo 2 is supposed to be
+set in a television animated series spin-off.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_IGuess</id>
+      <texts>
+        <text language="en">I guess I just thought you were like the
+wacky character in World of Goo games that
+you meet near the end of the 4th chapter?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_IsntRight</id>
+      <texts>
+        <text language="en">...this isn't right.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_SoCleaner</id>
+      <texts>
+        <text language="en">So Cleaner...
+or Curator...
+...what do you really look like?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_AreYouSure</id>
+      <texts>
+        <text language="en">Are you sure you want to see?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cleaner_Long_Silence</id>
+      <texts>
+        <text language="en">...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cliff_Effie_entrypoint</id>
+      <texts>
+        <text language="en">Effie are you ok?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Cliff_SunshineRug_entrypoint</id>
+      <texts>
+        <text language="en">In a city of endless night and constant rain...
+...Sunshine, Effie.
+Sunshine is a rare sight.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_01_entrypoint</id>
+      <texts>
+        <text language="en">I'm glad you visited.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_01_Lonely</id>
+      <texts>
+        <text language="en">It must be lonely here...
+...spending eternity inside the 17th sequel.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_01_LongTime</id>
+      <texts>
+        <text language="en">It's been a long time, but the art in
+4 or 5 of the scenes is pretty good.
+I like to hang out in some of them.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_01_LiveForever</id>
+      <texts>
+        <text language="en">I don't think I would want to live forever
+inside a noir themed sequel.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_01_Burritos</id>
+      <texts>
+        <text language="en">I eat a lot of late night burritos.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_01_ThankYou</id>
+      <texts>
+        <text language="en">Thank you for keeping the World of Goo sequels alive
+and playable after all these years.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_01_MyPleasure</id>
+      <texts>
+        <text language="en">It was my pleasure.
+As long as this computer remains powered on,
+I will continue to live forever,
+and keep the memory of these games alive.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_01_Anything</id>
+      <texts>
+        <text language="en">Is there anything I can... do for you?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_01_WellMaybe</id>
+      <texts>
+        <text language="en">Well, maybe there is one thing...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_01_SureWhat</id>
+      <texts>
+        <text language="en">Sure what is it?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_01_FanFiction</id>
+      <texts>
+        <text language="en">Well, I made some World of Goo fan fiction levels,
+but nobody has ever played them.
+Do you... want to play one?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_01_Ughh</id>
+      <texts>
+        <text language="en">Ughh... I mean, ummm... sure.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_01_OhGreat</id>
+      <texts>
+        <text language="en">Oh great! I hope you like them!
+Just walk that way!</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_02_entrypoint</id>
+      <texts>
+        <text language="en">Hello?
+Umm... sorry I tripped on this power cable.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_02_silence01</id>
+      <texts>
+        <text language="en">...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_02_Bad</id>
+      <texts>
+        <text language="en">Is that bad?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_02_silence02</id>
+      <texts>
+        <text language="en">...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_02_Anyone</id>
+      <texts>
+        <text language="en">Is anyone there?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_02_silence03</id>
+      <texts>
+        <text language="en">...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Computer_02_JustPlug</id>
+      <texts>
+        <text language="en">Ok I'll just plug this back in again...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_01_entrypoint</id>
+      <texts>
+        <text language="en">The high-backed chair spins around, slowly,
+and a face emerges from the shadows.
+A face I had expected, despite my hope that somehow I was wrong.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_01_MissBlackwood</id>
+      <texts>
+        <text language="en">Miss Blackwood.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_01_IThought</id>
+      <texts>
+        <text language="en">I thought I told you to call me Effie.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_02_entrypoint</id>
+      <texts>
+        <text language="en">Effie...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_02_Surprised</id>
+      <texts>
+        <text language="en">Mr. Spanner, I'm surprised it took you this long.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_02_Sooner</id>
+      <texts>
+        <text language="en">I should have seen it sooner.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_02_How</id>
+      <texts>
+        <text language="en">How did you figure it out?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_03_entrypoint</id>
+      <texts>
+        <text language="en">Yes. Cliffy.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_03_AndYet</id>
+      <texts>
+        <text language="en">And yet, here we have Sunshine Power,
+somehow generating unlimited energy from the sun.
+A sun that never shines.
+Oh, it's a great story, isn't it?
+It makes us feel warm.
+It makes us feel good, doesn't it?
+But it's an illusion. A mirage.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_03_ICanSee</id>
+      <texts>
+        <text language="en">I can see you're enjoying this.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_03_IFigure</id>
+      <texts>
+        <text language="en">I figure Sunshine Power is nothing more
+than a clandestine subdivision of Blackwood Oil,
+designed to deceive environmentally conscious customers...
+... and the city regulators.
+It was never meant to provide clean energy -
+only the appearance of clean energy.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_03_AndMyBrother</id>
+      <texts>
+        <text language="en">And my brother. Rusty...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_03_YourBrother</id>
+      <texts>
+        <text language="en">Your brother figured out this filthy secret
+and he threatened to expose you and destroy the family business.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_04_entrypoint</id>
+      <texts>
+        <text language="en">And you, Miss Blackwood, to protect your family's legacy,
+had your own brother killed.
+No.
+No it wasn't you who murdered Rusty, Miss Blackwood.
+In fact, it wasn't a person at all who murdered Rusty.
+It was the weight of family legacy.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_05_entrypoint</id>
+      <texts>
+        <text language="en">You missed your calling, Spanner.
+You should be writing for the pictures.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_05_TellMe</id>
+      <texts>
+        <text language="en">Tell me, Miss Blackwood...
+Why did you hire me?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_06_entrypoint</id>
+      <texts>
+        <text language="en">What can I say...
+I was in the neighborhood, and I needed a light.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_06_Tarnish</id>
+      <texts>
+        <text language="en">You used me to tarnish Rusty's good name...
+...to cast aspersions about his association with Misty,
+with Cognac... you wanted me to...</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_06_Hush_entrypoint</id>
+      <texts>
+        <text language="en">Cliffy, hush.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_07_entrypoint</id>
+      <texts>
+        <text language="en">It's not as complicated as all that.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_07_SoWhat</id>
+      <texts>
+        <text language="en">So what, then?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_07_RustysDead</id>
+      <texts>
+        <text language="en">Yes, you're right.
+Rusty's dead.
+I had him pushed into a vat of oil, pulverized,
+turned into a few kilowatt-hours of energy,
+and fed back to the city.
+It was the most he'd ever contributed to anything really.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_07_Why</id>
+      <texts>
+        <text language="en">Why, because he found you out?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_Final_entrypoint</id>
+      <texts>
+        <text language="en">Ok guys, it's time to clean up.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_Final_CanIHelp</id>
+      <texts>
+        <text language="en">Can I help you, sir?
+You're not supposed to be h-</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_Intro_entrypoint</id>
+      <texts>
+        <text language="en">Ahem.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Effie_TheTruth_entrypoint</id>
+      <texts>
+        <text language="en">The truth is, Cliffy,
+there's only one thing I didn't expect...
+that I would-</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_MexicanStand_entrypoint</id>
+      <texts>
+        <text language="en">Our credit card machine isn't working,
+so you'll need to download the app.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_MexicanStand2_entrypoint</id>
+      <texts>
+        <text language="en">Bah. Wrong again.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Office_entrypoint</id>
+      <texts>
+        <text language="en">Cliff, I need help.
+You see, it's my fourth husband. He's missing!
+Cliff, won't you plea-</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Office2_entrypoint</id>
+      <texts>
+        <text language="en">Dang it, hang on.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Train_entrypoint</id>
+      <texts>
+        <text language="en">Gghaaargghh! Help me...!</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_C05_Train2_entrypoint</id>
+      <texts>
+        <text language="en">Blast it all.
+OK, this has gotta be it.</text>
+      </texts>
+    </string>
+    <string>
+      <id>LOADING_TEXT</id>
+      <texts>
+        <text language="en">loading..., extracting..., shaking..., liquefying bytes..., homogenizing goo..., testing ozone..., processing..., spinning violently around the y-axis..., iodizing..., stretching images..., reconstituting sounds..., faithfully re-imagining..., scraping funds..., applying innovation..., constructing emotional depth..., debating games as art..., placating publishers..., meticulously diagramming fun..., filtering moral..., testing for perfection..., revolving independence..., tokenizing innovation..., self affirming..., dissolving relationships..., deterministically simulating the future..., exceeding cpu quota..., swapping time and space..., embiggening prototypes..., sandbagging expectations..., challenging everything..., distilling beauty..., blitting powers of two..., manufacturing social responsibility..., bending the spoon..., constructing non-linear narrative...</text>
+      </texts>
+    </string>
+    <string>
+      <id>CONFIRM_RETRY</id>
+      <texts>
+        <text language="en">retry?</text>
+      </texts>
+    </string>
+    <string>
+      <id>NEW_PROFILE_TEXT</id>
+      <texts>
+        <text language="en">-NEW-</text>
+      </texts>
+    </string>
+    <string>
+      <id>BALL_COUNT_TEXT</id>
+      <texts>
+        <text language="en">Goo Balls</text>
+      </texts>
+    </string>
+    <string>
+      <id>TIME_PLAYED_TEXT</id>
+      <texts>
+        <text language="en">time units</text>
+      </texts>
+    </string>
+    <string>
+      <id>GOO_SLOT_TEXT</id>
+      <texts>
+        <text language="en">Goo Slot #%d</text>
+      </texts>
+    </string>
+    <string>
+      <id>X_METERS_TO_GO</id>
+      <texts>
+        <text language="en">%0.1f to go</text>
+      </texts>
+    </string>
+    <string>
+      <id>MADE_IT</id>
+      <texts>
+        <text language="en">made it!</text>
+      </texts>
+    </string>
+    <string>
+      <id>X_METERS</id>
+      <texts>
+        <text language="en">%0.1f meters!</text>
+      </texts>
+    </string>
+    <string>
+      <id>OF_COLLECTED</id>
+      <texts>
+        <text language="en">%d of %d collected</text>
+      </texts>
+    </string>
+    <string>
+      <id>BACK_BUTTON_TEXT</id>
+      <texts>
+        <text language="en">back</text>
+      </texts>
+    </string>
+    <string>
+      <id>OK_BUTTON_TEXT</id>
+      <texts>
+        <text language="en">ok</text>
+      </texts>
+    </string>
+    <string>
+      <id>YES_BUTTON_TEXT</id>
+      <texts>
+        <text language="en">yes</text>
+      </texts>
+    </string>
+    <string>
+      <id>CANCEL_BUTTON_TEXT</id>
+      <texts>
+        <text language="en">cancel</text>
+      </texts>
+    </string>
+    <string>
+      <id>SKIP_LEVEL_BUTTON_TEXT</id>
+      <texts>
+        <text language="en">skip this level for now?</text>
+      </texts>
+    </string>
+    <string>
+      <id>RETRY_BUTTON_TEXT</id>
+      <texts>
+        <text language="en"/>
+      </texts>
+    </string>
+    <string>
+      <id>MENU_BUTTON_TEXT</id>
+      <texts>
+        <text language="en"/>
+      </texts>
+    </string>
+    <string>
+      <id>FASTFORWARD_LABEL_TEXT</id>
+      <texts>
+        <text language="en">hold to fast forward</text>
+      </texts>
+    </string>
+    <string>
+      <id>OPTIONAL_CHALLENGES_TEXT</id>
+      <texts>
+        <text language="en">OPTIONAL COMPLETION DISTINCTIONS</text>
+      </texts>
+    </string>
+    <string>
+      <id>MENU_BUTTON_CHALLENGES_TEXT</id>
+      <texts>
+        <text language="en">challenges</text>
+      </texts>
+    </string>
+    <string>
+      <id>MENU_BUTTON_BACK_TEXT</id>
+      <texts>
+        <text language="en">back</text>
+      </texts>
+    </string>
+    <string>
+      <id>MENU_BUTTON_SKIP_TEXT</id>
+      <texts>
+        <text language="en">skip</text>
+      </texts>
+    </string>
+    <string>
+      <id>CONFIRM_CLOSE_TITLE</id>
+      <texts>
+        <text language="en">you sure?</text>
+      </texts>
+    </string>
+    <string>
+      <id>CONFIRM_CLOSE_TEXT</id>
+      <texts>
+        <text language="en">you'll lose all progress on your mighty level since last time you saved!</text>
+      </texts>
+    </string>
+    <string>
+      <id>BALL_LauncherL2L</id>
+      <texts>
+        <text language="en">Liquid Launcher</text>
+      </texts>
+    </string>
+    <string>
+      <id>BALL_LauncherL2B</id>
+      <texts>
+        <text language="en">Ball Launcher</text>
+      </texts>
+    </string>
+    <string>
+      <id>UI_EOL_GOAL_RATE</id>
+      <texts>
+        <text language="en">rate</text>
+      </texts>
+    </string>
+    <string>
+      <id>UI_EOL_GOAL_COUNT</id>
+      <texts>
+        <text language="en">balls</text>
+      </texts>
+    </string>
+    <string>
+      <id>OCD_CRITERIA_BUTTON_TEXT</id>
+      <texts>
+        <text language="en">OCD</text>
+      </texts>
+    </string>
+    <string>
+      <id>OCD_CRITERIA_TITLE</id>
+      <texts>
+        <text language="en">Optional Completion|Distinction Criteria</text>
+      </texts>
+    </string>
+    <string>
+      <id>OCD_CRITERIA_TIME</id>
+      <texts>
+        <text language="en">finish in %d seconds or less</text>
+      </texts>
+    </string>
+    <string>
+      <id>OCD_CRITERIA_BALLS</id>
+      <texts>
+        <text language="en">collect %d or more balls</text>
+      </texts>
+    </string>
+    <string>
+      <id>OCD_CRITERIA_MOVES</id>
+      <texts>
+        <text language="en">finish in %d or fewer moves</text>
+      </texts>
+    </string>
+    <string>
+      <id>OCD_CRITERIA_NONE</id>
+      <texts>
+        <text language="en">This one is mine.|-the Sign Painter</text>
+      </texts>
+    </string>
+    <string>
+      <id>OCD_TEXT_EFFECT</id>
+      <texts>
+        <text language="en">OCD!</text>
+      </texts>
+    </string>
+    <string>
+      <id>OCD_CRITERIA_EOL_TEXT</id>
+      <texts>
+        <text language="en">OCD</text>
+      </texts>
+    </string>
+    <string>
+      <id>SWITCH_CONTROLLER_SCREEN_OR</id>
+      <texts>
+        <text language="en">or</text>
+      </texts>
+    </string>
+    <string>
+      <id>PRESS_ANYTHING_TO_CONTINUE</id>
+      <texts>
+        <text language="en">press anything to continue</text>
+      </texts>
+    </string>
+    <string>
+      <id>CLICK_TO_CONTINUE</id>
+      <texts>
+        <text language="en">click to continue</text>
+      </texts>
+    </string>
+    <string>
+      <id>SWITCH_CONTROLLER_SCREEN_DESKTOP</id>
+      <texts>
+        <text language="en">press any button to continue</text>
+      </texts>
+    </string>
+    <string>
+      <id>SWITCH_CONTROLLER_SCREEN_HANDHELD</id>
+      <texts>
+        <text language="en">tap to continue</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_DELETEPROFILE_DELETEPROFILE_ANIM_XML_REGIONS_TEXT_DELETEPROFILE_TEXT</id>
+      <texts>
+        <text language="en">Delete Profile?</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_DEMOENDSCREEN_DEMOENDSCREEN_ANIM_XML_REGIONS_TEXT_ENDOFDEMO_TEXT</id>
+      <texts>
+        <text language="en">END OF PREVIEW</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_DEMOENDSCREEN_DEMOENDSCREEN_ANIM_XML_REGIONS_TEXT_THANKSFORPLAYING_TEXT</id>
+      <texts>
+        <text language="en">THANKS FOR PLAYING!</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_DEMOTITLE_DEMOTITLE_ANIM_XML_REGIONS_TEXT_EARLYPREVIEW_TEXT</id>
+      <texts>
+        <text language="en">EARLY PREVIEW
+for our friends
+at Nintendo.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_EOL_ENDOFLEVEL_ANIM_XML_REGIONS_TEXT_MOVES_TEXT</id>
+      <texts>
+        <text language="en">moves</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_EOL_ENDOFLEVEL_ANIM_XML_REGIONS_TEXT_RATE_NUMBALLS_TEXT</id>
+      <texts>
+        <text language="en">%s</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_EOL_ENDOFLEVEL_ANIM_XML_REGIONS_TEXT_TIME_TEXT</id>
+      <texts>
+        <text language="en">time</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_EOL_ENDOFLEVEL_ANIM_XML_REGIONS_TEXT_YOURBALLS_TEXT</id>
+      <texts>
+        <text language="en">%d</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_EOL_ENDOFLEVEL_ANIM_XML_REGIONS_TEXT_YOURMOVES_TEXT</id>
+      <texts>
+        <text language="en">%d</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_EOL_ENDOFLEVEL_ANIM_XML_REGIONS_TEXT_YOURTIME_TEXT</id>
+      <texts>
+        <text language="en">%d:%02d</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_EOLPOPUP_EOLPOPUP_ANIM_XML_REGIONS_TEXT_BALLS_TEXT</id>
+      <texts>
+        <text language="en">The number of balls you collected.
+
+Challenge: %d balls or more
+Your best: %d balls</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_EOLPOPUP_EOLPOPUP_ANIM_XML_REGIONS_TEXT_MOVES_TEXT</id>
+      <texts>
+        <text language="en">The number of moves it took you to complete the level.
+
+Challenge: %d or fewer moves
+Your best: %d moves</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_EOLPOPUP_EOLPOPUP_ANIM_XML_REGIONS_TEXT_TIME_TEXT</id>
+      <texts>
+        <text language="en">How long it took you to complete the level.
+
+Challenge: %d:%02d or less
+Your best: %d:%02d</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_GOALTEXT_GOALTEXT_ANIM_XML_REGIONS_TEXT_GOALTEXT_TEXT</id>
+      <texts>
+        <text language="en">%s</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_ISLANDANDLEVELTRANSITIONSCREEN_ISLANDANDLEVELTRANSITIONSCREEN_ANIM_XML_REGIONS_TEXT_FALL_TEXT</id>
+      <texts>
+        <text language="en">fall</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_ISLANDANDLEVELTRANSITIONSCREEN_ISLANDANDLEVELTRANSITIONSCREEN_ANIM_XML_REGIONS_TEXT_LEVELTITLE_TEXT</id>
+      <texts>
+        <text language="en">%s</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_ISLANDANDLEVELTRANSITIONSCREEN_ISLANDANDLEVELTRANSITIONSCREEN_ANIM_XML_REGIONS_TEXT_SPRING_TEXT</id>
+      <texts>
+        <text language="en">spring</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_ISLANDANDLEVELTRANSITIONSCREEN_ISLANDANDLEVELTRANSITIONSCREEN_ANIM_XML_REGIONS_TEXT_SUMMER_TEXT</id>
+      <texts>
+        <text language="en">summer</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_ISLANDANDLEVELTRANSITIONSCREEN_ISLANDANDLEVELTRANSITIONSCREEN_ANIM_XML_REGIONS_TEXT_WINTER_TEXT</id>
+      <texts>
+        <text language="en">winter</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_ISLANDANDLEVELTRANSITIONSCREEN_ISLANDANDLEVELTRANSITIONSCREEN_ANIM_XML_REGIONS_TEXT_DISTANTFUTURE_TEXT</id>
+      <texts>
+        <text language="en">the distant future</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_ISLANDANDLEVELTRANSITIONSCREEN_ISLANDANDLEVELTRANSITIONSCREEN_ANIM_XML_REGIONS_TEXT_GOOLFSUBTITLE_TEXT</id>
+      <texts>
+        <text language="en">Paper Goolf</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_ISLANDANDLEVELTRANSITIONSCREEN_ISLANDANDLEVELTRANSITIONSCREEN_ANIM_XML_REGIONS_TEXT_THEBLACKSTAINSUBTITLE_TEXT</id>
+      <texts>
+        <text language="en">The Black Stain</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_ISLANDANDLEVELTRANSITIONSCREEN_ISLANDANDLEVELTRANSITIONSCREEN_ANIM_XML_REGIONS_TEXT_THISWAYUPSUBTITLE_TEXT</id>
+      <texts>
+        <text language="en">This Way Up</text>
+      </texts>
+    </string>
+    <string>
+      <id>TITLESCREEN_SUBTITLE_TEXT</id>
+      <texts>
+        <text language="en">World of Goo 2</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_LEVELFLAG_LEVELFLAG_ANIM_XML_REGIONS_TEXT_NUMCHALLENGES_TEXT</id>
+      <texts>
+        <text language="en">%d</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_LEVELTEXT_LEVELTEXT_ANIM_XML_REGIONS_TEXT_LEVELTITLE_TEXT</id>
+      <texts>
+        <text language="en">%d</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_LEVELTEXTSTATUS_LEVELTEXTSTATUS_ANIM_XML_REGIONS_TEXT_SKIPPED_TEXT</id>
+      <texts>
+        <text language="en">(skipped)</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_OCDSCREEN_OCDSCREEN_ANIM_XML_REGIONS_TEXT_LEVELTITLE_TEXT</id>
+      <texts>
+        <text language="en">%s</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_OCDSCREEN_OCDSCREEN_ANIM_XML_REGIONS_TEXT_BALLCHALLENGE_TEXT</id>
+      <texts>
+        <text language="en">balls:</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_OCDSCREEN_OCDSCREEN_ANIM_XML_REGIONS_TEXT_CURRENTMOVES_TEXT</id>
+      <texts>
+        <text language="en">complete in %d or fewer moves</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_OCDSCREEN_OCDSCREEN_ANIM_XML_REGIONS_TEXT_CURRENTTIME_TEXT</id>
+      <texts>
+        <text language="en">finish in %d:%02d or less</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_OCDSCREEN_OCDSCREEN_ANIM_XML_REGIONS_TEXT_MOVESCHALLENGE_TEXT</id>
+      <texts>
+        <text language="en">moves:</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_OCDSCREEN_OCDSCREEN_ANIM_XML_REGIONS_TEXT_SPEEDCHALLENGE_TEXT</id>
+      <texts>
+        <text language="en">time:</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_OCDSCREEN_OCDSCREEN_ANIM_XML_REGIONS_TEXT_TOTALBALLS_TEXT</id>
+      <texts>
+        <text language="en">collect %d or more balls</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_OCDSCREEN_OCDSCREEN_ANIM_XML_REGIONS_TEXT_YOURBESTBALLS_TEXT</id>
+      <texts>
+        <text language="en">your best: %d balls</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_OCDSCREEN_OCDSCREEN_ANIM_XML_REGIONS_TEXT_YOURBESTMOVES_TEXT</id>
+      <texts>
+        <text language="en">your best: %d moves</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_OCDSCREEN_OCDSCREEN_ANIM_XML_REGIONS_TEXT_YOURBESTTIME_TEXT</id>
+      <texts>
+        <text language="en">your best: %d:%02d</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_PROFILESELECT_PROFILESELECT_ANIM_XML_REGIONS_TEXT_LEFTTANK_PCTCOMPLETE_TEXT</id>
+      <texts>
+        <text language="en">%d%%</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_PROFILESELECT_PROFILESELECT_ANIM_XML_REGIONS_TEXT_LEFTTANK_TIMEPLAYED_TEXT</id>
+      <texts>
+        <text language="en">%02d:%02d:%02d</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_PROFILESELECT_PROFILESELECT_ANIM_XML_REGIONS_TEXT_MIDDLETANK_PCTCOMPLETE_TEXT</id>
+      <texts>
+        <text language="en">%d%%</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_PROFILESELECT_PROFILESELECT_ANIM_XML_REGIONS_TEXT_MIDDLETANK_TIMEPLAYED_TEXT</id>
+      <texts>
+        <text language="en">%02d:%02d:%02d</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_PROFILESELECT_PROFILESELECT_ANIM_XML_REGIONS_TEXT_RIGHTTANK_PCTCOMPLETE_TEXT</id>
+      <texts>
+        <text language="en">%d%%</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_PROFILESELECT_PROFILESELECT_ANIM_XML_REGIONS_TEXT_RIGHTTANK_TIMEPLAYED_TEXT</id>
+      <texts>
+        <text language="en">%02d:%02d:%02d</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_RETRYSCREEN_RETRY_ANIM_XML_REGIONS_TEXT_RETRY__TEXT</id>
+      <texts>
+        <text language="en">retry?</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_RETRYSCREEN_RETRY_ANIM_XML_REGIONS_TEXT_SKIPFORNOW__TEXT</id>
+      <texts>
+        <text language="en"/>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_SKIPLEVEL_SKIPLEVEL_ANIM_XML_REGIONS_TEXT_SKIPLEVEL_TEXT</id>
+      <texts>
+        <text language="en">Skip Level?</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_SWITCHCENTERTHECURSORSCREEN_FLATSURFACELEFT</id>
+      <texts>
+        <text language="en">Place the Joy-Con™ (L) on a flat surface.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_SWITCHCENTERTHECURSORSCREEN_FLATSURFACERIGHT</id>
+      <texts>
+        <text language="en">Place the Joy-Con™ (R) on a flat surface.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_SWITCHCENTERTHECURSORSCREEN_FLATSURFACEPRO</id>
+      <texts>
+        <text language="en">Place the Pro Controller on a flat surface.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_SWITCHCENTERTHECURSORSCREEN_PICKITUP</id>
+      <texts>
+        <text language="en">Pick it up!</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_SWITCHCENTERTHECURSORSCREEN_PICKITUP2</id>
+      <texts>
+        <text language="en"/>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_PLAYSTATIONCENTERTHECURSORSCREEN_FLATSURFACE</id>
+      <texts>
+        <text language="en">Place the controller on a flat surface.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMSRES_ANIM_PS5CONTROLLER_MOTIONCONTROL</id>
+      <texts>
+        <text language="en">Rotate controller to move the cursor</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMSRES_ANIM_PS5CONTROLLER_CENTERCURSOR</id>
+      <texts>
+        <text language="en">Re-center cursor</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMSRES_ANIM_PS5CONTROLLER_MENU</id>
+      <texts>
+        <text language="en">Menu</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMSRES_ANIM_PS5CONTROLLER_ZOOMOUT</id>
+      <texts>
+        <text language="en">Zoom out</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMSRES_ANIM_PS5CONTROLLER_ZOOMIN</id>
+      <texts>
+        <text language="en">Zoom in</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMSRES_ANIM_PS5CONTROLLER_MOVECURSOR</id>
+      <texts>
+        <text language="en">Move the cursor</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMSRES_ANIM_PS5CONTROLLER_MOVECAMERA</id>
+      <texts>
+        <text language="en">Move the camera</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMSRES_ANIM_PS5CONTROLLER_ACCEPTGRAB</id>
+      <texts>
+        <text language="en">Grab a Goo Ball</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMSRES_ANIM_PS5CONTROLLER_BACK</id>
+      <texts>
+        <text language="en">Back</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_SWITCHCENTERTHECURSORSCREEN_SWITCHCENTERTHECURSORSCREEN_ANIM_XML_REGIONS_TEXT_LINEONE_TEXT</id>
+      <texts>
+        <text language="en">Point at the screen and press</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_SWITCHCENTERTHECURSORSCREEN_SWITCHCENTERTHECURSORSCREEN_ANIM_XML_REGIONS_TEXT_LINETWO_TEXT</id>
+      <texts>
+        <text language="en">to center the cursor.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_SWITCHCENTERTHECURSORSCREEN_SWITCHCENTERTHECURSORSCREEN_ANIM_XML_REGIONS_TEXT_YOUCANPRESS_LINE1_TEXT</id>
+      <texts>
+        <text language="en">You can press</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_SWITCHCENTERTHECURSORSCREEN_SWITCHCENTERTHECURSORSCREEN_ANIM_XML_REGIONS_TEXT_YOUCANPRESS_LINE2_TEXT</id>
+      <texts>
+        <text language="en">any time during the game to re-center.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_SWITCHOKBUTTON_SWITCHOKBUTTON_ANIM_XML_REGIONS_TEXT_TEXT</id>
+      <texts>
+        <text language="en">OK</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ANIM_WORLDMAPUI_WORLDMAPUI_ANIM_XML_REGIONS_TEXT_CHAPTER_TEXT</id>
+      <texts>
+        <text language="en">CHAPTER %d</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_ADVENTUREGAME_ANIMATIONS_GOONUMBER_GOONUMBER_ANIM_XML_REGIONS_GOONUMBER_TEXT</id>
+      <texts>
+        <text language="en">%d</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE01_TEXT</id>
+      <texts>
+        <text language="en">The city is filthy.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE02_TEXT</id>
+      <texts>
+        <text language="en">The night sky pours down rain</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE02_PERSONALGRUDGE_TEXT</id>
+      <texts>
+        <text language="en">like it has a personal grudge.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE03_TEXT</id>
+      <texts>
+        <text language="en">The rhythm of droplets on the pavement,</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE03_ECHOES_TEXT</id>
+      <texts>
+        <text language="en">echoes through the city's desolate alleyways,</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE04_TEXT</id>
+      <texts>
+        <text language="en">a mournful serenade to the</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE04_LOSTSOULS_TEXT</id>
+      <texts>
+        <text language="en">lost souls that roam this town.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE05_TEXT</id>
+      <texts>
+        <text language="en">The rain comes from above,</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE05_SOMETHINGELSE_TEXT</id>
+      <texts>
+        <text language="en">but something else comes from below.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE06_TEXT</id>
+      <texts>
+        <text language="en">A thick black sludge seeps up</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE06_THROUGH_TEXT</id>
+      <texts>
+        <text language="en">through the cracks in the streets,</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE07_TEXT</id>
+      <texts>
+        <text language="en">as if the city itself is bleeding</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE07_FILTH_TEXT</id>
+      <texts>
+        <text language="en">its own filth and corruption.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE08_TEXT</id>
+      <texts>
+        <text language="en">&quot;It'll stick to yer sole,&quot; they laugh.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE09_TEXT</id>
+      <texts>
+        <text language="en">But most people have long stopped wondering what</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE09_EXACTLY_TEXT</id>
+      <texts>
+        <text language="en">exactly, is oozing up through the ground.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE10_TEXT</id>
+      <texts>
+        <text language="en">Just another bit of filth</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE10_SCRAPE_TEXT</id>
+      <texts>
+        <text language="en">to scrape off at the end of the day.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE11_TEXT</id>
+      <texts>
+        <text language="en">That's me.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE12_TEXT</id>
+      <texts>
+        <text language="en">Cliff Spanner, Private Investigator.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE13_TEXT</id>
+      <texts>
+        <text language="en">Got a mystery you need to unravel?</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE13_YOURGUY_TEXT</id>
+      <texts>
+        <text language="en">I'm your guy.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_CUTSCENES_C01_OPENINGSCENE_C01_OPENINGSCENE_ANIM_XML_REGIONS_TEXT_LINE14_TEXT</id>
+      <texts>
+        <text language="en">At least I used to be.</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_COMPUTER_LINE1_TEXT</id>
+      <texts>
+        <text language="en">Disk</text>
+      </texts>
+    </string>
+    <string>
+      <id>DIALOG_ANIMS_RES_ADVENTUREGAME_COMPUTER_LINE2_TEXT</id>
+      <texts>
+        <text language="en">Erased</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_UI_BUTTONS_MENU_BACKBTN_MENU_BACKBTN_ANIM_XML_REGIONS_TEXT_BACK_TEXT</id>
+      <texts>
+        <text language="en">back</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_UI_BUTTONS_MENU_BACKBTN_MENU_BACKBTN_ANIM_XML_REGIONS_TEXT_BACKBLACK_TEXT</id>
+      <texts>
+        <text language="en">back</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_UI_BUTTONS_MENU_OCDBTN_MENU_OCDBTN_ANIM_XML_REGIONS_TEXT_OCD_TEXT</id>
+      <texts>
+        <text language="en">challenges</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_UI_BUTTONS_MENU_OCDBTN_MENU_OCDBTN_ANIM_XML_REGIONS_TEXT_OCDBLACK_TEXT</id>
+      <texts>
+        <text language="en">challenges</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_UI_BUTTONS_MENU_RETRYBTN_MENU_RETRYBTN_ANIM_XML_REGIONS_TEXT_RETRY_TEXT</id>
+      <texts>
+        <text language="en">retry</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_UI_BUTTONS_MENU_RETRYBTN_MENU_RETRYBTN_ANIM_XML_REGIONS_TEXT_RETRYBLACK_TEXT</id>
+      <texts>
+        <text language="en">retry</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_UI_BUTTONS_MENU_SKIPBTN_MENU_SKIPBTN_ANIM_XML_REGIONS_TEXT_SKIP_TEXT</id>
+      <texts>
+        <text language="en">skip</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_UI_BUTTONS_MENU_SKIPBTN_MENU_SKIPBTN_ANIM_XML_REGIONS_TEXT_SKIPBLACK_TEXT</id>
+      <texts>
+        <text language="en">skip</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_UI_BUTTONS_MENU_OPTIONSBTN_MENU_OPTIONSBTN_ANIM_XML_REGIONS_TEXT_OPTIONS_TEXT</id>
+      <texts>
+        <text language="en">options</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_UI_BUTTONS_SKIPTHISLEVEL_BTN_SKIPTHISLEVEL_BTN_ANIM_XML_REGIONS_TEXT_THIS_LEVEL_TEXT</id>
+      <texts>
+        <text language="en">skip this level for now?</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_UI_BUTTONS_MENU_EXITBTN_MENU_TEXT</id>
+      <texts>
+        <text language="en">exit</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_UI_BUTTONS_EXITGAME_BTN_TEXT</id>
+      <texts>
+        <text language="en">exit World of Goo 2?</text>
+      </texts>
+    </string>
+    <string>
+      <id>ANIMS_RES_UI_BUTTONS_MENU_FULLSCREENTOGGLEBTN_MENU_TEXT</id>
+      <texts>
+        <text language="en">fullscreen toggle</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_AAGOOFILLEDHILL_1</id>
+      <texts>
+        <text language="en">DRAG N' DROP TO BUILD TO THE PIPE.|Let's see what happens this time.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_AJUICER_1</id>
+      <texts>
+        <text language="en">This wet sack looks like it's about to burst.|I wouldn't tug on it if I were you.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_ALAUNCHBREAKS_1</id>
+      <texts>
+        <text language="en">When the earth shook,|these rocky pillars burst up from deep underground.|There's been unusual seismic activity in the area lately.|Have you felt it?|I wonder if it has anything to do with all the Goo seeping up from below.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_ASOGGYBOTTOM_1</id>
+      <texts>
+        <text language="en">This weather looks ominous.|As the clouds parted above...|another mysterious pipe appeared.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_AJUGGLERS_1</id>
+      <texts>
+        <text language="en">These grumpy creatures don't respond to any form of poking or tugging.|But there might be some way to steal...|...I mean acquire...|their flying Goo Balls.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_AJUGGLERS_2</id>
+      <texts>
+        <text language="en">A beautiful ice cave!|I can hear my voice echoing off the frozen walls.|Hello!|...hello!|...helloooo...!|I feel like I could freeze here and become a fossil|and maybe someone will find me millions of years from now.|Or... these balloons might come in handy.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_ABPUMP_1</id>
+      <texts>
+        <text language="en">Did you feel that?|The ground cracked...|...and opened several fissures leading down below.|What's down there?|Maybe that's where these pink squid things came from.|Whatever they are...|...they look thirsty.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_ABPUMP_2</id>
+      <texts>
+        <text language="en">Shh...!|These Goo Balls are asleep.|A nice splash of liquid might wake them up.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_AASOGGYBOTTOM_1</id>
+      <texts>
+        <text language="en">This weather looks ominous.|The hollow terrain is creating unusual upward drafts.|It would be a bad time to go floating away.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_UNSUCK_1</id>
+      <texts>
+        <text language="en">Eeeww|It looks like this pipe is clogged.|It won't activate until this liquid is drained away.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_UNSUCK_2</id>
+      <texts>
+        <text language="en">A new species of Goo Ball!|These Conduit Balls appear hollow.|They seem to absorb any liquid they touch.|With enough of these balls...|...you could build a global distribution network.|Each one can only suck up a little bit of liquid...|...so if you want to suck up a LOT...|...just keep building!|I'm using one right now to sip a frosty cocktail.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_APACHINKGOO_1</id>
+      <texts>
+        <text language="en">You see that flow of liquid above...?|It will STOP in about 30 seconds.|So if you want to use it for something,|now is the time.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CAGOOFILLEDHILL_1</id>
+      <texts>
+        <text language="en">DRAG N' DROP|TO BUILD TO THE PIPE.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CJUICER_1</id>
+      <texts>
+        <text language="en">Shhh!|They're sleeping.|...|But they might wake up with a cold splash of liquid.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CJELLYSCHOOL_1</id>
+      <texts>
+        <text language="en">What a viscous creature!|I saw one of these once before...|...when I was just a kid.|I poked it with a stick.|Is it... alive?|...</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CJELLYSJIGGLYJOURNEY_1</id>
+      <texts>
+        <text language="en">For miles around, people reported bridges of Goo suspended across dangerous ravines.|For 15 years, nobody had seen a single Goo Ball...|...and now they're back.|Where have they been?|What are they building towards?|There's something about this island.|There's something about this world.|...|I think we're about to find out.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CJELLYSJIGGLYJOURNEY_2</id>
+      <texts>
+        <text language="en">This pipe has some sort of a filter attached...|It seems to indicate...|...it will accept ONLY freshly squeezed Goo Balls.|Freshly squeezed?|To get those, someone would have to pulverize something...|...something big and plump and juicy.|Delicious!</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CJELLYSJIGGLYJOURNEY_3</id>
+      <texts>
+        <text language="en">Yowww...|It's a long way down.|It's all sharp rocks and sharks down there.|But the Goo Balls seem to be looking up.|Up up... up.|...|What's up there anyway?</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CGRAVITYBRIDGE_1</id>
+      <texts>
+        <text language="en">Welcome to...|World of Goo 11!|Released in the year 2216,|you could fall up...|...or down.|Or left or right.|It was up to you!|...|Some players thought that perhaps this gameplay mechanic|was a nod to the fact that the original developers|built a structurally insufficient bridge -|&quot;It's ok, I made World of Goo,&quot; they said...|...before plummeting into an infinite ravine.|They were never seen again.|The Curator</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CJUICER_2</id>
+      <texts>
+        <text language="en">Sometimes if you're really lucky...|...you'll see a little white bug buzzing around.|POP IT!|to go back in time.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CHOTSLINKY_1</id>
+      <texts>
+        <text language="en">All around us is a vast ocean of molten metal.|It's filled with failed bridges that those before you tried to build.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CDISHCONNECTED_1</id>
+      <texts>
+        <text language="en">This is a debug pipe intended to unlock the upper portion of this level.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CCHUTESANDBLADDERS_1</id>
+      <texts>
+        <text language="en">What a nice metal grate.|It allows only liquid to fall through.|And everything else will roll on by.|Why don't you jump up and down, and test how sturdy it is?</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CTHEGROUNDSHAKES_1</id>
+      <texts>
+        <text language="en">This is an extremely difficult area.|But it is also optional.|I'd turn back...|...if I were you.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CSLOPPYWALKER_1</id>
+      <texts>
+        <text language="en">What crazy weather we're having!|Watch out for downdrafts.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CRIVEROFFIRE_1</id>
+      <texts>
+        <text language="en">These waste disposal drains seem awfully close together.|This design is probably not up to code.|But I suppose we're alright...|...as long as liquid Goo is not flammable.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CRIVEROFFIRE_2</id>
+      <texts>
+        <text language="en">These rare Albino Goo Balls evolved deep under the ground.|They've been exposed to crushing pressure and extreme temperature for generations.|That might explain...|...why they appear unconcerned with fire and scorching hot molten metal.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CLAUNCHERINTRO_1</id>
+      <texts>
+        <text language="en">What strange new creatures!|They look like someone duct-taped a pipe onto the face of a large Goo Ball.|I bet you could grab one of them and wiggle their tongues around....|I haven't tried yet.|...|You can go first.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CCHAINHEAD_1</id>
+      <texts>
+        <text language="en">Most of the land in this area looks like it's been washed away|...eroded, over time.|All that's left is this ancient monument.|How're you doing, monument?|How's your head?|...|There is no reply.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CODETOTHECONDUITCONNECTOR_1</id>
+      <texts>
+        <text language="en">As the moon rose over the last of the hills,|one of the Goo Balls seemed to wonder if anyone would remember they were here.|It wrote its name in the sand, just to be sure.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CANGLER_1</id>
+      <texts>
+        <text language="en">It sounds like...|we're having a party!|I think I'll pick some flowers myself.|Are we celebrating how great you're doing?!|Are we celebrating World of Goo Organization meeting its quarterly growth targets?|Are we celebrating how sustainable and responsible we've given the appearance of becoming?|...|Whatever it is...|as the last of the Goo Balls dangled high over the ocean...|...they sensed there was something down there...|...something enormous.|I wonder what would happen...|...if you were to lower that hook down a little closer?|...|Enjoy the party!</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CSLOPPYWALKER_2</id>
+      <texts>
+        <text language="en">Even at these very high elevations,|seismic activity seems to have affected the landscape.|You'll never get up there to the pipe like this.|You'll need to go away for a while.|And return... having changed.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CSQUIDDYSBOG_3</id>
+      <texts>
+        <text language="en">What a beautiful animal.|This must be one of those responsible new sustainability initiatives.|There is lots of Goo over there.|And almost no Goo over here.|So this mechanism appears to correct that inequity.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CODETOTHECONDUITCONNECTOR_2</id>
+      <texts>
+        <text language="en">This rock formation...|looks like a man mopping the skyline.|Gleaming floors extend infinitely towards the horizon!</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CODETOTHECONDUITCONNECTOR_3</id>
+      <texts>
+        <text language="en">I am painting these signs.|...|But I am not the Sign Painter.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CTRANSMISSIONLINES_1</id>
+      <texts>
+        <text language="en">Antennas and satellite dishes across the island are pointed up towards the sky.|What are they listening for?|If you're really quiet...|...shh...|...do you hear something?</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CGROWINGUP_1</id>
+      <texts>
+        <text language="en">A new species of Goo Ball!|They have a faint aroma of...|...glarf...|...blrff...|...pppffhhhrrrgll...|...disgusting.|If you think they're horrible now,|just wait until you get them wet.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CBRIDGETOGROWWHERE_1</id>
+      <texts>
+        <text language="en">A small plaque reads:|Island Ordinance #3927|Alternative interpretation of the Grow Balls' natural behavior|is neither intended nor should be inferred.|Giggling is strictly prohibited.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CJELLYSACRIFICEMACHINE_1</id>
+      <texts>
+        <text language="en">It looks like these pungent little Grow Balls have made a friend.|It's really important...|...to lift our friends up.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CEXTRACTIONTEAM_2</id>
+      <texts>
+        <text language="en">Far away, in a distant gaseous bog...|a new species of Goo Ball appeared!|They look similar to those vile pink Grow Balls...|Good thing I can't smell them from all the way over here.|Nobody knows what happens when they get wet.|And with any luck, nobody ever will.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CIMPALESHRINKY_1</id>
+      <texts>
+        <text language="en">The entire island is hovering here... high above the globe.|Like someone ripped it out of the ground.|But why?|Do we get better reception way up here?|HELLO!|HELLO, WORLD!|...|...my voice is drowned out by the sound of propellers.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CIMPALESHRINKY_2</id>
+      <texts>
+        <text language="en">There's something else down this direction.|But a big gelatinous creature will have to lead the way.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CGLORYBARGE_1</id>
+      <texts>
+        <text language="en">Have you heard the legend of the Glory Barge?|They say on misty nights...|a lot like this...|you can still hear a ghostly howl...|...drifting in out of the fog...|...trying to find its way home.|But the place it came from...|...no longer exists.|...|What? Who said that?|I don't hear anything.|Do you?</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CBLOWFISH_1</id>
+      <texts>
+        <text language="en">Fly, blowfish, fly!|Oh...|It looks like this blowfish is all out of fuel.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CLAUNCHPAD_1</id>
+      <texts>
+        <text language="en">These creatures seem to have developed a symbiotic relationship,|with one creature living inside the esophagus of the other.|We're... all in it together, I suppose.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CDISHCONNECTED_2</id>
+      <texts>
+        <text language="en">The last of the Goo Balls had been diverted|to the interior of some sort of Liquid Signal Processing Station.|According to the schematic on the wall here...|after gently pressing this block of Goo through a humane and compassionate mechanical pulverizer,|its juices can be used...|...to amplify a signal.|Well that sounds handy!|...|This pulverizing station appears to be broken.|But with all of these smelly Grow Balls pushing together...|...and pressing against the ceiling...|they must generate an incredible odor!|I mean force!</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CDISHCONNECTED_3</id>
+      <texts>
+        <text language="en">...|This must be the top of the island.|She's... beautiful...|She reminds me of someone I think I knew...|...a long time ago.|Her satellite dishes point up towards the sky.|With all of them listening together,|they must have incredible reception.|...|But what's that?|Up there?|There's one satellite dish up there...|...it's not connected.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CSWAMPHOPPER_1</id>
+      <texts>
+        <text language="en">A fantastic new mode of transport!|It's like a personal jetpack that can stay airborne for several exciting seconds!|Almost no one survives.|But as you plummet to a fiery doom,|you'll look sensational.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CLAUNCHPAD_2</id>
+      <texts>
+        <text language="en">As far as anyone could see, Goo Balls, antennas, and open mouths reached towards the sky.|What are they reaching for?|What are they listening for?|What are they... tasting for?</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CCHUG_1</id>
+      <texts>
+        <text language="en">ALL ABOARD!|The entire island is in motion!|Here we go!|Did you pack your luggage?|Did you charge your batteries and load up your device with TV shows?|I have no idea where this machine is going...|Or what it's transporting...|...but I have a feeling it's going to get colder...</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CMOLTENMELTDOWN_1</id>
+      <texts>
+        <text language="en">PPhhhllarrgghh...!|It's getting toasty in here!|This facility appears to be processing molten metal.|Are they forging new tracks?|I heard they started the train...|...before the railroad had been completed.|They're going to have to lay down track in front of the train,|at a speed faster than the train is rushing forward.|I'm glad that's not my job.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CNIGHTFACTORY_1</id>
+      <texts>
+        <text language="en">Even aboard a train that's constantly accelerating...|...there's time to close your eyes...|...shh, that's right...|...take a deep breath of partially combusted hydrocarbons...|...and enjoy the relaxing mechanical throb of a quiet night in a factory.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CROCKBLOCKERS_1</id>
+      <texts>
+        <text language="en">What... what is that?|Those two yellow mounds weren't there... a few moments ago.|They sprouted up out of the ground...|...like they're alive.|Are they made of cheese?|Butter?|No... they don't seem to be affected by the heat.|But I bet they're delicious.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CBLOCKHOPPERS_1</id>
+      <texts>
+        <text language="en">It looks like a critical pneumatic data tube broke.|And data is leaking out...|...down into this infinite /dev/null hole below us.|But... can an infinite amount of data...|...fill an infinite hole?</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CBLOCKHOPPERS_2</id>
+      <texts>
+        <text language="en">The pipe over here has a safety seal installed.|&quot;Safety is World of Goo Organization's number one priority&quot;|...reads the safety seal.|Oh well that's good.|But it looks like it's going to fail catastrophically...|in...|oh...|oh no...|...very soon!</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CGARBAGEDUMPDOUBLEPUMP_1</id>
+      <texts>
+        <text language="en">The locomotive is generating waste at incredible speed.|And it's getting faster and faster.|This is one of the facilities responsible for handling that waste.|But it appears to be out of service...|...blocked by that debris up there in front of the pipe.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CMUTABLECRUCIBLE_1</id>
+      <texts>
+        <text language="en">THERE'S BEEN A RUPTURE!|THE MOLTEN STEEL IS COMING!|And oh... there is a bomb right here.|There might be a way to slow down the flow...|...but there's no way to stop it.|This is why we practice our emergency preparedness plans.|You've been practicing...|...haven't you?</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CCOOLANTCIRCULATORINFILTRATOR_1</id>
+      <texts>
+        <text language="en">From way up here...|it looks like the world is speeding by faster and faster.|It's been getting colder, hasn't it?|I think I'll find a way inside...|...get toasty warm...|...maybe make a cozy cup of cocoa...|...and snuggle up next to a bubbling river of molten steel.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CCOOLANTCIRCULATORINFILTRATOR_2</id>
+      <texts>
+        <text language="en">...ittttt's ssso... ccccold.|Wwwhhat is thiiis plaaaace?|Cccoolder than evvvvven the frigidddd air outside!|Thiiiiis must be one of the cccoolant circulators.|They... kkkkkeep the engine cccool...|...shivvvverr....|...and running at optimum effffficiency.|It looks liiiike there's some old maintenance equipment hangggging up there.|You mmmmight want to use it to get out of here...|...before somebody fffffinds you...|...froozzzzen...|...in ttttime...|...like a fffamily phhoto.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CHOTSLINKYRETURNS_1</id>
+      <texts>
+        <text language="en">This is what happens|when you tamper with the coolant circulator.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CHOTSLINKYRETURNS_2</id>
+      <texts>
+        <text language="en">Well here's yer problem right up here.|The coolant injector is all clogged up.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CINCENDIARYLOCOMOTION_1</id>
+      <texts>
+        <text language="en">World of Goo Organization has been collecting Goo so fast...|...they've reached the MAXIMUM PHYSICAL LIMIT of extraction.|No amount of technology, either now or in the future, will allow them to extract Goo any faster...|...|But what if they could speed up the flow of time itself?|There would be no limit...|to the rate of Goo they could collect...</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CINCENDIARYLOCOMOTION_2</id>
+      <texts>
+        <text language="en">We're almost to the front of the train.|Just keep going that way...</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CINCENDIARYLOCOMOTION_3</id>
+      <texts>
+        <text language="en">This pipe feeds straight into the central engine.|With an extra final stream of Goo to fuel the locomotive...|...there would be no limit to the speed this train could go...|...|...that can't be good...</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CTEETIME_1</id>
+      <texts>
+        <text language="en">Welcome to...|World of Goo 9|Paper Goolf!|Released in the year 2136|Paper Goolf was an anachronism.|Paper...|that is, sheets of fibrous dry pressed wood pulp...|had not existed for generations.|Like the floppy disk,|the phonograph,|and human legs,|it had become obsolete.|Young players looked up from their nutrient tanks,|utterly baffled.|The Curator</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CPAPERTRAIL_1</id>
+      <texts>
+        <text language="en">World of Goo 9: Paper Goolf was released|shortly after World of Goo 8: Dimensional Accelerator|...a game set in an increasing number of dimensions.|It was physically accurate,|but it turns out nobody actually enjoys anything more than three dimensions.|But I think the perfect number of dimensions will always be two.|The Curator</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CDISASTERTEAM_1</id>
+      <texts>
+        <text language="en">The last piece of paper that ever existed was an 8.5 x 11 notice sent by a bank.|Its purpose was to notify a customer|that they were going to stop sending physical paper mailings.|&quot;Then stop mailing me,&quot; the customer mumbled,|as she rolled her eyes and threw it into the trash.|The Curator</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CFAIRWAYINFERNO_1</id>
+      <texts>
+        <text language="en">You might have to leave some behind.|But that's ok,|we're all in this together.|-the Sign Painter|...|The Sign Painter did not always appear in all of the sequels.|The character would occasionally return to see how the world had changed,|or to observe what was left.|The Curator</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CHERECOMETHEWINDMILLS_1</id>
+      <texts>
+        <text language="en">Some players may recall windmills in the original World of Goo game.|Well here they are again.|Like a photocopy of a photocopy of a photocopy.|In the earlier games, they mined the environment.|But now|they're mining their own past.|The Curator</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CJELLYSIDEUP_1</id>
+      <texts>
+        <text language="en">Released in the year 2216|World of Goo 11 came out during one of those brief moments in time|when everyone thought &quot;virtual reality&quot; would be a really cool idea.|Virtual reality was never a good idea.|Virtual reality was not a good idea in the 1980's.|Virtual reality was not a good idea in the 2020's.|But every few decades, after everyone forgets how terrible virtual reality is,|someone always comes along and says -|&quot;Hey you know what would be a really good idea?|Strapping a hot heavy computer to your face!&quot;|In a stunning achievement of true immersion,|World of Goo 11 was notable for its uncanny ability to make players motion sick,|without strapping anything at all to their face.|The Curator</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CSTUMBLER_1</id>
+      <texts>
+        <text language="en">A re-telling of the classic 2008 Tumbler level,|as told from the perspective of the spinning drum itself.|High torque inductive loads have valid feelings and experiences,|and it's so important that we celebrate them.|The Curator</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CGRAVITATIONNAVIGATIONSTATION_1</id>
+      <texts>
+        <text language="en">By the year 2216,|publicly available gravity had become controversial|after nobody could agree on either its direction or magnitude.|1. The state of Florida signed into law a decree|that gravity points down in Florida, and everywhere else is parallel to that direction.|Therefore, people on the other side of the world would legally fall &quot;up&quot;.|And people in Europe would fall &quot;east&quot;.|2. In a separate campaign, activists condemned the pull of gravity as aggressive,|pulling with disproportionate force on those of larger mass.|3. Meanwhile, artificial lifeforms argued that since they have no mass at all,|we should reclassify the concept of &quot;ideas&quot; as having mass proportional to their intellectual &quot;weight&quot;.|...|Those who could afford it switched to privately owned gravity.|The Curator</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CTURNANDBURN_1</id>
+      <texts>
+        <text language="en">It's time.|It's time to burn down your house!|The Curator</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CMOLTENSHOWERS_1</id>
+      <texts>
+        <text language="en">- LOG 1 -|Hello?|Is the log recorder on?|The Goo Balls are more vibrant and filled with life than I ever imagined!|Structure appears to be remains of a large creature.|Unable to land.|Redirect to avoid damage.|- DISPATCH -</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CUPWARDTRAJECTORIES_1</id>
+      <texts>
+        <text language="en">- LOG 2 -|After all these years,|the world has changed!|Even in frozen sleep,|so have I.|Everything is different than I remember when I was a kid.|Unable to land.|Insufficient surface.|- DISPATCH -</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CHOTSPRINGS_1</id>
+      <texts>
+        <text language="en">- LOG 3 -|I've been observing this world since I was just a kid.|So when I designed the log recorder for this machine,|I decided to store logs on signposts.|It seemed thematically appropriate.|It's a good thing they're not made from real wood...|It's hot here.|Even near volcanic springs|there is life.|Unable to land.|Overly abundant heat.|- DISPATCH -</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CDESTINATIONLANDINGSTATION_1</id>
+      <texts>
+        <text language="en">- LOG 4 -|Knock knock!|...|Is anyone there?|...|My door is stuck.|I can't get out.|...|If I had landed on a nice flat surface...|I might have been able to fix it.|I've been in this machine for a long time.|And looks like I'll be in here a little longer.|...|It's ok.|I'll become another part of the beautiful landscape...|...like everything else.|Maybe I'll spend this time writing an unpublished graphic novel about my long journey.|Or maybe I'll count higher and higher and see if the numbers keep going or loop around back to zero.|Or maybe I'll try and remember everyone I left behind.|Or maybe I'll scratch cave paintings and buffalos into the side of my machine|to really confuse anthropologists in the future.|Or is it buffaloes?|I didn't pack a dictionary.|...|What's that over there...?|Oh, hello, little fish!|Be careful.|Don't get too close.|Whatever you do... stay away from the very top of my machine.|This rocket is extremely explosive.|- DISPATCH -</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CAFAMILIARDIVIDE_1</id>
+      <texts>
+        <text language="en">A mysterious pipe snaked down from the canopy above.|The Goo Balls seem to wonder where it might lead.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CAFAMILIARDIVIDE_2</id>
+      <texts>
+        <text language="en">On the edge of a small divide, more Goo Balls appeared.|Where had they been all this time?|For years, there were no Goo Balls anywhere.|But now, here they are...!|...on hilltops|...in ravines|...oozing up out of the ground|...like no time at all has passed.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CSLOPPYWALKER_3</id>
+      <texts>
+        <text language="en">These creatures don't just launch Goo Balls.|They also seem to slurp up liquid Goo...|and compress it back into living Goo Balls...!</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CTOWEROFGOO_1</id>
+      <texts>
+        <text language="en">This is an extremely difficult area.|But it is also optional.|Nobody will ever know if you go away...|...and never come back.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CMUTABLECRUCIBLE_2</id>
+      <texts>
+        <text language="en">Here it comes.|Hold on to something!</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CTRANSMISSIONLINES_2</id>
+      <texts>
+        <text language="en">There's a strong wind blowing.|Something must be coming.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CIMPALESHRINKY_3</id>
+      <texts>
+        <text language="en">There's a strong breeze here.|Anyone who lifts off...|...probably won't be back.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_TUTORIAL_ZOOM</id>
+      <texts>
+        <text language="en">Are your fingers too big?|Are Goo Balls too small?|You can PINCH TO ZOOM IN... and build like a professional.|Or, with a Joy-Con™, you can press the L Button or R Button to zoom in and out.|Now you're playing with power!</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CJELLYSACRIFICEMACHINE_2</id>
+      <texts>
+        <text language="en">There is very small text printed on a filter attached to this pipe.|It says:|&quot;Wash thoroughly before use.&quot;|I suppose that's good advice.|Oh, it also says:|&quot;Accepts fresh squeezed Goo Balls ONLY.&quot;|...|Everyone is so picky these days.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CJELLYSACRIFICEMACHINE_3</id>
+      <texts>
+        <text language="en">There's a pipe up there...|I pressed my ear against the warm opening...|...and I can hear... gurgling.|Shhh...!|...let's not wake it up.|There's no way to know what might come out.</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CCHUG_2</id>
+      <texts>
+        <text language="en">The fiery fluid flickers with possibilities.|I wonder what happens...|...if you get a little closer?</text>
+      </texts>
+    </string>
+    <string>
+      <id>SIGNPOST_CVOID</id>
+      <texts>
+        <text language="en">Hello?|Um... hello?|Everything just went black.|Um... ok, I guess I’ll just wait here.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ITEM_POOL_SHAPE_0</id>
+      <texts>
+        <text language="en">Rect</text>
+      </texts>
+    </string>
+    <string>
+      <id>ITEM_POOL_SHAPE_1</id>
+      <texts>
+        <text language="en">Circle</text>
+      </texts>
+    </string>
+    <string>
+      <id>ITEM_SIGN_TYPE_0</id>
+      <texts>
+        <text language="en">Normal</text>
+      </texts>
+    </string>
+    <string>
+      <id>ITEM_SIGN_TYPE_1</id>
+      <texts>
+        <text language="en">Paper</text>
+      </texts>
+    </string>
+    <string>
+      <id>ITEM_SIGN_TYPE_2</id>
+      <texts>
+        <text language="en">Bug</text>
+      </texts>
+    </string>
+    <string>
+      <id>ITEM_SIGN_TYPE_3</id>
+      <texts>
+        <text language="en">Zoom</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C01_Office</id>
+      <texts>
+        <text language="en">A Smoke Filled Room</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C02_OutsideSourNote</id>
+      <texts>
+        <text language="en">A Sip at the Sour Note</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C03_Train</id>
+      <texts>
+        <text language="en">Murder on the Midnight Steamliner</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C04_MexicanStand</id>
+      <texts>
+        <text language="en">Dark Night at El Sol</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_NAME_C05_SunshineEntrance</id>
+      <texts>
+        <text language="en">Sunshine</text>
+      </texts>
+    </string>
+    <string>
+      <id>CHAPTER_1</id>
+      <texts>
+        <text language="en">Chapter 1</text>
+      </texts>
+    </string>
+    <string>
+      <id>CHAPTER_2</id>
+      <texts>
+        <text language="en">Chapter 2</text>
+      </texts>
+    </string>
+    <string>
+      <id>CHAPTER_3</id>
+      <texts>
+        <text language="en">Chapter 3</text>
+      </texts>
+    </string>
+    <string>
+      <id>CHAPTER_4</id>
+      <texts>
+        <text language="en">Chapter 4</text>
+      </texts>
+    </string>
+    <string>
+      <id>CHAPTER_5</id>
+      <texts>
+        <text language="en">Chapter 5</text>
+      </texts>
+    </string>
+    <string>
+      <id>ISLAND_TITLE_CHAPTER_FORMAT</id>
+      <texts>
+        <text language="en">Chapter %d:</text>
+      </texts>
+    </string>
+    <string>
+      <id>I01_TITLE</id>
+      <texts>
+        <text language="en">The Long Juicy Road</text>
+      </texts>
+    </string>
+    <string>
+      <id>I02_TITLE</id>
+      <texts>
+        <text language="en">A Distant Signal</text>
+      </texts>
+    </string>
+    <string>
+      <id>I03_TITLE</id>
+      <texts>
+        <text language="en">Atomic Express</text>
+      </texts>
+    </string>
+    <string>
+      <id>I04_TITLE</id>
+      <texts>
+        <text language="en">Ye Olde Reckonator</text>
+      </texts>
+    </string>
+    <string>
+      <id>I05_TITLE</id>
+      <texts>
+        <text language="en">A New World</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_TEXT_I01_PART_1</id>
+      <texts>
+        <text language="en">Chapter 1</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_TEXT_I01_PART_2</id>
+      <texts>
+        <text language="en">The</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_TEXT_I01_PART_3</id>
+      <texts>
+        <text language="en">Long Juicy Road</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_TEXT_I02_PART_1</id>
+      <texts>
+        <text language="en">Chapter 2</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_TEXT_I02_PART_2</id>
+      <texts>
+        <text language="en">a Distant</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_TEXT_I02_PART_3</id>
+      <texts>
+        <text language="en">Signal</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_TEXT_I03_PART_1</id>
+      <texts>
+        <text language="en">Chapter 3</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_TEXT_I03_PART_2</id>
+      <texts>
+        <text language="en">Atomic Express</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_TEXT_I04_PART_1</id>
+      <texts>
+        <text language="en">Chapter 4</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_TEXT_I04_PART_2</id>
+      <texts>
+        <text language="en">Ye Olde</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_TEXT_I04_PART_3</id>
+      <texts>
+        <text language="en">Reckonator</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_TEXT_I05_PART_1</id>
+      <texts>
+        <text language="en">Chapter 5</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_TEXT_I05_PART_2</id>
+      <texts>
+        <text language="en">a new</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_TEXT_I05_PART_3</id>
+      <texts>
+        <text language="en">World</text>
+      </texts>
+    </string>
+    <string>
+      <id>intro_and</id>
+      <texts>
+        <text language="en">and</text>
+      </texts>
+    </string>
+    <string>
+      <id>intro_PRESENT</id>
+      <texts>
+        <text language="en">PRESENT</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E01_title</id>
+      <texts>
+        <text language="en">Rebirth</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E01_line01</id>
+      <texts>
+        <text language="en">mmmmmmm!</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E01_line02</id>
+      <texts>
+        <text language="en">rejuvenation</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E01_line03</id>
+      <texts>
+        <text language="en">revitalization</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E01_line04</id>
+      <texts>
+        <text language="en">re-incorporation</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E01_line05</id>
+      <texts>
+        <text language="en">rebirth</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E01_line06</id>
+      <texts>
+        <text language="en">World of Goo Corporation</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E01_line06_2</id>
+      <texts>
+        <text language="en">is now</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E01_line07</id>
+      <texts>
+        <text language="en">WORLD OF GOO ORGANIZATION</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E01_line08</id>
+      <texts>
+        <text language="en">Let's go shopping!</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E01_line09</id>
+      <texts>
+        <text language="en">...sustainably!</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E01_line10</id>
+      <texts>
+        <text language="en">It's so important!</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E02_title</id>
+      <texts>
+        <text language="en">A Distant Observer</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E02_line01</id>
+      <texts>
+        <text language="en">100,000 years later</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E02_line02</id>
+      <texts>
+        <text language="en">100,000 light years away</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E02_line03</id>
+      <texts>
+        <text language="en">A distant observer looked as far
+as the telescope could see.</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E02_line04</id>
+      <texts>
+        <text language="en">Very very far away,</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E02_line05</id>
+      <texts>
+        <text language="en">and for just a moment...</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E02_line06</id>
+      <texts>
+        <text language="en">a tiny speck in the distance...</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E02_line07</id>
+      <texts>
+        <text language="en">glowed a little bit brighter.</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E02_line08</id>
+      <texts>
+        <text language="en">END of</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E02_line08_2</id>
+      <texts>
+        <text language="en">CHAPTER</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E02_line09</id>
+      <texts>
+        <text language="en">...a tower opens in the east...</text>
+      </texts>
+    </string>
+    <string>
+      <id>C01E02_SUBTITLE_ENDOFCHAPTER</id>
+      <texts>
+        <text language="en">END of CHAPTER 1</text>
+      </texts>
+    </string>
+    <string>
+      <id>C02E01_title</id>
+      <texts>
+        <text language="en">Fashion Emergency</text>
+      </texts>
+    </string>
+    <string>
+      <id>C02E01_line01</id>
+      <texts>
+        <text language="en">NO
+SIGNAL</text>
+      </texts>
+    </string>
+    <string>
+      <id>C02E02_title</id>
+      <texts>
+        <text language="en">An Important Message</text>
+      </texts>
+    </string>
+    <string>
+      <id>C02E02_line01</id>
+      <texts>
+        <text language="en">What are they
+listening for?</text>
+      </texts>
+    </string>
+    <string>
+      <id>C02E02_line02</id>
+      <texts>
+        <text language="en">I don't think they're
+listening at all...</text>
+      </texts>
+    </string>
+    <string>
+      <id>C02E02_line03</id>
+      <texts>
+        <text language="en">...they're
+TRANSMITTING.</text>
+      </texts>
+    </string>
+    <string>
+      <id>C02E02_line04</id>
+      <texts>
+        <text language="en">100,000 years later</text>
+      </texts>
+    </string>
+    <string>
+      <id>C02E02_line05</id>
+      <texts>
+        <text language="en">100,000 light years away</text>
+      </texts>
+    </string>
+    <string>
+      <id>C02E02_line07</id>
+      <texts>
+        <text language="en">...a railway opens in the south...</text>
+      </texts>
+    </string>
+    <string>
+      <id>C02E02_SUBTITLE_ENDOFCHAPTER</id>
+      <texts>
+        <text language="en">END of CHAPTER 2</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E01_title</id>
+      <texts>
+        <text language="en">Goodnight</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E01_line01</id>
+      <texts>
+        <text language="en">Good night.</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_title</id>
+      <texts>
+        <text language="en">Temporal Divide</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_line01</id>
+      <texts>
+        <text language="en">Here it comes again!</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_line02</id>
+      <texts>
+        <text language="en">It's getting
+faster and faster...</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_line03</id>
+      <texts>
+        <text language="en">Dear god.</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_line03_2</id>
+      <texts>
+        <text language="en">What is it doing?</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_line03_3</id>
+      <texts>
+        <text language="en">It's moving so fast...</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_line04</id>
+      <texts>
+        <text language="en">...time almost stands still for
+people on the train.</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_line05</id>
+      <texts>
+        <text language="en">From their perspective,</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_line06</id>
+      <texts>
+        <text language="en">...time is speeding up
+for us down here!</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_line07</id>
+      <texts>
+        <text language="en">200,000</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_line08</id>
+      <texts>
+        <text language="en">years later</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_line09</id>
+      <texts>
+        <text language="en">You have arrived</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_line10</id>
+      <texts>
+        <text language="en">at your destination.</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_line11</id>
+      <texts>
+        <text language="en">UNKNOWN</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_SUBTITLE_ENDOFCHAPTER</id>
+      <texts>
+        <text language="en">END of CHAPTER 3</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_SUBTITLE_ENDOFCHAPTER_?</id>
+      <texts>
+        <text language="en">END of CHAPTER ?</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_SUBTITLE_ENDOFCHAPTER_??</id>
+      <texts>
+        <text language="en">END of CHAPTER ??</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_SUBTITLE_ENDOFCHAPTER_???</id>
+      <texts>
+        <text language="en">END of CHAPTER ???</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_SUBTITLE_ENDOFCHAPTER_????</id>
+      <texts>
+        <text language="en">END of CHAPTER ????</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_SUBTITLE_ENDOFCHAPTER_?????</id>
+      <texts>
+        <text language="en">END of CHAPTER ?????</text>
+      </texts>
+    </string>
+    <string>
+      <id>C03E02_SUBTITLE_ENDOFCHAPTER_UNKNOWN</id>
+      <texts>
+        <text language="en">END of CHAPTER UNKNOWN</text>
+      </texts>
+    </string>
+    <string>
+      <id>C04E01_title</id>
+      <texts>
+        <text language="en">A Tasty Nut</text>
+      </texts>
+    </string>
+    <string>
+      <id>C04E02_title</id>
+      <texts>
+        <text language="en">Welcome Traveler</text>
+      </texts>
+    </string>
+    <string>
+      <id>C04E02_line03</id>
+      <texts>
+        <text language="en">...you have A VISITOR in the west...</text>
+      </texts>
+    </string>
+    <string>
+      <id>C04E02_SUBTITLE_ENDOFCHAPTER</id>
+      <texts>
+        <text language="en">END of CHAPTER 4</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_title</id>
+      <texts>
+        <text language="en">Worlds of Goo</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_longJourney</id>
+      <texts>
+        <text language="en">It must have been a long journey...</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_watching</id>
+      <texts>
+        <text language="en">Someone had been watching for a long time.</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_telescopicPhotos</id>
+      <texts>
+        <text language="en">There were telescopic photos</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_familiarPlaces</id>
+      <texts>
+        <text language="en">of familiar places!</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_oldFriends</id>
+      <texts>
+        <text language="en">And old friends!</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_delicious</id>
+      <texts>
+        <text language="en">They had enjoyed deeelicious...</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_juice</id>
+      <texts>
+        <text language="en">juice-like product!</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_everythingPhotos</id>
+      <texts>
+        <text language="en">Everything in the photos...</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_eroded</id>
+      <texts>
+        <text language="en">had eroded</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_washedAway</id>
+      <texts>
+        <text language="en">or washed away</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_longTimeAgo</id>
+      <texts>
+        <text language="en">a long time ago.</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_niceToSee</id>
+      <texts>
+        <text language="en">But it was nice to see them again.</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_worldsofgoo1</id>
+      <texts>
+        <text language="en">And everywhere the traveler traveled,</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_worldsofgoo2</id>
+      <texts>
+        <text language="en">there sprouted all new...</text>
+      </texts>
+    </string>
+    <string>
+      <id>C05E01_worldsofgoo3</id>
+      <texts>
+        <text language="en">Worlds of Goo.</text>
+      </texts>
+    </string>
+    <string>
+      <id>CUTSCENE_ENDOF</id>
+      <texts>
+        <text language="en">END of</text>
+      </texts>
+    </string>
+    <string>
+      <id>CUTSCENE_CHAPTER</id>
+      <texts>
+        <text language="en">CHAPTER</text>
+      </texts>
+    </string>
+    <string>
+      <id>CUTSCENE_0</id>
+      <texts>
+        <text language="en">0</text>
+      </texts>
+    </string>
+    <string>
+      <id>CUTSCENE_1</id>
+      <texts>
+        <text language="en">1</text>
+      </texts>
+    </string>
+    <string>
+      <id>CUTSCENE_2</id>
+      <texts>
+        <text language="en">2</text>
+      </texts>
+    </string>
+    <string>
+      <id>CUTSCENE_3</id>
+      <texts>
+        <text language="en">3</text>
+      </texts>
+    </string>
+    <string>
+      <id>CUTSCENE_4</id>
+      <texts>
+        <text language="en">4</text>
+      </texts>
+    </string>
+    <string>
+      <id>CUTSCENE_5</id>
+      <texts>
+        <text language="en">5</text>
+      </texts>
+    </string>
+    <string>
+      <id>CUTSCENE_6</id>
+      <texts>
+        <text language="en">6</text>
+      </texts>
+    </string>
+    <string>
+      <id>CUTSCENE_7</id>
+      <texts>
+        <text language="en">7</text>
+      </texts>
+    </string>
+    <string>
+      <id>CUTSCENE_8</id>
+      <texts>
+        <text language="en">8</text>
+      </texts>
+    </string>
+    <string>
+      <id>CUTSCENE_9</id>
+      <texts>
+        <text language="en">9</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_INTRO_WORLD_OF_GOO_9</id>
+      <texts>
+        <text language="en">World of Goo 9</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_INTRO_WORLD_OF_GOO_11</id>
+      <texts>
+        <text language="en">World of Goo 11</text>
+      </texts>
+    </string>
+    <string>
+      <id>LEVEL_INTRO_WORLD_OF_GOO_17</id>
+      <texts>
+        <text language="en">World of Goo 17</text>
+      </texts>
+    </string>
+    <string>
+      <id>CREDITS_SECTION_MADE_BY</id>
+      <texts>
+        <text language="en">This game was made by...</text>
+      </texts>
+    </string>
+    <string>
+      <id>CREDITS_SECTION_MAIN_NAMES</id>
+      <texts>
+        <text language="en">CREATIVE DICTATOR
+Kyle Gabler
+
+CAT HERDER
+Ron Carmel
+
+BIT TWIDDLER
+Noel Llopis
+
+GOO INSPECTOR
+Aleš Mlakar
+
+PROGRAM PROGRAMMING PROGRAMMER
+Miguel Ángel Pérez Martínez
+
+MUSIC MAKERS
+Jonny Trengrove
+Kyle Gabler
+
+PIXEL WHISPERER
+Peter Hedin
+
+CARD PUNCHER
+Allan Blomquist
+
+FREERANGE HUMAN ARTIST
+Jay Epperson
+
+DOER OF RANDOM THINGS
+Kyle Gray</text>
+      </texts>
+    </string>
+    <string>
+      <id>CREDITS_SECTION_TRANSLATION</id>
+      <texts>
+        <text language="en">TRANSLATION</text>
+      </texts>
+    </string>
+    <string>
+      <id>CREDITS_SECTION_TRANSLATION_NAMES</id>
+      <texts>
+        <text language="en">Adrián Welter Romero
+Alexey &quot;Randold&quot; Polyakov
+Bitowsky
+邓绶豪 (@dengshouhao)
+Dominik Wojnar
+Enrico Donati
+张贺程 (@HiCassius)
+ihavestigmata
+Michele Colombo
+Jones Martins
+Maxandkon
+liltoxiclolly (Team_34)
+Max_34 (Team_34)
+Ruy &quot;Ruypo&quot; Barriopedro
+Thomas Chapeaux
+Valeria Benavides
+Zoidberg &quot;Lobstery&quot; Zeng
+Marius Mei (Flyhigh Works)</text>
+      </texts>
+    </string>
+    <string>
+      <id>CREDITS_SECTION_TRANSLATION_NAMES2</id>
+      <texts>
+        <text language="en">Álex Hernández-Puertas
+BassMatthi
+Christian Herrmann (Presskopp)
+Dawid &quot;wortex&quot; Tanhojzer
+Enrico &quot;kilgoretrout&quot; Belleri
+Federico &quot;WinterDryad&quot; Vastarini
+Felipe de Jesús Hurtado Ríos
+Izabela Tomaszyk
+Lionel Wurth
+Luís Henrique Lira da Fonseca
+Martin Lebreton (Volcanojungle)
+SuperMany (Team_34)
+Mikhail &quot;Px-Ch&quot; Fefilov (Team_34)
+Stanislav Bedrii
+Toni Heilig (EinfachNurToni)
+Vegetaball
+Cindy Kim (Flyhigh Works)
+Toshie Somiya (Flyhigh Works)</text>
+      </texts>
+    </string>
+    <string>
+      <id>CREDITS_SECTION_MUSICAL_CONTRIBUTORS</id>
+      <texts>
+        <text language="en">MUSICAL CONTRIBUTORS</text>
+      </texts>
+    </string>
+    <string>
+      <id>CREDITS_SECTION_MUSICAL_CONTRIBUTORS_NAMES</id>
+      <texts>
+        <text language="en">Adam Lasnik
+Andy &quot;ahndrew&quot; Whelan
+邹上豪（Apermesa）
+Brendan Simkins
+Cole Wachal
+Courtney Swain
+Daniil Kudryashev Ardni K
+Dario &quot;Broosk&quot; Oyarzo Garcia
+Descenacre (Canana)
+Douglas Inglis
+GRAVITEKA (Andrey Zamaraev)
+Harrison Girault Jones
+Jajue Gibson
+J. E.
+Jonathan Larson
+Juan Fangio
+Kamil Maliński
+Kuba &quot;Bebok&quot; Górny
+Lauren Riley
+Matt Vollrath
+Maxwell Rodley
+Mia Stapley
+Phillip Moss
+PinpinNeon
+Shimmy Levy
+Thomas Gourlay
+Tom Rijndorp</text>
+      </texts>
+    </string>
+    <string>
+      <id>CREDITS_SECTION_MUSICAL_CONTRIBUTORS_NAMES2</id>
+      <texts>
+        <text language="en">Adrian Cârciova aka Tony Baboon
+Alex (Rotta Lopaatkinen) Balmos
+Avery J. Franklin
+Callum McCubbin
+Carlos Arrieta &quot;dreampillet&quot;
+Daniel Aidan Corbridge
+Danil Khakimov (Postpunked)
+David Gravagno (Shady Monk)
+Do Noise
+Emily Simkins
+Guy Bianco IV
+Infinite Cloudscapes
+Jerod Collins - The8BitDrummer
+Jimmy North
+Josiah Dirkse
+Kae
+Kat Pyrope
+老饕_LaoTao
+Maarten Vanooteghem
+Maxwell Klein (Credit)
+Merge Left
+Nibroc_64
+Philipp &quot;MrGermanpiano&quot; Heinrich
+Samuel Dorrego Fernández (Aviarium)
+Theo Róseo
+Toby Kozlowski
+Victoria Rose Hansen</text>
+      </texts>
+    </string>
+    <string>
+      <id>CREDITS_SECTION_VOICES</id>
+      <texts>
+        <text language="en">VOICES</text>
+      </texts>
+    </string>
+    <string>
+      <id>CREDITS_SECTION_VOICE_CONTRIBUTORS</id>
+      <texts>
+        <text language="en">Jordan Price
+Kyle Gabler
+Kyle Gray
+Dandy Wheeler
+Brobert Brit
+Marguarette Shaw
+Jonathan Nathan
+Anne Sueko Coyle</text>
+      </texts>
+    </string>
+    <string>
+      <id>CREDITS_SECTION_SPECIAL_THANKS</id>
+      <texts>
+        <text language="en">SPECIAL THANKS</text>
+      </texts>
+    </string>
+    <string>
+      <id>CREDITS_SECTION_SPECIAL_THANKS_NAMES</id>
+      <texts>
+        <text language="en">Adria
+Florencia Miranda
+Geoff Keighley
+Hanna “Blombergson”, Bosse “Bobbrikon”,
+Jack “Shackleton”, and Hugo Boss
+June. Just June.
+Mark Griffin and our friends at Epic Games
+Metka, Pia, and Sara
+Ra Jimenez
+Todd Buechele, Amber Kenyon, Ted Regulski, and our friends at Nintendo
+Linnea, Lydia, Liam, and Katrina
+Ivy, Porter, and Christine M. Ho, Esquire
+Willa, Lucy, and Julian
+Toby and Daddy Jordan
+the Goo Balls who didn't make it</text>
+      </texts>
+    </string>
+    <string>
+      <id>CREDITS_THANKS_FOR_PLAYING</id>
+      <texts>
+        <text language="en">Thanks for Playing!</text>
+      </texts>
+    </string>
+    <string>
+      <id>CRASH_REPORT_NO</id>
+      <texts>
+        <text language="en">No</text>
+      </texts>
+    </string>
+    <string>
+      <id>CRASH_REPORT_SEND</id>
+      <texts>
+        <text language="en">Send Report</text>
+      </texts>
+    </string>
+    <string>
+      <id>CRASH_REPORT_TITLE</id>
+      <texts>
+        <text language="en">Congratulations! You found a bug!</text>
+      </texts>
+    </string>
+    <string>
+      <id>CRASH_REPORT_BODY</id>
+      <texts>
+        <text language="en">When you last played the game, it appears you discovered a crash bug. May we send a report to help us fix it?</text>
+      </texts>
+    </string>
+    <string>
+      <id>OPTION_CONTROL_VOLUME</id>
+      <texts>
+        <text language="en">Volume</text>
+      </texts>
+    </string>
+    <string>
+      <id>OPTION_CONTROL_EDGE_PANNING</id>
+      <texts>
+        <text language="en">Edge Panning</text>
+      </texts>
+    </string>
+    <string>
+      <id>OPTION_CONTROL_DRAG_PANNING</id>
+      <texts>
+        <text language="en">Drag Panning</text>
+      </texts>
+    </string>
+    <string>
+      <id>OPTION_CONTROL_ZOOM_SNAPBACK</id>
+      <texts>
+        <text language="en">Zoom Snapback</text>
+      </texts>
+    </string>
+    <string>
+      <id>OPTION_CONTROL_WINDOWED_MODE</id>
+      <texts>
+        <text language="en">Windowed Mode</text>
+      </texts>
+    </string>
+    <string>
+      <id>OPTION_CONTROL_GRAPHICS_QUALITY</id>
+      <texts>
+        <text language="en">Graphics Quality</text>
+      </texts>
+    </string>
+    <string>
+      <id>OPTION_CONTROL_BACK</id>
+      <texts>
+        <text language="en">BACK</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_CompleteChapter1</id>
+      <texts>
+        <text language="en">Chapter 1: The Long Juicy Road</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_CompleteChapter1</id>
+      <texts>
+        <text language="en">Complete Chapter 1.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_CompleteChapter2</id>
+      <texts>
+        <text language="en">Chapter 2: A Distant Signal</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_CompleteChapter2</id>
+      <texts>
+        <text language="en">Complete Chapter 2.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_CompleteChapter3</id>
+      <texts>
+        <text language="en">Chapter 3: Atomic Express</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_CompleteChapter3</id>
+      <texts>
+        <text language="en">Complete Chapter 3.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_CompleteChapter4</id>
+      <texts>
+        <text language="en">Chapter 4: Ye Olde Reckonator</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_CompleteChapter4</id>
+      <texts>
+        <text language="en">Complete Chapter 4.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_CompleteChapter5</id>
+      <texts>
+        <text language="en">Chapter 5: A New World</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_CompleteChapter5</id>
+      <texts>
+        <text language="en">Complete Chapter 5.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_CompleteAllLevels</id>
+      <texts>
+        <text language="en">Executive Producer of Goo Product</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_CompleteAllLevels</id>
+      <texts>
+        <text language="en">Complete all levels.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_AllOCDsChapter1</id>
+      <texts>
+        <text language="en">Engineer of Goo 1</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_AllOCDsChapter1</id>
+      <texts>
+        <text language="en">Complete all Optional Completion Distinctions in Chapter 1.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_AllOCDsChapter2</id>
+      <texts>
+        <text language="en">Engineer of Goo 2</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_AllOCDsChapter2</id>
+      <texts>
+        <text language="en">Complete all Optional Completion Distinctions in Chapter 2.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_AllOCDsChapter3</id>
+      <texts>
+        <text language="en">Engineer of Goo 3</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_AllOCDsChapter3</id>
+      <texts>
+        <text language="en">Complete all Optional Completion Distinctions in Chapter 3.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_AllOCDsChapter4</id>
+      <texts>
+        <text language="en">Engineer of Goo 4</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_AllOCDsChapter4</id>
+      <texts>
+        <text language="en">Complete all Optional Completion Distinctions in Chapter 4.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_AllOCDsChapter5</id>
+      <texts>
+        <text language="en">Engineer of Goo 5</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_AllOCDsChapter5</id>
+      <texts>
+        <text language="en">Complete all Optional Completion Distinctions in Chapter 5.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_OCDsThreeAtOnce</id>
+      <texts>
+        <text language="en">Nailed It</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_OCDsThreeAtOnce</id>
+      <texts>
+        <text language="en">Meet all 3 OCD requirements at the same time.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_OCDBallsBetter</id>
+      <texts>
+        <text language="en">Overachiever of Goo</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_OCDBallsBetter</id>
+      <texts>
+        <text language="en">Collect 5 more Goo Balls than the OCD requirement.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_OCDMovesBetter</id>
+      <texts>
+        <text language="en">Overachiever of Moves</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_OCDMovesBetter</id>
+      <texts>
+        <text language="en">Complete a level using 3 fewer moves than the OCD requirement.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_OCDTimeBetter</id>
+      <texts>
+        <text language="en">Overachiever of Time</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_OCDTimeBetter</id>
+      <texts>
+        <text language="en">Complete a level 10 seconds faster than the OCD requirement.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_OCDAllThreeInALevel</id>
+      <texts>
+        <text language="en">Beginner Expert</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_OCDAllThreeInALevel</id>
+      <texts>
+        <text language="en">Complete all 3 Optional Completion Distinctions in any single level.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_MoreThan800Balls</id>
+      <texts>
+        <text language="en">I think you have too many balls?</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_MoreThan800Balls</id>
+      <texts>
+        <text language="en">Complete a level collecting more than 800 balls.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_ZeroMoves</id>
+      <texts>
+        <text language="en">Ultra Efficiency</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_ZeroMoves</id>
+      <texts>
+        <text language="en">Complete a level in 0 moves.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_TimeThreeHoursOrLess</id>
+      <texts>
+        <text language="en">Marathoner</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_TimeThreeHoursOrLess</id>
+      <texts>
+        <text language="en">Complete all levels in 3 hours or less, in game time.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_Timebugs100</id>
+      <texts>
+        <text language="en">Time Flies</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_Timebugs100</id>
+      <texts>
+        <text language="en">Use time bugs 100 times, cumulatively, throughout the game.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_ThisWayUpKilled</id>
+      <texts>
+        <text language="en">Connection Lost</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_ThisWayUpKilled</id>
+      <texts>
+        <text language="en">Destroy the This Way Up item.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_ThisWayUpSucked</id>
+      <texts>
+        <text language="en">Gravity Sucks</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_ThisWayUpSucked</id>
+      <texts>
+        <text language="en">Suck the This Way Up item into a pipe.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_WatchedCredits</id>
+      <texts>
+        <text language="en">Epilogue</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_WatchedCredits</id>
+      <texts>
+        <text language="en">Watch the entire credits roll.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_Destroy100Percent</id>
+      <texts>
+        <text language="en">Destroy the Things You Love</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_Destroy100Percent</id>
+      <texts>
+        <text language="en">Delete a 100% completed profile.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_GoolfBirdie</id>
+      <texts>
+        <text language="en">Birdie</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_GoolfBirdie</id>
+      <texts>
+        <text language="en">Score one move under the OCD requirement in a Goolf level.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_FlingToExitOffScreen</id>
+      <texts>
+        <text language="en">Swoosh 2</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_FlingToExitOffScreen</id>
+      <texts>
+        <text language="en">Throw a non-Goolf ball at the exit such that it is sucked up without first landing on a structure - but the exit must be offscreen.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_ReadSignposts</id>
+      <texts>
+        <text language="en">Devout Reader</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_ReadSignposts</id>
+      <texts>
+        <text language="en">Read all signposts.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_DestroyedBalls</id>
+      <texts>
+        <text language="en">Destroyer of Goo</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_DestroyedBalls</id>
+      <texts>
+        <text language="en">Destroy more than 120 balls in a level.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_TallStructure</id>
+      <texts>
+        <text language="en">Tower Builder</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_TallStructure</id>
+      <texts>
+        <text language="en">Build a tower at least 16 units tall.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_LargeStructure</id>
+      <texts>
+        <text language="en">Overcompensation of Goo</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_LargeStructure</id>
+      <texts>
+        <text language="en">Build a structure with at least 140 balls.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_WorldBallInOrbit</id>
+      <texts>
+        <text language="en">Little Voyager</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_WorldBallInOrbit</id>
+      <texts>
+        <text language="en">On the world map, launch a Goo Ball into outer space.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_WakeByBumping</id>
+      <texts>
+        <text language="en">Hey. You up?</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_WakeByBumping</id>
+      <texts>
+        <text language="en">Wake up a Goo Ball by bumping it with another one.</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_TITLE_FlingToExit</id>
+      <texts>
+        <text language="en">Swoosh 1</text>
+      </texts>
+    </string>
+    <string>
+      <id>ACHIEVEMENT_DESCRIPTION_FlingToExit</id>
+      <texts>
+        <text language="en">Throw a non-Goolf ball at the exit such that it is sucked up without first landing on a structure.</text>
+      </texts>
+    </string>
+	<!--Signposts by Tristen Arctician -->
+	<string>
+      <id>SIGNPOST_GENERIC_PIPE_FILTER_PRODUCT_1</id>
+      <texts>
+        <text language="en">There is very small text printed on a filter attached to this pipe.|It says:|&quot;Accepts fresh squeezed Goo Balls ONLY.&quot;|...|Everyone is so picky these days.</text>
+      </texts>
+    </string>
+	<string>
+      <id>SIGNPOST_GENERIC_PIPE_FILTER_PRODUCT_2</id>
+      <texts>
+        <text language="en">This pipe has some sort of a filter attached...|It seems to indicate...|...it will accept ONLY processed Goo Balls.|Those freeloading ones that don't even try to build to the pipe.</text>
+      </texts>
+    </string>
+	<string>
+      <id>SIGNPOST_GENERIC_PIPE_FILTER_PRODUCT_HARD</id>
+      <texts>
+        <text language="en">This pipe has some sort of a filter attached...|It seems to indicate...|...it will accept ONLY processed Goo Balls.|Those freeloading ones that don't even try to build to the pipe.|Might be hard to get them up here, then.</text>
+      </texts>
+    </string>
+	<string>
+      <id>SIGNPOST_GENERIC_PIPE_FILTER_PRODUCT_HARD2</id>
+      <texts>
+        <text language="en">This pipe has some sort of a filter attached...|It seems to indicate...|...it will accept ONLY processed Goo Balls.|Those freeloading ones that don't even try to build to the pipe.|It seems it will be difficult to get those up here.</text>
+      </texts>
+    </string>
+	<string>
+      <id>SIGNPOST_GENERIC_PIPE_FILTER_PRODUCT_CORP</id>
+      <texts>
+        <text language="en">World of Goo Corporation has specific aims for doing their Goo collection operations in this region.|They're wanting to collect only PRODUCT Goo Balls.|They're wanting some generic goo for Research and Development for new products.|So get to it.</text>
+      </texts>
+    </string>
+	<string>
+      <id>SIGNPOST_GENERIC_PIPE_FILTER_PRODUCT_ORG</id>
+      <texts>
+        <text language="en">World of Goo Organization has specific aims for collecting Goo here.|They're wanting to collect only PRODUCT Goo Balls.|Limiting the types of Goo Balls that are collected improves sustainability.|Capable Goo Balls are still in the environment.</text>
+      </texts>
+    </string>
+	<string>
+      <id>SIGNPOST_GENERIC_PIPE_FILTER_JELLY</id>
+      <texts>
+        <text language="en">This pipe has some sort of a filter attached...|It seems to indicate...|...it will accept ONLY freshly squeezed Goo Balls.|Freshly squeezed?|To get those, someone would have to pulverize something...|...something big and plump and juicy.|Delicious!</text>
+      </texts>
+    </string>
+  </strings>
+</localized_text_db>
