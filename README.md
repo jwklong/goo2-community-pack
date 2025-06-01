@@ -17,7 +17,7 @@ Community driven assets pack for World of Goo 2.
 - HesJustThisGuy: Various Items and Terrains, RPS "Desert" remix
 - jkwlong: Circle Scaffolds, various extracted beta assets
 - djm334: Flesh Spires item, Rusty Cog assets (currently unused), Ruins background
-- 3GuB: Various Items, provided fixes for some issues
+- 3GuB: Various Items, provided fixes for some issues + Winch asset fix
 - MiseryMouse: Various track remixes, ambient cameras loop
 - Special_Plant: Smokestacks item
 - p0b: Various items
