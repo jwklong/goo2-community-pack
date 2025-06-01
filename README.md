@@ -26,3 +26,4 @@ Community driven assets pack for World of Goo 2.
 - Special_Plant: Smokestacks item
 - p0b: Various items
 - Tristen Arctician: Generic Signpost text
+- spikey goo: Traffic sign items

@@ -428,5 +428,12 @@
 		<Image id="P0B_GEARSOLIDBLUR" path="p0b/gear2blur"  />
 		<Image id="P0B_GEARSOLIDBLACK" path="p0b/gear2black"  />
 		<Image id="P0B_GEARSOLIDBLACKBLUR" path="p0b/gear1blurBlack"  />
+		<!-- Assets provided by spikeygoo -->
+		<Image id="SPIKEYGOO_TRAFFICSIGN1" path="spikeygoo/signWarning4"  />
+		<Image id="SPIKEYGOO_TRAFFICSIGN2" path="spikeygoo/signWarning5"  />
+		<Image id="SPIKEYGOO_TRAFFICSIGN3" path="spikeygoo/signWarning6"  />
+		<Image id="SPIKEYGOO_TRAFFICSIGN4" path="spikeygoo/signWarning7"  />
+		<Image id="SPIKEYGOO_TRAFFICSIGN5" path="spikeygoo/signWarning8"  />
+
 	</Resources>
 </ResourceManifest>
