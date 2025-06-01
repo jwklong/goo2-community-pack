@@ -59,5 +59,7 @@
 		<Sound id="MIDNIGHTSTEAMLINER_MISERYMOUSE_COVER" path="MiseryMouse/Midnight_Steamleaner_remake" streaming="true" bus="Music" />
 		<Sound id="REDCARPET_MISERYMOUSE_COVER" path="MiseryMouse/Red_Carpet_remix" streaming="true" bus="Music" />
 		<Sound id="RPS_MISERYMOUSE_COVER" path="MiseryMouse/Regurgitation_Pumping_Station_remix" streaming="true" bus="Music" />
+		<!-- Assets by HesJustThisGuy -->
+		<Sound id="RPS_HESJUSTTHISGUY_COVER" path="HesJustThisGuy/rps_desert" streaming="true" bus="Music" />
 	</Resources>
 </ResourceManifest>

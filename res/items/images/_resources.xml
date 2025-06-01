@@ -315,6 +315,7 @@
 		<Image id="HESJUSTTHISGUY_FIREHYDRANTMOSSY" path="HesJustThisGuy/FireHydrantMossy"  />
 		<Image id="HESJUSTTHISGUY_GRASSSPROUT" path="HesJustThisGuy/GrassSprout"  />
 		<Image id="HESJUSTTHISGUY_SERVERSILHOUETTE" path="HesJustThisGuy/ServerSilhouette"  />
+		<Image id="HESJUSTTHISGUY_CACTUSROUND" path="HesJustThisGuy/CactusRound"  />
 		<!-- Assets provided by jwklong -->
 		<Image id="JWKLONG_SCAFFOLDCIRCLE" path="jwklong/ScaffoldCircle"  />
 		<Image id="JWKLONG_SCAFFOLDCIRCLEBLACK" path="jwklong/ScaffoldCircleBlack"  />
@@ -363,5 +364,12 @@
 		<Image id="SPECIAL_PAINT_SMOKESTACKBLUR" path="Special_Paint/SmokeStackBlur"  />
 		<Image id="SPECIAL_PAINT_SMOKESTACKBROKEN" path="Special_Paint/SmokeStackBroken"  />
 		<Image id="SPECIAL_PAINT_SMOKESTACKBROKENBLUR" path="Special_Paint/SmokeStackBrokenBlur"  />
+		<!-- Assets provided by p0b -->
+		<Image id="P0B_BOGTREE" path="p0b/BogTree"  />
+		<Image id="P0B_CACTUS" path="p0b/cactus_Redesign"  />
+		<Image id="P0B_GEARSOLID" path="p0b/gear2"  />
+		<Image id="P0B_GEARSOLIDBLUR" path="p0b/gear2blur"  />
+		<Image id="P0B_GEARSOLIDBLACK" path="p0b/gear2black"  />
+		<Image id="P0B_GEARSOLIDBLACKBLUR" path="p0b/gear1blurBlack"  />
 	</Resources>
 </ResourceManifest>
