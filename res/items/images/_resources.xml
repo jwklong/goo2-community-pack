@@ -329,6 +329,12 @@
 		<Image id="HESJUSTTHISGUY_WINDMILLBASEWOODEN" path="HesJustThisGuy/WindmillBaseWooden"  />
 		<Image id="HESJUSTTHISGUY_WINDMILLBASEMETAL" path="HesJustThisGuy/WindmillBaseMetal"  />
 		<Image id="HESJUSTTHISGUY_WINDMILLBASEBLACK" path="HesJustThisGuy/WindmillBaseBlack"  />
+		<Image id="HESJUSTTHISGUY_CAUTIONTAPE" path="HesJustThisGuy/CautionTape"  />
+		<Image id="HESJUSTTHISGUY_CAUTIONSIGN" path="HesJustThisGuy/CautionSign"  />
+		<Image id="HESJUSTTHISGUY_CAUTIONSIGNBLUR" path="HesJustThisGuy/CautionSignBlur"  />
+		<Image id="HESJUSTTHISGUY_CAUTIONSIGNBLUR2" path="HesJustThisGuy/CautionSignBlur2"  />
+		<Image id="HESJUSTTHISGUY_TRAFFICCONE1" path="HesJustThisGuy/TrafficCone1"  />
+		<Image id="HESJUSTTHISGUY_TRAFFICCONE2" path="HesJustThisGuy/TrafficCone2"  />
 		<!-- Assets provided by jwklong -->
 		<Image id="JWKLONG_SCAFFOLDCIRCLE" path="jwklong/ScaffoldCircle"  />
 		<Image id="JWKLONG_SCAFFOLDCIRCLEBLACK" path="jwklong/ScaffoldCircleBlack"  />
@@ -371,7 +377,37 @@
 		<Image id="WHEEL_3BLURBLACK" path="3GuB/wheel3black_blur"/>
 		<Image id="WINDMILL_PROPELLER" path="3GuB/windmillPropeller"/>
 		<Image id="WINDMILL_PROPELLERBLUR" path="3GuB/windmillPropellerBlur"/>
-		<Image id="WINDMILL_PROPELLER_SMALL" path="3GuB/windmillPropellerSmall"/>
+		<Image id="WINDMILL_PROPELLERSMALL" path="3GuB/windmillPropellerSmall"/>
+		<Image id="WINDMILL_BASE" path="3GuB/windmillBase"/>
+		<Image id="WINDMILL_BASE_BLUR" path="3GuB/windmillBaseBlur"/>
+		<Image id="BB1" path="3GuB/bb_1"/>
+		<Image id="BB2" path="3GuB/bb_2"/>
+		<Image id="BB3" path="3GuB/bb_3"/>
+		<Image id="BB4" path="3GuB/bb_4"/>
+		<Image id="BB5" path="3GuB/bb_5"/>
+		<Image id="BB6" path="3GuB/bb_6"/>
+		<Image id="BB7" path="3GuB/bb_7"/>
+		<Image id="BB8" path="3GuB/bb_8"/>
+		<Image id="BB9" path="3GuB/bb_9"/>
+		<Image id="BG_CHAIN" path="3GuB/bg_chain"/>
+		<Image id="BG_HILLS" path="3GuB/bg_hills"/>
+		<Image id="BG_HILLS_BLEEDING" path="3GuB/bg_hills_bleeding"/>
+		<Image id="BG_VEGGIES" path="3GuB/bg_veggies"/>
+		<Image id="BG_VEGGIES_WARM" path="3GuB/bg_veggiesWarm"/>
+		<Image id="BG_YHTETH" path="3GuB/bg_YHTETH"/>
+		<Image id="FG_FOGGYEDGES" path="3GuB/fg_foggyedges"/>
+		<Image id="BB_POST_1" path="3GuB/bb_post_1"/>
+		<Image id="BB_POST_2" path="3GuB/bb_post_2"/>
+		<Image id="BB_POST_3" path="3GuB/bb_post_3"/>
+		<Image id="BB_POST_4" path="3GuB/bb_post_4"/>
+		<Image id="BURNING_MAN" path="3GuB/blockhead"/>
+		<Image id="CIRCLE_GENERIC_1" path="3GuB/circle_generic_1"/>
+		<Image id="CIRCLE_GENERIC_2" path="3GuB/circle_generic_2"/>
+		<Image id="CIRCLE_GENERIC_3" path="3GuB/circle_generic_3"/>
+		<Image id="CIRCLE_GENERIC_4" path="3GuB/circle_generic_4"/>
+		<Image id="SQUARE_GENERIC_1" path="3GuB/square_generic_1"/>
+		<Image id="SQUARE_GENERIC_2" path="3GuB/square_generic_2"/>
+		<Image id="MOON_ORANGE" path="3GuB/moon_orange"/>
 		<!-- Assets provided by Special_Paint -->
 		<Image id="SPECIAL_PAINT_SMOKESTACK" path="Special_Paint/SmokeStack"  />
 		<Image id="SPECIAL_PAINT_SMOKESTACKBLUR" path="Special_Paint/SmokeStackBlur"  />

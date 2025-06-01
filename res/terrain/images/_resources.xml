@@ -81,5 +81,7 @@
 		<Image id="GREEN_PANNEL_EAST" path="Green_PannelE"  />
 		<Image id="GREEN_PANNEL_SOUTH" path="Green_PannelS"  />
 		<Image id="GREEN_PANNEL_WEST" path="Green_PannelW"  />
+		<Image id="INCINERATION_DESTINATION" path="IncinerationDestination"  />
+		<Image id="TAR" path="Tar"  />
 	</Resources>
 </ResourceManifest>
