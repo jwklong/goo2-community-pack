@@ -300,6 +300,7 @@
 		<!-- Assets provided by HesJustThisGuy -->
 		<Image id="HESJUSTTHISGUY_LIQUIDLAUNCHERFOSSIL" path="HesJustThisGuy/LiquidLauncherFossil"  />
 		<Image id="HESJUSTTHISGUY_SCAFFOLDMOSSY" path="HesJustThisGuy/ScaffoldMossy"  />
+		<Image id="HESJUSTTHISGUY_SCAFFOLDMOSSYBLUR" path="HesJustThisGuy/ScaffoldMossyBlur"  />
 		<Image id="HESJUSTTHISGUY_STUMP" path="HesJustThisGuy/Stump"  />
 		<Image id="HESJUSTTHISGUY_GRAYTOTEMROCK3" path="HesJustThisGuy/GrayTotemRock3"  />
 		<Image id="HESJUSTTHISGUY_GRAYTOTEMROCKLUSH" path="HesJustThisGuy/GrayTotemRockLush"  />
@@ -335,6 +336,13 @@
 		<Image id="HESJUSTTHISGUY_CAUTIONSIGNBLUR2" path="HesJustThisGuy/CautionSignBlur2"  />
 		<Image id="HESJUSTTHISGUY_TRAFFICCONE1" path="HesJustThisGuy/TrafficCone1"  />
 		<Image id="HESJUSTTHISGUY_TRAFFICCONE2" path="HesJustThisGuy/TrafficCone2"  />
+		<Image id="HESJUSTTHISGUY_FALLINGROCKSSIGN" path="HesJustThisGuy/FallingRocksSign"  />
+		<Image id="HESJUSTTHISGUY_FALLINGROCKSSIGNBLUR" path="HesJustThisGuy/FallingRocksSignBlur"  />
+		<Image id="HESJUSTTHISGUY_FALLINGROCKSSIGNBLUR2" path="HesJustThisGuy/FallingRocksSignBlur2"  />
+		<Image id="HESJUSTTHISGUY_FALLINGROCKSSIGNSMALL" path="HesJustThisGuy/FallingRocksSignSmall"  />
+		<Image id="HESJUSTTHISGUY_FALLINGROCKSSIGNSMALLBLUR" path="HesJustThisGuy/FallingRocksSignSmallBlur"  />
+		<Image id="HESJUSTTHISGUY_MAGNET" path="HesJustThisGuy/Magnet"  />
+		<Image id="HESJUSTTHISGUY_MAGNETMOSSY" path="HesJustThisGuy/MagnetMossy"  />
 		<!-- Assets provided by jwklong -->
 		<Image id="JWKLONG_SCAFFOLDCIRCLE" path="jwklong/ScaffoldCircle"  />
 		<Image id="JWKLONG_SCAFFOLDCIRCLEBLACK" path="jwklong/ScaffoldCircleBlack"  />
