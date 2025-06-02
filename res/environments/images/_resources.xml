@@ -79,7 +79,18 @@
 		<Image id="VIRTUALSUN_DARKPINKSKY" path="VirtualSun/DarkPinkSky"  />
 		<Image id="VIRTUALSUN_DARKPINKMOUNTAINS" path="VirtualSun/DarkPinkMountains"  />
 		<Image id="VIRTUALSUN_PINKSKYGRADIENT" path="VirtualSun/PinkSkyGradient"  />
+		<Image id="VIRTUALSUN_REDCARPETGRADIENT" path="VirtualSun/RedCarpetGradient"  />
 		<!-- Assets by vEra -->
 		<Image id="VERA_INFOSUPERHIGHWAY" path="vEra/InfoSuperHighway"  />
+		<!-- Assets by HesJustThisGuy -->
+		<Image id="HESJUSTTHISGUY_REDCARPETREMAKE" path="HesJustThisGuy/RedCarpetRemake"  />
+		<Image id="HESJUSTTHISGUY_REDCARPETTOWERS1" path="HesJustThisGuy/RedCarpetTowers1"  />
+		<Image id="HESJUSTTHISGUY_REDCARPETTOWERS2" path="HesJustThisGuy/RedCarpetTowers2"  />
+		<Image id="HESJUSTTHISGUY_REDCARPETTOWERS3" path="HesJustThisGuy/RedCarpetTowers3"  />
+		<Image id="HESJUSTTHISGUY_REDCARPETTOWERS4" path="HesJustThisGuy/RedCarpetTowers4"  />
+		<Image id="HESJUSTTHISGUY_REDCARPETTOWERS1BLUR" path="HesJustThisGuy/RedCarpetTowers1Blur"  />
+		<Image id="HESJUSTTHISGUY_REDCARPETTOWERS2BLUR" path="HesJustThisGuy/RedCarpetTowers2Blur"  />
+		<Image id="HESJUSTTHISGUY_REDCARPETTOWERS3BLUR" path="HesJustThisGuy/RedCarpetTowers3Blur"  />
+		<Image id="HESJUSTTHISGUY_REDCARPETTOWERS4BLUR" path="HesJustThisGuy/RedCarpetTowers4Blur"  />
 	</Resources>
 </ResourceManifest>

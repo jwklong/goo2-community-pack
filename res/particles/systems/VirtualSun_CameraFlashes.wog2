@@ -1,0 +1,132 @@
+{
+	"name": "CameraFlashes",
+	"uuid": "e71eff53-9025-4070-8e39-c956b9d0e223",
+	"initialSizeRange": {
+		"x": 1.5,
+		"y": 3
+	},
+	"scaleMod": {
+		"initialValue": {
+			"x": 1,
+			"y": 1,
+			"z": 1,
+			"w": 1
+		},
+		"endValue": {
+			"x": 0,
+			"y": 0,
+			"z": 1,
+			"w": 1
+		},
+		"frequency": 1,
+		"roundFrequencyToPi": true,
+		"absoluteValue": false,
+		"degree": 1,
+		"randomPhase": false,
+		"type": 3,
+		"mode": 0
+	},
+	"initialSpeedRange": {
+		"x": 0,
+		"y": 0
+	},
+	"initialDirectionRange": {
+		"x": 90,
+		"y": 90
+	},
+	"simulate": false,
+	"externalAcceleration": {
+		"x": 0,
+		"y": 0
+	},
+	"externalAccelerationRandomRotationOffset": 0,
+	"externalAccelerationRandomMagnitudeOffset": 0,
+	"damping": 0,
+	"initialRotationRange": {
+		"x": -180,
+		"y": 180
+	},
+	"initialRotationSpeedRange": {
+		"x": 3.0,
+		"y": 5.0
+	},
+	"aspectRatio": 1,
+	"anchor": {
+		"x": 0,
+		"y": 0
+	},
+	"sinYFreq": 0,
+	"sinYAmplitude": 0,
+	"sinXFreq": 0,
+	"sinXAmplitude": 0,
+	"lifetime": 0.2,
+	"maxCount": 50,
+	"totalCount": -1,
+	"totalCountIsRandom": false,
+	"totalCountRandomRange": {
+		"x": 1,
+		"y": 10
+	},
+	"primeTime": -1,
+	"spawnRate": 60,
+	"spawnShape": 1,
+	"radius": {
+		"x": 0,
+		"y": 0
+	},
+	"rectSidesMask": 0,
+	"despawnOnSpawnAreaLeave": true,
+	"colorization": {
+		"initialValue": {
+			"x": 1,
+			"y": 1,
+			"z": 1,
+			"w": 0
+		},
+		"endValue": {
+			"x": 1,
+			"y": 0.9999899864196777,
+			"z": 0.9999899864196777,
+			"w": 1
+		},
+		"frequency": 1,
+		"roundFrequencyToPi": true,
+		"absoluteValue": false,
+		"degree": 5,
+		"randomPhase": false,
+		"type": 3,
+		"mode": 4
+	},
+	"colorizationVariance": {
+		"initialValue": {
+			"x": 1,
+			"y": 1,
+			"z": 1,
+			"w": 1
+		},
+		"endValue": {
+			"x": 1,
+			"y": 1,
+			"z": 1,
+			"w": 1
+		},
+		"frequency": 1,
+		"roundFrequencyToPi": true,
+		"absoluteValue": false,
+		"degree": 1,
+		"randomPhase": false,
+		"type": 0,
+		"mode": 0
+	},
+	"blendingType": 3,
+	"wholeSceneWidth": true,
+	"wholeSceneHeight": true,
+	"rotationFollowsDirection": false,
+	"directional": false,
+	"useLighting": false,
+	"images": [
+		"IMAGE_FX_SPARKLE1",
+		"IMAGE_FX_SPARKLE2"
+	],
+	"transformsAffectWholeSystemWorld": true
+}

@@ -354,6 +354,7 @@
 		<Image id="DJM_RUSTYCOG1" path="djm334/RustyCog1"  />
 		<Image id="DJM_RUSTYCOG2" path="djm334/RustyCog2"  />
 		<Image id="DJM_RUSTYCOG3" path="djm334/RustyCog3"  />
+		<Image id="DJM_PINKTENTACLE" path="djm334/PinkTentacle"  />
 		<!-- Assets provided by 3GuB -->
 		<Image id="MORALITY_WHEEL" path="3GuB/morality_wheel"/>
 		<Image id="LEVER" path="3GuB/lever"/>

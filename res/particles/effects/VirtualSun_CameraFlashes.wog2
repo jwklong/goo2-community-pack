@@ -1,0 +1,18 @@
+{
+	"name":	"CameraFlashes",
+	"depth":	-400,
+	"scale":	1,
+	"anchorToStage":	false,
+	"stageAnchor":	{
+		"x":	0,
+		"y":	0
+	},
+	"stageAnchorIsScreen":	false,
+	"offset":	{
+		"x":	0,
+		"y":	-5
+	},
+	"uuid":	"801e19af-2c05-44b0-9f44-1d8d8c36bb6f",
+	"renderResolution":	0,
+	"systems":	["e71eff53-9025-4070-8e39-c956b9d0e223", "3e6e07f8-30ab-48d1-b356-a8a7913259d4", "8b2a00dc-4c4c-4b14-894b-a26827961270"]
+}

@@ -1,0 +1,1721 @@
+{
+	"fxs":	[{
+			"name":	"Camera_Standard",
+			"id":	"cameraStandard",
+			"camera":	{
+				"frequency1":	0.550000011920929,
+				"strength1":	4.0999999046325684,
+				"frequency2":	0.649999976158142,
+				"strength2":	2.7999999523162842,
+				"movementFactor":	1,
+				"rotationFactor":	0.10000000149011612
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[]
+		}, {
+			"name":	"Camera_Train",
+			"id":	"cameraTrain",
+			"camera":	{
+				"frequency1":	15,
+				"strength1":	3,
+				"frequency2":	10,
+				"strength2":	1.5,
+				"movementFactor":	0.800000011920929,
+				"rotationFactor":	0.300000011920929
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[]
+		}, {
+			"name":	"Camera_windy",
+			"id":	"cameraWindy",
+			"camera":	{
+				"frequency1":	3.6600000858306885,
+				"strength1":	2.25,
+				"frequency2":	2.75,
+				"strength2":	1,
+				"movementFactor":	0.800000011920929,
+				"rotationFactor":	0.20000000298023224
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[]
+		}, {
+			"name":	"Clouds",
+			"id":	"clouds",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"f30a86b3-7dfe-4b78-8e48-b98403b41abe"
+				}, {
+					"uuid":	"a3bd1bfe-3b07-4a7b-91db-cdc670a30472"
+				}]
+		}, {
+			"name":	"Autumn",
+			"id":	"autumn",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"17e4f4e5-4e26-403f-94da-e45c7f74baf0"
+				}, {
+					"uuid":	"06f18c2e-5cef-4a65-a2f5-175427dbb290"
+				}, {
+					"uuid":	"7f9ae066-f4ce-4baf-a313-f801ec5810e5"
+				}]
+		}, {
+			"name":	"Glowing Cave",
+			"id":	"caveGlowingDust",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"8e1d8418-2deb-4c89-8753-c98c581c7f71"
+				}]
+		}, {
+			"name":	"Chain Reaction",
+			"id":	"chainReaction",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"8f2e4f60-64d6-4274-a518-b070e199cba9"
+				}, {
+					"uuid":	"77bf02c2-91b8-467f-ad12-b7bcd6688130"
+				}, {
+					"uuid":	"d22225b2-59e7-4154-ba30-f3e26c6c3ea2"
+				}]
+		}, {
+			"name":	"CloudsYellow",
+			"id":	"cloudsYellow",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"bef4c648-c75a-4d13-924a-049a5d08c687"
+				}]
+		}, {
+			"name":	"CloudsYellowBg",
+			"id":	"CloudsYellowBg",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"bef4c648-c75a-4d13-924a-049a5d08c687"
+				}]
+		}, {
+			"name":	"CloudsYellowFg",
+			"id":	"CloudsYellowFg",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"bff6f15c-09e0-4181-a847-535cad536d6c"
+				}]
+		}, {
+			"name":	"Fireflies",
+			"id":	"fireflies",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"7dd144c1-fc98-4e27-9df2-78ca43895bff"
+				}]
+		}, {
+			"name":	"Fireworks",
+			"id":	"fireworks",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[]
+		}, {
+			"name":	"Intro",
+			"id":	"intro",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"e17c8a94-c107-416f-affd-3a79b4ffbcc3"
+				}]
+		}, {
+			"name":	"IslandMap_1",
+			"id":	"islandmap1",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"a1268158-3ce4-4ad9-b0ed-9b3d70678f0c"
+				}]
+		}, {
+			"name":	"IslandMap_1FG",
+			"id":	"islandmap1FG",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"a33ba160-9ae8-4ada-be30-fd2f96358bc5"
+				}]
+		}, {
+			"name":	"Rain",
+			"id":	"rain",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-45,
+				"maxRayAngle":	-45,
+				"minRaysPerSecond":	100,
+				"maxRaysPerSecond":	200,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	0.5,
+				"objectParticleEffects":	[{
+						"uuid":	"cc209515-b282-4675-b32c-2622aa3c7af1"
+					}],
+				"terrainParticleEffects":	[{
+						"uuid":	"cc209515-b282-4675-b32c-2622aa3c7af1"
+					}],
+				"waterParticleEffects":	[{
+						"uuid":	"cc209515-b282-4675-b32c-2622aa3c7af1"
+					}]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"911cafd9-4550-4c04-b7b0-27531be9f2ca"
+				}]
+		}, {
+			"name":	"Snowstorm",
+			"id":	"snowstorm",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"b737fbe6-bbfd-42a2-a913-aa65cf68fbf4"
+				}]
+		}, {
+			"name":	"SnowstormFg",
+			"id":	"snowstormFg",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"1d688ffa-26b4-45cb-8ff9-6e72c488a7a0"
+				}]
+		}, {
+			"name":	"Windy",
+			"id":	"windy",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"81cbb530-4cc9-4894-9c5a-9a66a3010802"
+				}]
+		}, {
+			"name":	"WindySubtle",
+			"id":	"windySubtle",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"8a57ebe1-bff1-4969-af7d-172790d7c7b7"
+				}]
+		}, {
+			"name":	"FogCoverBackground",
+			"id":	"fogCover",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"0fcf5283-b7f0-4acd-920a-1a6abf722d9e"
+				}]
+		}, {
+			"name":	"FallDots",
+			"id":	"fallDots",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"a3a83eb1-b998-41f1-a131-b4d22a016c85"
+				}]
+		}, {
+			"name":	"SnowDrift",
+			"id":	"snowDrift",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"8fe8d819-84b4-467f-9810-005ce7d27361"
+				}, {
+					"uuid":	"30840d80-f500-4ddd-ba6c-3a177ef84af5"
+				}, {
+					"uuid":	"1e307292-6933-4981-8844-ceecf4436200"
+				}]
+		}, {
+			"name":	"FallDotsPink",
+			"id":	"fallDotsPink",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"720042b5-69ac-4a20-b950-8739f620a84b"
+				}]
+		}, {
+			"name":	"LowClouds",
+			"id":	"lowClouds",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"e52cebab-321f-4a9c-87b8-9bb90805ecbc"
+				}]
+		}, {
+			"name":	"LowCloudsSoft",
+			"id":	"lowCloudsSoft",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"63f1270f-ca94-419d-855f-5f1d1d012ae1"
+				}]
+		}, {
+			"name":	"LowCloudsSoftYellow",
+			"id":	"lowCloudsSoftYellow",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"52189fa2-df85-4c45-ab8b-fe4c05ebfb07"
+				}]
+		}, {
+			"name":	"Ash Up",
+			"id":	"ashUp",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"8f2e4f60-64d6-4274-a518-b070e199cba9"
+				}]
+		}, {
+			"name":	"IslandMap_2",
+			"id":	"islandmap2",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"8d324da9-30c7-49d4-8eb6-f349442dcf90"
+				}, {
+					"uuid":	"65819abf-3782-49a7-b977-b2683dbacbcd"
+				}]
+		}, {
+			"name":	"IslandMap_3",
+			"id":	"islandMap3",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"b7c9e577-a56f-4579-868e-5292a0092f7a"
+				}, {
+					"uuid":	"5199c5f6-d3e6-48da-affe-9f32a6fe0c93"
+				}, {
+					"uuid":	"3bf80189-e633-43da-946f-5ad69d1543f2"
+				}, {
+					"uuid":	"2f665fe1-16af-4cd5-8d9d-5f9940f9100a"
+				}]
+		}, {
+			"name":	"Ash",
+			"id":	"ash",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"4698be36-1e14-4621-bd06-654451db5ab7"
+				}, {
+					"uuid":	"d57f4f60-4fb5-4640-97dc-7c10eec7b5e3"
+				}, {
+					"uuid":	"5f5ec63c-bd7a-48a6-af48-659d96298ff5"
+				}]
+		}, {
+			"name":	"RainBlack",
+			"id":	"rainBlack",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	100,
+				"maxRaysPerSecond":	200,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	0.5,
+				"objectParticleEffects":	[{
+						"uuid":	"38a4086e-cbf0-45c3-9a95-bd60143d7b22"
+					}],
+				"terrainParticleEffects":	[{
+						"uuid":	"38a4086e-cbf0-45c3-9a95-bd60143d7b22"
+					}],
+				"waterParticleEffects":	[{
+						"uuid":	"38a4086e-cbf0-45c3-9a95-bd60143d7b22"
+					}]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"8af66deb-b5ac-4daa-98c4-9eedf750c999"
+				}, {
+					"uuid":	"8af66deb-b5ac-4daa-98c4-9eedf750c999"
+				}]
+		}, {
+			"name":	"FogCoverForeground",
+			"id":	"fogCoverForeground",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"c6a6b232-c969-48d1-a8d9-4817be84076d"
+				}]
+		}, {
+			"name":	"SmogBottomBg",
+			"id":	"smogBottomBg",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	""
+				}]
+		}, {
+			"name":	"BlowingSot",
+			"id":	"blowingSot",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"ee984f3f-f050-4097-91ec-ca5fb9eda267"
+				}]
+		}, {
+			"name":	"OldMovie",
+			"id":	"oldMovie",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"7005f21f-7865-4203-b580-21c90fad743d"
+				}]
+		}, {
+			"name":	"Starfield",
+			"id":	"starfield",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"c10a5bc8-3e07-47a5-bcee-c8ad7846167d"
+				}, {
+					"uuid":	"a191c180-e736-458b-8aa7-c1c6faf6c04a"
+				}]
+		}, {
+			"name":	"CloudsTransmission",
+			"id":	"cloudstransmission",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"d5bd7346-c02d-48b9-b3e8-8ed8e6fd9a04"
+				}]
+		}, {
+			"name":	"SnowDriftDishConnect",
+			"id":	"snowDriftDishConnect",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"2fd0adc7-5378-4ab0-be44-56df836ff2c1"
+				}, {
+					"uuid":	"ff0ece4c-37d5-4a72-b3a2-e76d6179bca5"
+				}]
+		}, {
+			"name":	"CloudsRescue",
+			"id":	"cloudsrescue",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"92a0bbe1-fa2f-4842-be06-4ebfc19609b0"
+				}]
+		}, {
+			"name":	"AirShipWind",
+			"id":	"airshipwind",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"78ef562e-52d8-4599-b79b-055fc608b476"
+				}]
+		}, {
+			"name":	"FallDotsLight",
+			"id":	"falldotslight",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"5acfa603-60f0-4835-99ec-ba0bbb592a81"
+				}]
+		}, {
+			"name":	"FogCoverBackgroundRight",
+			"id":	"fogCoverRight",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"c5be39b9-2ed7-4a72-8109-357747183b42"
+				}]
+		}, {
+			"name":	"LightningFlash",
+			"id":	"lightningFlash",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[{
+						"waitTime":	{
+							"x":	5,
+							"y":	8
+						},
+						"flashTime":	{
+							"x":	0.20000000298023224,
+							"y":	0.40000000596046448
+						},
+						"backgroundFactor":	{
+							"x":	0.5,
+							"y":	0.800000011920929
+						},
+						"foregroundFactor":	{
+							"x":	-0.5,
+							"y":	-0.699999988079071
+						},
+						"soundDelay":	{
+							"x":	1,
+							"y":	2
+						},
+						"soundVolume":	{
+							"x":	1,
+							"y":	1
+						},
+						"sound":	{
+							"soundId":	"SOUND_GLOBAL_THUNDER_CLAP"
+						}
+					}, {
+						"waitTime":	{
+							"x":	3,
+							"y":	7
+						},
+						"flashTime":	{
+							"x":	0.10000000149011612,
+							"y":	0.20000000298023224
+						},
+						"backgroundFactor":	{
+							"x":	0.5,
+							"y":	0.800000011920929
+						},
+						"foregroundFactor":	{
+							"x":	-0.300000011920929,
+							"y":	-0.600000023841858
+						},
+						"soundDelay":	{
+							"x":	0,
+							"y":	0
+						},
+						"soundVolume":	{
+							"x":	1,
+							"y":	1
+						},
+						"sound":	{
+							"soundId":	"SOUND_GLOBAL_THUNDER_CLAP"
+						}
+					}, {
+						"waitTime":	{
+							"x":	0.20000000298023224,
+							"y":	0.600000023841858
+						},
+						"flashTime":	{
+							"x":	0.20000000298023224,
+							"y":	0.40000000596046448
+						},
+						"backgroundFactor":	{
+							"x":	0.5,
+							"y":	0.800000011920929
+						},
+						"foregroundFactor":	{
+							"x":	-0.5,
+							"y":	-0.600000023841858
+						},
+						"soundDelay":	{
+							"x":	0.5,
+							"y":	3
+						},
+						"soundVolume":	{
+							"x":	1,
+							"y":	1
+						},
+						"sound":	{
+							"soundId":	"SOUND_GLOBAL_THUNDER_RUMBLE"
+						}
+					}]
+			},
+			"particleEffects":	[{
+					"uuid":	""
+				}]
+		}, {
+			"name":	"NebulaBg",
+			"id":	"NebulaBg",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"20eefc83-8b3d-430b-a9e2-d8fc8e1fa166"
+				}]
+		}, {
+			"name":	"fallShapes",
+			"id":	"fallShapes",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"56bd425e-9844-4d70-8494-825fca355d64"
+				}]
+		}, {
+			"name":	"fallShapesGreen",
+			"id":	"fallShapesGreen",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"60bf299e-769a-46bd-b8a7-d20a09d9ec7d"
+				}]
+		}, {
+			"name":	"NeonBG",
+			"id":	"NeonBG",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"4137b9f2-8546-46d0-9a09-49dd39f4c796"
+				}, {
+					"uuid":	"844b26f2-36c1-4199-b136-74d151491a97"
+				}, {
+					"uuid":	"4c4a362e-8c8b-43cc-83e7-2b8d52a79ca4"
+				}, {
+					"uuid":	"d473bd49-3d68-41da-b9ac-2db7bc322671"
+				}]
+		}, {
+			"name":	"TrainWindAndSnow",
+			"id":	"TrainWindAndSnow",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"dbad1ccb-4f8a-4f6b-9947-cf551dcf62e3"
+				}, {
+					"uuid":	"b8513da9-92ec-4e74-bf51-bc84c2c8d9fb"
+				}]
+		}, {
+			"name":	"TrainWindAndSnowLight",
+			"id":	"TrainWindAndSnowLight",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"ce198657-8447-4d5d-8846-a7521ef9e5a3"
+				}]
+		}, {
+			"name":	"GlowingBinary",
+			"id":	"GlowingBinary",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"aaa2881f-b552-42ff-b560-aed12bba51a7"
+				}]
+		}, {
+			"name":	"RiverOfFire",
+			"id":	"RiverOfFire",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"24e1576d-4bce-486f-bb83-2837eaffdab9"
+				}]
+		}, {
+			"name":	"CameraFlashes",
+			"id":	"CameraFlashes",
+			"camera":	{
+				"frequency1":	0,
+				"strength1":	0,
+				"frequency2":	0,
+				"strength2":	0,
+				"movementFactor":	0,
+				"rotationFactor":	0
+			},
+			"splashEffect":	{
+				"minRayAngle":	-89,
+				"maxRayAngle":	-91,
+				"minRaysPerSecond":	0,
+				"maxRaysPerSecond":	0,
+				"minNormalFactor":	0.75,
+				"maxNormalFactor":	1,
+				"depth":	9.99999974737875e-06,
+				"waterRippleProbability":	1.0000100135803223,
+				"objectParticleEffects":	[],
+				"terrainParticleEffects":	[],
+				"waterParticleEffects":	[]
+			},
+			"lightningEffect":	{
+				"instances":	[]
+			},
+			"particleEffects":	[{
+					"uuid":	"801e19af-2c05-44b0-9f44-1d8d8c36bb6f"
+				}]
+		}]
+}
