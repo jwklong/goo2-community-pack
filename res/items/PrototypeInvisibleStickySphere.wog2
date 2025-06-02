@@ -5,8 +5,8 @@
 			"type":	1,
 			"category":	"prototype",
 			"layer":	2,
-			"minDepth":	0,
-			"maxDepth":	0,
+			"minDepth":	-10,
+			"maxDepth":	10,
 			"sortOffset":	0,
 			"radiusOverride":	0,
 			"canRotate":	true,
@@ -21,6 +21,10 @@
 			"animationAlias":	"",
 			"animationSpeed":	1,
 			"animationInNormalizedTime":	0.5,
+			"animationPlayNormalizedTimeRange":	{
+				"x":	0,
+				"y":	0
+			},
 			"animationLocalPosition":	{
 				"x":	0,
 				"y":	0
@@ -29,10 +33,11 @@
 				"x":	1,
 				"y":	1
 			},
-			"animationRotation":	0,
+			"animationRotation":	0.1,
 			"userValue1":	0,
 			"userValue2":	0,
 			"snapObjectIndex":	0,
+			"destroyForce":	-1,
 			"objects":	[{
 					"name":	"IMAGE_ITEM_PROTOTYPE_PROTOTYPESTATICSPHERE",
 					"randomizationGroup":	0,
@@ -62,7 +67,7 @@
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
-						"type":	0,
+						"type":	2,
 						"pos":	{
 							"x":	0,
 							"y":	0
