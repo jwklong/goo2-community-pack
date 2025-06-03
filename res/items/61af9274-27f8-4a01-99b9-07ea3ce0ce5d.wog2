@@ -1,0 +1,93 @@
+{
+	"items":	[{
+			"name":	"Prototype/PrototypeDynamicTriangle",
+			"uuid":	"61af9274-27f8-4a01-99b9-07ea3ce0ce5d",
+			"type":	1,
+			"category":	"prototype",
+			"minDepth":	0,
+			"maxDepth":	0,
+			"radiusOverride":	0,
+			"canRotate":	true,
+			"useLighting":	true,
+			"animation":	"",
+			"animationSpeed":	1,
+			"animationLoop":	true,
+			"userValue1":	0,
+			"userValue2":	0,
+			"objects":	[{
+					"name":	"IMAGE_ITEM_PROTOTYPE_PROTOTYPEDYNAMICTRIANGLE",
+					"randomizationGroup":	0,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	1,
+					"imageAlpha":	1,
+					"depthOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.39100000262260437
+					},
+					"animationObjectName":	"",
+					"rotationSpeed":	0,
+					"invisible":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"shaderFactor":	1,
+					"body":	{
+						"id":	"",
+						"type":	1,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	true,
+						"materialName":	"rock",
+						"tags":	"",
+						"geoms":	[{
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	1,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-128,
+										"y":	-128
+									}, {
+										"x":	128,
+										"y":	-128
+									}, {
+										"x":	0.5,
+										"y":	128
+									}]
+							}],
+						"categoryBits":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}],
+			"alternates":	[],
+			"userVariables":	[],
+			"limits":	{
+				"minScale":	0.10000000149011612,
+				"maxScale":	2
+			}
+		}]
+}

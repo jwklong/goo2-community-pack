@@ -343,6 +343,35 @@
 		<Image id="HESJUSTTHISGUY_FALLINGROCKSSIGNSMALLBLUR" path="HesJustThisGuy/FallingRocksSignSmallBlur"  />
 		<Image id="HESJUSTTHISGUY_MAGNET" path="HesJustThisGuy/Magnet"  />
 		<Image id="HESJUSTTHISGUY_MAGNETMOSSY" path="HesJustThisGuy/MagnetMossy"  />
+		<Image id="HESJUSTTHISGUY_DYNAMICCUBE" path="HesJustThisGuy/DynamicCube"  />
+		<Image id="HESJUSTTHISGUY_BLANKSIGN" path="HesJustThisGuy/BlankSign"  />
+		<Image id="ICON_HESJUSTTHISGUY_COMMON" path="HesJustThisGuy/SignIcons/common"  />
+		<Image id="ICON_HESJUSTTHISGUY_SLEEP" path="HesJustThisGuy/SignIcons/sleep"  />
+		<Image id="ICON_HESJUSTTHISGUY_ALBINO" path="HesJustThisGuy/SignIcons/albino"  />
+		<Image id="ICON_HESJUSTTHISGUY_BALLOON" path="HesJustThisGuy/SignIcons/balloon"  />
+		<Image id="ICON_HESJUSTTHISGUY_BALLOONEYE" path="HesJustThisGuy/SignIcons/balloon_eye"  />
+		<Image id="ICON_HESJUSTTHISGUY_IVY" path="HesJustThisGuy/SignIcons/ivy"  />
+		<Image id="ICON_HESJUSTTHISGUY_CONDUIT" path="HesJustThisGuy/SignIcons/conduit"  />
+		<Image id="ICON_HESJUSTTHISGUY_BALLLAUNCHER" path="HesJustThisGuy/SignIcons/ball_launcher"  />
+		<Image id="ICON_HESJUSTTHISGUY_LIQUIDLAUNCHER" path="HesJustThisGuy/SignIcons/liquid_launcher"  />
+		<Image id="ICON_HESJUSTTHISGUY_THRUSTER" path="HesJustThisGuy/SignIcons/thruster"  />
+
+		<Image id="ICON_HESJUSTTHISGUY_PRODUCT" path="HesJustThisGuy/SignIcons/product"  />
+		<Image id="ICON_HESJUSTTHISGUY_ALBINOPRODUCT" path="HesJustThisGuy/SignIcons/albino_product"  />
+		<Image id="ICON_HESJUSTTHISGUY_EYE" path="HesJustThisGuy/SignIcons/eye"  />
+		<Image id="ICON_HESJUSTTHISGUY_GROW" path="HesJustThisGuy/SignIcons/grow"  />
+		<Image id="ICON_HESJUSTTHISGUY_SHRINK" path="HesJustThisGuy/SignIcons/shrink"  />
+		<Image id="ICON_HESJUSTTHISGUY_GLOW" path="HesJustThisGuy/SignIcons/glow"  />
+		<Image id="ICON_HESJUSTTHISGUY_MATCH" path="HesJustThisGuy/SignIcons/match"  />
+		<Image id="ICON_HESJUSTTHISGUY_BOMB" path="HesJustThisGuy/SignIcons/bomb"  />
+		<Image id="ICON_HESJUSTTHISGUY_TERRAIN" path="HesJustThisGuy/SignIcons/terrain"  />
+		<Image id="ICON_HESJUSTTHISGUY_BOUNCY" path="HesJustThisGuy/SignIcons/bouncy"  />
+
+		<Image id="ICON_HESJUSTTHISGUY_FIREWORK" path="HesJustThisGuy/SignIcons/firework"  />
+		<Image id="ICON_HESJUSTTHISGUY_GOOLF" path="HesJustThisGuy/SignIcons/goolf"  />
+		<Image id="ICON_HESJUSTTHISGUY_BITS" path="HesJustThisGuy/SignIcons/bits"  />
+		<Image id="ICON_HESJUSTTHISGUY_THISWAYUP" path="HesJustThisGuy/SignIcons/this_way_up"  />
+		<Image id="ICON_HESJUSTTHISGUY_FISH" path="HesJustThisGuy/SignIcons/fish"  />
 		<!-- Assets provided by jwklong -->
 		<Image id="JWKLONG_SCAFFOLDCIRCLE" path="jwklong/ScaffoldCircle"  />
 		<Image id="JWKLONG_SCAFFOLDCIRCLEBLACK" path="jwklong/ScaffoldCircleBlack"  />
@@ -422,6 +451,8 @@
 		<Image id="SPECIAL_PAINT_SMOKESTACKBLUR" path="Special_Paint/SmokeStackBlur"  />
 		<Image id="SPECIAL_PAINT_SMOKESTACKBROKEN" path="Special_Paint/SmokeStackBroken"  />
 		<Image id="SPECIAL_PAINT_SMOKESTACKBROKENBLUR" path="Special_Paint/SmokeStackBrokenBlur"  />
+		<Image id="SPECIAL_PAINT_SMOKESTACKMEGA" path="Special_Paint/SmokeStackMega"  />
+		<Image id="SPECIAL_PAINT_SMOKESTACKMEGABLUR" path="Special_Paint/SmokeStackMegaBlur"  />
 		<!-- Assets provided by p0b -->
 		<Image id="P0B_BOGTREE" path="p0b/BogTree"  />
 		<Image id="P0B_CACTUS" path="p0b/cactus_Redesign"  />
@@ -429,6 +460,14 @@
 		<Image id="P0B_GEARSOLIDBLUR" path="p0b/gear2blur"  />
 		<Image id="P0B_GEARSOLIDBLACK" path="p0b/gear2black"  />
 		<Image id="P0B_GEARSOLIDBLACKBLUR" path="p0b/gear1blurBlack"  />
+		<Image id="P0B_GEARBIG" path="p0b/gear_Big1"  />
+		<Image id="P0B_GEARBIGBLUR" path="p0b/gear_Big1Blur"  />
+		<Image id="P0B_GEARBIGBLACK" path="p0b/gear_Big1Black"  />
+		<Image id="P0B_GEARBIGBLACKBLUR" path="p0b/gear_Big1BlurBlack"  />
+		<Image id="P0B_GEARTINY" path="p0b/gear_Tiny1"  />
+		<Image id="P0B_GEARTINYBLUR" path="p0b/gear_Tiny1blur"  />
+		<Image id="P0B_GEARTINYBLACK" path="p0b/gear_Tiny1Black"  />
+		<Image id="P0B_GEARTINYBLACKBLUR" path="p0b/gear_Tiny1blurblur"  />
 		<!-- Assets provided by spikeygoo -->
 		<Image id="SPIKEYGOO_TRAFFICSIGN1" path="spikeygoo/signWarning4"  />
 		<Image id="SPIKEYGOO_TRAFFICSIGN2" path="spikeygoo/signWarning5"  />

@@ -1,0 +1,517 @@
+{
+	"items":	[{
+			"name":	"TristenArctician/ScaffoldTilableSticky",
+			"uuid":	"TristenArctician_ScaffoldTilableSticky",
+			"type":	5,
+			"category":	"",
+			"layer":	1,
+			"minDepth":	-9.99999974737875e-05,
+			"maxDepth":	-9.99999974737875e-05,
+			"sortOffset":	-999,
+			"radiusOverride":	0,
+			"canRotate":	true,
+			"uniformScale":	false,
+			"canBeCopied":	true,
+			"variations":	true,
+			"useLighting":	true,
+			"castShadow":	true,
+			"color":	4294967295,
+			"animationName":	"",
+			"animationAlias":	"",
+			"animationSpeed":	1,
+			"animationInNormalizedTime":	0.5,
+			"animationPlayNormalizedTimeRange":	{
+				"x":	0,
+				"y":	0
+			},
+			"animationLocalPosition":	{
+				"x":	0,
+				"y":	0
+			},
+			"animationLocalScale":	{
+				"x":	1,
+				"y":	1
+			},
+			"animationRotation":	0,
+			"userValue1":	0,
+			"userValue2":	0,
+			"snapObjectIndex":	0,
+			"destroyForce":	-1,
+			"objects":	[{
+					"name":	"IMAGE_ITEM_SCAFFOLDBLACK",
+					"randomizationGroup":	1,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	{
+						"x":	1,
+						"y":	1
+					},
+					"color":	4294967295,
+					"depthOffset":	0,
+					"sortOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"rotationSpeed":	0,
+					"invisible":	false,
+					"clickable":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"ignoreScale":	false,
+					"shaderFactor":	1,
+					"body":	{
+						"id":	"",
+						"type":	0,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	true,
+						"materialName":	"terrain_dirt",
+						"tags":	"",
+						"geoms":	[{
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	1,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-34,
+										"y":	-116.99999237060547
+									}, {
+										"x":	42,
+										"y":	-116.99999237060547
+									}, {
+										"x":	42,
+										"y":	116.99999237060547
+									}, {
+										"x":	-34,
+										"y":	116.99999237060547
+									}]
+							}],
+						"categoryBits":	64
+					},
+					"colorFx":	{
+						"enabled":	false,
+						"brightness":	0,
+						"contrast":	0,
+						"exposure":	0,
+						"saturation":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}, {
+					"name":	"IMAGE_ITEM_SCAFFOLD",
+					"randomizationGroup":	1,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	{
+						"x":	1,
+						"y":	1
+					},
+					"color":	4294967295,
+					"depthOffset":	0,
+					"sortOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"rotationSpeed":	0,
+					"invisible":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"shaderFactor":	1,
+					"body":	{
+						"id":	"",
+						"type":	0,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	true,
+						"materialName":	"terrain_dirt",
+						"tags":	"",
+						"geoms":	[{
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	1,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-34,
+										"y":	-116.99999237060547
+									}, {
+										"x":	42,
+										"y":	-116.99999237060547
+									}, {
+										"x":	42,
+										"y":	116.99999237060547
+									}, {
+										"x":	-34,
+										"y":	116.99999237060547
+									}]
+							}],
+						"categoryBits":	64
+					},
+					"colorFx":	{
+						"enabled":	false,
+						"brightness":	0,
+						"contrast":	0,
+						"exposure":	0,
+						"saturation":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}, {
+					"name":	"IMAGE_ITEM_SCAFFOLDMACHINE",
+					"randomizationGroup":	1,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	{
+						"x":	1,
+						"y":	1
+					},
+					"color":	4294967295,
+					"depthOffset":	0,
+					"sortOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"rotationSpeed":	0,
+					"invisible":	false,
+					"clickable":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"ignoreScale":	false,
+					"shaderFactor":	1,
+					"enableWind":	false,
+					"windFactor":	{
+						"x":	0,
+						"y":	0
+					},
+					"stencilMode":	0,
+					"stencilMask":	0,
+					"alphaTestValue":	0,
+					"body":	{
+						"id":	"",
+						"type":	0,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	true,
+						"materialName":	"terrain_dirt",
+						"tags":	"",
+						"geoms":	[{
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	1,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	6.7822995185852051,
+										"y":	-217.83695983886719
+									}, {
+										"x":	86.8708038330078,
+										"y":	-216.34394836425781
+									}, {
+										"x":	88.7404098510742,
+										"y":	238.8369140625
+									}, {
+										"x":	4.95693302154541,
+										"y":	205.71603393554688
+									}]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	1,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	4.95693302154541,
+										"y":	205.71603393554688
+									}, {
+										"x":	-56.435432434082031,
+										"y":	233.21365356445312
+									}, {
+										"x":	-58.3050537109375,
+										"y":	-229.46488952636719
+									}, {
+										"x":	6.7822995185852051,
+										"y":	-217.83695983886719
+									}]
+							}],
+						"categoryBits":	64
+					},
+					"colorFx":	{
+						"enabled":	false,
+						"brightness":	0,
+						"contrast":	0,
+						"exposure":	0,
+						"saturation":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}, {
+					"name":	"IMAGE_ITEM_PAPER_SCAFFOLD",
+					"randomizationGroup":	1,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	{
+						"x":	1,
+						"y":	1
+					},
+					"color":	4287927444,
+					"depthOffset":	0,
+					"sortOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"rotationSpeed":	0,
+					"invisible":	false,
+					"clickable":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"ignoreScale":	false,
+					"shaderFactor":	1,
+					"enableWind":	false,
+					"windFactor":	{
+						"x":	0,
+						"y":	0
+					},
+					"body":	{
+						"id":	"",
+						"type":	0,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	true,
+						"materialName":	"terrain_dirt",
+						"tags":	"",
+						"geoms":	[{
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	1,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-40.071163177490234,
+										"y":	-116.99999237060547
+									}, {
+										"x":	35.928836822509766,
+										"y":	-116.99999237060547
+									}, {
+										"x":	35.928836822509766,
+										"y":	116.99999237060547
+									}, {
+										"x":	-40.071163177490234,
+										"y":	116.99999237060547
+									}]
+							}],
+						"categoryBits":	64
+					},
+					"colorFx":	{
+						"enabled":	false,
+						"brightness":	0,
+						"contrast":	0,
+						"exposure":	0,
+						"saturation":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}, {
+					"name":	"IMAGE_ITEM_SCAFFOLDSYNTH",
+					"randomizationGroup":	1,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	{
+						"x":	1,
+						"y":	1
+					},
+					"color":	4294967295,
+					"depthOffset":	0,
+					"sortOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"rotationSpeed":	0,
+					"invisible":	false,
+					"clickable":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"ignoreScale":	false,
+					"shaderFactor":	1,
+					"enableWind":	false,
+					"windFactor":	{
+						"x":	0,
+						"y":	0
+					},
+					"body":	{
+						"id":	"",
+						"type":	0,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	true,
+						"materialName":	"terrain_dirt",
+						"tags":	"",
+						"geoms":	[{
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	1,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-34,
+										"y":	-116.99999237060547
+									}, {
+										"x":	42,
+										"y":	-116.99999237060547
+									}, {
+										"x":	42,
+										"y":	116.99999237060547
+									}, {
+										"x":	-34,
+										"y":	116.99999237060547
+									}]
+							}],
+						"categoryBits":	64
+					},
+					"colorFx":	{
+						"enabled":	false,
+						"brightness":	0,
+						"contrast":	0,
+						"exposure":	0,
+						"saturation":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}],
+			"alternates":	[],
+			"userVariables":	[],
+			"snapPoints":	[{
+					"x":	0,
+					"y":	-1
+				}, {
+					"x":	0,
+					"y":	1
+				}],
+			"limits":	{
+				"minScale":	0.10000000149011612,
+				"maxScale":	50
+			}
+		}]
+}
