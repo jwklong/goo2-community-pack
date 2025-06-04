@@ -1,16 +1,17 @@
 {
 	"items":	[{
-			"name":	"spikeygoo/TrafficSigns",
-			"uuid":	"spikeygoo_TrafficSigns",
+			"name":	"3GuB/Light Shafts",
+			"uuid":	"3GuB_lightshafts",
 			"type":	1,
-			"category":	"",
+			"category":	"misc",
 			"layer":	1,
-			"minDepth":	-2000,
-			"maxDepth":	500,
+			"minDepth":	-1000,
+			"maxDepth":	1000,
 			"sortOffset":	0,
 			"radiusOverride":	0,
 			"canRotate":	true,
-			"uniformScale":	true,
+			"uniformScale":	false,
+			"canBeCopied":	true,
 			"variations":	true,
 			"useLighting":	true,
 			"castShadow":	true,
@@ -19,6 +20,10 @@
 			"animationAlias":	"",
 			"animationSpeed":	1,
 			"animationInNormalizedTime":	0.5,
+			"animationPlayNormalizedTimeRange":	{
+				"x":	0,
+				"y":	0
+			},
 			"animationLocalPosition":	{
 				"x":	0,
 				"y":	0
@@ -31,13 +36,13 @@
 			"userValue1":	0,
 			"userValue2":	0,
 			"snapObjectIndex":	0,
-			"objects":	[
-				{
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN1",
+			"destroyForce":	-1,
+			"objects":	[{
+					"name":	"IMAGE_ITEM_LS1_1",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0.5,
+						"y":	1
 					},
 					"rotation":	0,
 					"scale":	{
@@ -50,18 +55,20 @@
 					"imageBlendingType":	2,
 					"pivot":	{
 						"x":	0.5,
-						"y":	0.5
+						"y":	1
 					},
-					"rotationSpeed":	0,
+					"rotationSpeed":	2,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
-						"type":	0,
+						"type":	2,
 						"pos":	{
 							"x":	0,
 							"y":	0
@@ -70,7 +77,26 @@
 						"collisionEnabled":	false,
 						"materialName":	"generic",
 						"tags":	"",
-						"geoms":	[],
+						"geoms":	[{
+								"type":	1,
+								"width":	0,
+								"height":	0,
+								"radius":	10,
+								"density":	1,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[]
+							}],
 						"categoryBits":	0
 					},
 					"colorFx":	{
@@ -83,11 +109,11 @@
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN2",
+					"name":	"IMAGE_ITEM_LS1_2",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0.5,
+						"y":	1
 					},
 					"rotation":	0,
 					"scale":	{
@@ -100,18 +126,20 @@
 					"imageBlendingType":	2,
 					"pivot":	{
 						"x":	0.5,
-						"y":	0.5
+						"y":	1
 					},
-					"rotationSpeed":	0,
+					"rotationSpeed":	2,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
-						"type":	0,
+						"type":	2,
 						"pos":	{
 							"x":	0,
 							"y":	0
@@ -120,7 +148,26 @@
 						"collisionEnabled":	false,
 						"materialName":	"generic",
 						"tags":	"",
-						"geoms":	[],
+						"geoms":	[{
+								"type":	1,
+								"width":	0,
+								"height":	0,
+								"radius":	10,
+								"density":	1,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[]
+							}],
 						"categoryBits":	0
 					},
 					"colorFx":	{
@@ -133,11 +180,11 @@
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN3",
+					"name":	"IMAGE_ITEM_LS1_3",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0.5,
+						"y":	1
 					},
 					"rotation":	0,
 					"scale":	{
@@ -150,18 +197,20 @@
 					"imageBlendingType":	2,
 					"pivot":	{
 						"x":	0.5,
-						"y":	0.5
+						"y":	1
 					},
-					"rotationSpeed":	0,
+					"rotationSpeed":	2,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
-						"type":	0,
+						"type":	2,
 						"pos":	{
 							"x":	0,
 							"y":	0
@@ -170,7 +219,26 @@
 						"collisionEnabled":	false,
 						"materialName":	"generic",
 						"tags":	"",
-						"geoms":	[],
+						"geoms":	[{
+								"type":	1,
+								"width":	0,
+								"height":	0,
+								"radius":	10,
+								"density":	1,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[]
+							}],
 						"categoryBits":	0
 					},
 					"colorFx":	{
@@ -183,11 +251,11 @@
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN4",
+					"name":	"IMAGE_ITEM_LS1_4",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0.5,
+						"y":	1
 					},
 					"rotation":	0,
 					"scale":	{
@@ -200,18 +268,20 @@
 					"imageBlendingType":	2,
 					"pivot":	{
 						"x":	0.5,
-						"y":	0.5
+						"y":	1
 					},
-					"rotationSpeed":	0,
+					"rotationSpeed":	2,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
-						"type":	0,
+						"type":	2,
 						"pos":	{
 							"x":	0,
 							"y":	0
@@ -220,7 +290,26 @@
 						"collisionEnabled":	false,
 						"materialName":	"generic",
 						"tags":	"",
-						"geoms":	[],
+						"geoms":	[{
+								"type":	1,
+								"width":	0,
+								"height":	0,
+								"radius":	10,
+								"density":	1,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[]
+							}],
 						"categoryBits":	0
 					},
 					"colorFx":	{
@@ -233,11 +322,11 @@
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN5",
+					"name":	"IMAGE_ITEM_LS1_5",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0.5,
+						"y":	1
 					},
 					"rotation":	0,
 					"scale":	{
@@ -250,18 +339,20 @@
 					"imageBlendingType":	2,
 					"pivot":	{
 						"x":	0.5,
-						"y":	0.5
+						"y":	1
 					},
-					"rotationSpeed":	0,
+					"rotationSpeed":	2,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
-						"type":	0,
+						"type":	2,
 						"pos":	{
 							"x":	0,
 							"y":	0
@@ -270,7 +361,26 @@
 						"collisionEnabled":	false,
 						"materialName":	"generic",
 						"tags":	"",
-						"geoms":	[],
+						"geoms":	[{
+								"type":	1,
+								"width":	0,
+								"height":	0,
+								"radius":	10,
+								"density":	1,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[]
+							}],
 						"categoryBits":	0
 					},
 					"colorFx":	{
@@ -283,11 +393,11 @@
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN6",
+					"name":	"IMAGE_ITEM_LS1_6",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0.5,
+						"y":	1
 					},
 					"rotation":	0,
 					"scale":	{
@@ -300,68 +410,20 @@
 					"imageBlendingType":	2,
 					"pivot":	{
 						"x":	0.5,
-						"y":	0.5
-					},
-					"rotationSpeed":	0,
-					"invisible":	false,
-					"stableFluidsDensityFactor":	0,
-					"dynamicLightingFactor":	0,
-					"flipHorizontal":	false,
-					"flipVertical":	false,
-					"shaderFactor":	1,
-					"body":	{
-						"id":	"",
-						"type":	0,
-						"pos":	{
-							"x":	0,
-							"y":	0
-						},
-						"rotation":	0,
-						"collisionEnabled":	false,
-						"materialName":	"generic",
-						"tags":	"",
-						"geoms":	[],
-						"categoryBits":	0
-					},
-					"colorFx":	{
-						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
-						"exposure":	0,
-						"saturation":	0
-					},
-					"particleEffects":	[],
-					"points":	[]
-				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN7",
-					"randomizationGroup":	1,
-					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
-					},
-					"rotation":	0,
-					"scale":	{
-						"x":	1,
 						"y":	1
 					},
-					"color":	4294967295,
-					"depthOffset":	0,
-					"sortOffset":	0,
-					"imageBlendingType":	2,
-					"pivot":	{
-						"x":	0.5,
-						"y":	0.5
-					},
-					"rotationSpeed":	0,
+					"rotationSpeed":	2,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
-						"type":	0,
+						"type":	2,
 						"pos":	{
 							"x":	0,
 							"y":	0
@@ -370,7 +432,26 @@
 						"collisionEnabled":	false,
 						"materialName":	"generic",
 						"tags":	"",
-						"geoms":	[],
+						"geoms":	[{
+								"type":	1,
+								"width":	0,
+								"height":	0,
+								"radius":	10,
+								"density":	1,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[]
+							}],
 						"categoryBits":	0
 					},
 					"colorFx":	{
@@ -382,164 +463,13 @@
 					},
 					"particleEffects":	[],
 					"points":	[]
-				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN8",
-					"randomizationGroup":	1,
-					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
-					},
-					"rotation":	0,
-					"scale":	{
-						"x":	1,
-						"y":	1
-					},
-					"color":	4294967295,
-					"depthOffset":	0,
-					"sortOffset":	0,
-					"imageBlendingType":	2,
-					"pivot":	{
-						"x":	0.5,
-						"y":	0.5
-					},
-					"rotationSpeed":	0,
-					"invisible":	false,
-					"stableFluidsDensityFactor":	0,
-					"dynamicLightingFactor":	0,
-					"flipHorizontal":	false,
-					"flipVertical":	false,
-					"shaderFactor":	1,
-					"body":	{
-						"id":	"",
-						"type":	0,
-						"pos":	{
-							"x":	0,
-							"y":	0
-						},
-						"rotation":	0,
-						"collisionEnabled":	false,
-						"materialName":	"generic",
-						"tags":	"",
-						"geoms":	[],
-						"categoryBits":	0
-					},
-					"colorFx":	{
-						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
-						"exposure":	0,
-						"saturation":	0
-					},
-					"particleEffects":	[],
-					"points":	[]
-				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN9",
-					"randomizationGroup":	1,
-					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
-					},
-					"rotation":	0,
-					"scale":	{
-						"x":	1,
-						"y":	1
-					},
-					"color":	4294967295,
-					"depthOffset":	0,
-					"sortOffset":	0,
-					"imageBlendingType":	2,
-					"pivot":	{
-						"x":	0.5,
-						"y":	0.5
-					},
-					"rotationSpeed":	0,
-					"invisible":	false,
-					"stableFluidsDensityFactor":	0,
-					"dynamicLightingFactor":	0,
-					"flipHorizontal":	false,
-					"flipVertical":	false,
-					"shaderFactor":	1,
-					"body":	{
-						"id":	"",
-						"type":	0,
-						"pos":	{
-							"x":	0,
-							"y":	0
-						},
-						"rotation":	0,
-						"collisionEnabled":	false,
-						"materialName":	"generic",
-						"tags":	"",
-						"geoms":	[],
-						"categoryBits":	0
-					},
-					"colorFx":	{
-						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
-						"exposure":	0,
-						"saturation":	0
-					},
-					"particleEffects":	[],
-					"points":	[]
-				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN10",
-					"randomizationGroup":	1,
-					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
-					},
-					"rotation":	0,
-					"scale":	{
-						"x":	1,
-						"y":	1
-					},
-					"color":	4294967295,
-					"depthOffset":	0,
-					"sortOffset":	0,
-					"imageBlendingType":	2,
-					"pivot":	{
-						"x":	0.5,
-						"y":	0.5
-					},
-					"rotationSpeed":	0,
-					"invisible":	false,
-					"stableFluidsDensityFactor":	0,
-					"dynamicLightingFactor":	0,
-					"flipHorizontal":	false,
-					"flipVertical":	false,
-					"shaderFactor":	1,
-					"body":	{
-						"id":	"",
-						"type":	0,
-						"pos":	{
-							"x":	0,
-							"y":	0
-						},
-						"rotation":	0,
-						"collisionEnabled":	false,
-						"materialName":	"generic",
-						"tags":	"",
-						"geoms":	[],
-						"categoryBits":	0
-					},
-					"colorFx":	{
-						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
-						"exposure":	0,
-						"saturation":	0
-					},
-					"particleEffects":	[],
-					"points":	[]
-				}
-				],
+				}],
 			"alternates":	[],
 			"userVariables":	[],
 			"snapPoints":	[],
 			"limits":	{
-				"minScale":	0.20000000298023224,
-				"maxScale":	10
+				"minScale":	0.1,
+				"maxScale":	100
 			}
 		}]
 }

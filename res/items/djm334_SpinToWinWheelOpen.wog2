@@ -1,18 +1,18 @@
 {
 	"items":	[{
-			"name":	"3GuB/3rd Wheel",
-			"uuid":	"3GuB_MoralityWheel",
-			"type":	1,
-			"category":	"misc",
+			"name":	"djm334/SpinToWinWheelOpen",
+			"uuid":	"djm334_SpinToWinWheelOpen",
+			"type":	16,
+			"category":	"Misc",
 			"layer":	2,
-			"minDepth":	-10,
-			"maxDepth":	10,
+			"minDepth":	-9.99999974737875e-06,
+			"maxDepth":	-9.99999974737875e-06,
 			"sortOffset":	0,
-			"radiusOverride":	0,
+			"radiusOverride":	2,
 			"canRotate":	true,
 			"uniformScale":	true,
 			"canBeCopied":	true,
-			"variations":	true,
+			"variations":	false,
 			"useLighting":	true,
 			"castShadow":	true,
 			"checkVisibility":	true,
@@ -33,22 +33,22 @@
 				"x":	1,
 				"y":	1
 			},
-			"animationRotation":	0.1,
-			"userValue1":	0,
-			"userValue2":	0,
+			"animationRotation":	0,
+			"userValue1":	2.1500000953674316,
+			"userValue2":	16,
 			"snapObjectIndex":	0,
 			"destroyForce":	-1,
 			"objects":	[{
-					"name":	"IMAGE_ITEM_MORALITY_WHEEL",
-					"randomizationGroup":	1,
+					"name":	"IMAGE_ITEM_DJM_SPINTOWINWHEELOPEN",
+					"randomizationGroup":	0,
 					"position":	{
 						"x":	0,
 						"y":	0
 					},
 					"rotation":	0,
 					"scale":	{
-						"x":	0.57,
-						"y":	0.57
+						"x":	0.800000011920929,
+						"y":	0.800000011920929
 					},
 					"color":	4294967295,
 					"depthOffset":	0,
@@ -58,7 +58,7 @@
 						"x":	0.5,
 						"y":	0.5
 					},
-					"rotationSpeed":	1,
+					"rotationSpeed":	5,
 					"invisible":	false,
 					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
@@ -84,30 +84,11 @@
 						"materialName":	"rock",
 						"tags":	"",
 						"geoms":	[{
-								"type":	1,
-								"width":	0,
-								"height":	0,
-								"radius":	281,
-								"density":	3,
-								"offset":	{
-									"x":	0,
-									"y":	0
-								},
-								"rotation":	0,
-								"normal":	{
-									"x":	0,
-									"y":	1
-								},
-								"isSensor":	false,
-								"friction":	-1,
-								"bounciness":	-1,
-								"points":	[]
-							}, {
 								"type":	4,
 								"width":	0,
 								"height":	0,
 								"radius":	0,
-								"density":	3,
+								"density":	1,
 								"offset":	{
 									"x":	0,
 									"y":	0
@@ -121,24 +102,24 @@
 								"friction":	-1,
 								"bounciness":	-1,
 								"points":	[{
-										"x":	-316.60862,
-										"y":	-60.10348
+										"x":	-102.60709381103516,
+										"y":	105.37305450439453
 									}, {
-										"x":	327.98349,
-										"y":	-42.66971
+										"x":	110.86280822753906,
+										"y":	105.55397796630859
 									}, {
-										"x":	318.95720,
-										"y":	55.80118
+										"x":	64.7589797973633,
+										"y":	161.80419921875
 									}, {
-										"x":	-317.97869,
-										"y":	55.20584
+										"x":	-54.633419036865234,
+										"y":	161.85650634765625
 									}]
 							}, {
 								"type":	4,
 								"width":	0,
 								"height":	0,
 								"radius":	0,
-								"density":	3,
+								"density":	1,
 								"offset":	{
 									"x":	0,
 									"y":	0
@@ -152,24 +133,24 @@
 								"friction":	-1,
 								"bounciness":	-1,
 								"points":	[{
-										"x":	-194.27896,
-										"y":	-272.76744
+										"x":	-146.85791015625,
+										"y":	-47.568595886230469
 									}, {
-										"x":	265.73598,
-										"y":	192.66759
+										"x":	-102.85848999023438,
+										"y":	-103.43618011474609
 									}, {
-										"x":	196.38232,
-										"y":	255.25715
+										"x":	-102.60709381103516,
+										"y":	105.37305450439453
 									}, {
-										"x":	-272.83133,
-										"y":	-191.19573
+										"x":	-148.34379577636719,
+										"y":	56.0819206237793
 									}]
 							}, {
 								"type":	4,
 								"width":	0,
 								"height":	0,
 								"radius":	0,
-								"density":	3,
+								"density":	1,
 								"offset":	{
 									"x":	0,
 									"y":	0
@@ -183,24 +164,24 @@
 								"friction":	-1,
 								"bounciness":	-1,
 								"points":	[{
-										"x":	76.84277,
-										"y":	-315.61513
+										"x":	110.13558197021484,
+										"y":	-103.23302459716797
 									}, {
-										"x":	71.96322,
-										"y":	315.85851
+										"x":	151.74443054199219,
+										"y":	-58.308708190917969
 									}, {
-										"x":	-61.68156,
-										"y":	319.80155
+										"x":	152.57447814941406,
+										"y":	49.125350952148438
 									}, {
-										"x":	-58.74277,
-										"y":	-320.68288
+										"x":	110.86280822753906,
+										"y":	105.55397796630859
 									}]
 							}, {
 								"type":	4,
 								"width":	0,
 								"height":	0,
 								"radius":	0,
-								"density":	3,
+								"density":	1,
 								"offset":	{
 									"x":	0,
 									"y":	0
@@ -214,17 +195,17 @@
 								"friction":	-1,
 								"bounciness":	-1,
 								"points":	[{
-										"x":	273.74050,
-										"y":	-174.63827
+										"x":	-56.013130187988281,
+										"y":	-146.96597290039062
 									}, {
-										"x":	-202.46758,
-										"y":	262.84679
+										"x":	59.704792022705078,
+										"y":	-149.00117492675781
 									}, {
-										"x":	-276.47627,
-										"y":	168.03149
+										"x":	110.13558197021484,
+										"y":	-103.23302459716797
 									}, {
-										"x":	205.56092,
-										"y":	-256.81661
+										"x":	-102.85848999023438,
+										"y":	-103.43618011474609
 									}]
 							}],
 						"categoryBits":	0
@@ -243,8 +224,8 @@
 			"userVariables":	[],
 			"snapPoints":	[],
 			"limits":	{
-				"minScale":	0.1,
-				"maxScale":	100
+				"minScale":	0.5,
+				"maxScale":	5
 			},
 			"sound":	{
 				"collisionSounds":	[],

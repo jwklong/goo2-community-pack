@@ -345,6 +345,8 @@
 		<Image id="HESJUSTTHISGUY_MAGNETMOSSY" path="HesJustThisGuy/MagnetMossy"  />
 		<Image id="HESJUSTTHISGUY_DYNAMICCUBE" path="HesJustThisGuy/DynamicCube"  />
 		<Image id="HESJUSTTHISGUY_BLANKSIGN" path="HesJustThisGuy/BlankSign"  />
+		<Image id="HESJUSTTHISGUY_LIGHTBULB" path="HesJustThisGuy/Lightbulb"  />
+        <Image id="HESJUSTTHISGUY_LIGHTBULBSTRING" path="HesJustThisGuy/LightbulbString"  />
 		<Image id="ICON_HESJUSTTHISGUY_COMMON" path="HesJustThisGuy/SignIcons/common"  />
 		<Image id="ICON_HESJUSTTHISGUY_SLEEP" path="HesJustThisGuy/SignIcons/sleep"  />
 		<Image id="ICON_HESJUSTTHISGUY_ALBINO" path="HesJustThisGuy/SignIcons/albino"  />
@@ -355,7 +357,6 @@
 		<Image id="ICON_HESJUSTTHISGUY_BALLLAUNCHER" path="HesJustThisGuy/SignIcons/ball_launcher"  />
 		<Image id="ICON_HESJUSTTHISGUY_LIQUIDLAUNCHER" path="HesJustThisGuy/SignIcons/liquid_launcher"  />
 		<Image id="ICON_HESJUSTTHISGUY_THRUSTER" path="HesJustThisGuy/SignIcons/thruster"  />
-
 		<Image id="ICON_HESJUSTTHISGUY_PRODUCT" path="HesJustThisGuy/SignIcons/product"  />
 		<Image id="ICON_HESJUSTTHISGUY_ALBINOPRODUCT" path="HesJustThisGuy/SignIcons/albino_product"  />
 		<Image id="ICON_HESJUSTTHISGUY_EYE" path="HesJustThisGuy/SignIcons/eye"  />
@@ -366,7 +367,6 @@
 		<Image id="ICON_HESJUSTTHISGUY_BOMB" path="HesJustThisGuy/SignIcons/bomb"  />
 		<Image id="ICON_HESJUSTTHISGUY_TERRAIN" path="HesJustThisGuy/SignIcons/terrain"  />
 		<Image id="ICON_HESJUSTTHISGUY_BOUNCY" path="HesJustThisGuy/SignIcons/bouncy"  />
-
 		<Image id="ICON_HESJUSTTHISGUY_FIREWORK" path="HesJustThisGuy/SignIcons/firework"  />
 		<Image id="ICON_HESJUSTTHISGUY_GOOLF" path="HesJustThisGuy/SignIcons/goolf"  />
 		<Image id="ICON_HESJUSTTHISGUY_BITS" path="HesJustThisGuy/SignIcons/bits"  />
@@ -384,6 +384,14 @@
 		<Image id="DJM_RUSTYCOG2" path="djm334/RustyCog2"  />
 		<Image id="DJM_RUSTYCOG3" path="djm334/RustyCog3"  />
 		<Image id="DJM_PINKTENTACLE" path="djm334/PinkTentacle"  />
+		<Image id="DJM_GRASSTUFT1" path="djm334/GrassTuft1"  />
+		<Image id="DJM_GRASSTUFT2" path="djm334/GrassTuft2"  />
+		<Image id="DJM_GRASSTUFT3" path="djm334/GrassTuft3"  />
+		<Image id="DJM_GRASSTUFT4" path="djm334/GrassTuft4"  />
+		<Image id="DJM_GRASSTUFT5" path="djm334/GrassTuft5"  />
+		<Image id="DJM_SATELLITEDISH" path="djm334/SatelliteDish"  />
+		<Image id="DJM_SPINTOWINWHEEL" path="djm334/SpinToWinWheel"  />
+		<Image id="DJM_SPINTOWINWHEELOPEN" path="djm334/SpinToWinWheelOpen"  />
 		<!-- Assets provided by 3GuB -->
 		<Image id="MORALITY_WHEEL" path="3GuB/morality_wheel"/>
 		<Image id="LEVER" path="3GuB/lever"/>
@@ -416,6 +424,7 @@
 		<Image id="WINDMILL_PROPELLER" path="3GuB/windmillPropeller"/>
 		<Image id="WINDMILL_PROPELLERBLUR" path="3GuB/windmillPropellerBlur"/>
 		<Image id="WINDMILL_PROPELLERSMALL" path="3GuB/windmillPropellerSmall"/>
+		<Image id="WINDMILL_PROPELLER_2" path="3GuB/windmillPropeller_2"/>
 		<Image id="WINDMILL_BASE" path="3GuB/windmillBase"/>
 		<Image id="WINDMILL_BASE_BLUR" path="3GuB/windmillBaseBlur"/>
 		<Image id="BB1" path="3GuB/bb_1"/>
@@ -446,6 +455,40 @@
 		<Image id="SQUARE_GENERIC_1" path="3GuB/square_generic_1"/>
 		<Image id="SQUARE_GENERIC_2" path="3GuB/square_generic_2"/>
 		<Image id="MOON_ORANGE" path="3GuB/moon_orange"/>
+		<Image id="RL_HIGHLIGHT" path="3GuB/RotatingLantern_highlight"/>
+		<Image id="RL_LANTERN_1" path="3GuB/RotatingLantern_lantern_1"/>
+		<Image id="RL_LANTERN_1_B" path="3GuB/RotatingLantern_lantern_1_B"/>
+		<Image id="RL_LANTERN_2" path="3GuB/RotatingLantern_lantern_2"/>
+		<Image id="RL_LANTERN_2_B" path="3GuB/RotatingLantern_lantern_2_B"/>
+		<Image id="RL_LANTERN_3" path="3GuB/RotatingLantern_lantern_3"/>
+		<Image id="RL_LANTERN_3_B" path="3GuB/RotatingLantern_lantern_3_B"/>
+		<Image id="RL_LANTERN_4" path="3GuB/RotatingLantern_lantern_4"/>
+		<Image id="RL_LANTERN_4_B" path="3GuB/RotatingLantern_lantern_4_B"/>
+		<Image id="RL_LIGHT_1" path="3GuB/RotatingLantern_light_1"/>
+		<Image id="RL_LIGHT_2" path="3GuB/RotatingLantern_light_2"/>
+		<Image id="RL_LIGHT_3" path="3GuB/RotatingLantern_light_3"/>
+		<Image id="RL_LIGHT_4" path="3GuB/RotatingLantern_light_4"/>
+		<Image id="RL_SHADOW_1" path="3GuB/RotatingLantern_rotatingShadow_1"/>
+		<Image id="RL_SHADOW_2" path="3GuB/RotatingLantern_rotatingShadow_2"/>
+		<Image id="LF_1" path="3GuB/lf_1"/>
+		<Image id="LF_2" path="3GuB/lf_2"/>
+		<Image id="LF_3" path="3GuB/lf_3"/>
+		<Image id="LF_4" path="3GuB/lf_4"/>
+		<Image id="LF_5" path="3GuB/lf_5"/>
+		<Image id="LF_6" path="3GuB/lf_6"/>
+		<Image id="LF_7" path="3GuB/lf_7"/>
+		<Image id="LF_8" path="3GuB/lf_8"/>
+		<Image id="LF_9" path="3GuB/lf_9"/>
+		<Image id="LF_10" path="3GuB/lf_10"/>
+		<Image id="LS1_1" path="3GuB/lightShaft1_1"/>
+		<Image id="LS1_2" path="3GuB/lightShaft1_2"/>
+		<Image id="LS1_3" path="3GuB/lightShaft1_3"/>
+		<Image id="LS1_4" path="3GuB/lightShaft1_4"/>
+		<Image id="LS1_5" path="3GuB/lightShaft1_5"/>
+		<Image id="LS1_6" path="3GuB/lightShaft1_6"/>
+		<Image id="PROPELLER_BLADES" path="3GuB/propellerBlades"/>
+		<Image id="PROPELLER_BLADES_2" path="3GuB/propellerBlades_2"/>
+		<Image id="PROPELLER_TIP" path="3GuB/propellerTip"/>
 		<!-- Assets provided by Special_Paint -->
 		<Image id="SPECIAL_PAINT_SMOKESTACK" path="Special_Paint/SmokeStack"  />
 		<Image id="SPECIAL_PAINT_SMOKESTACKBLUR" path="Special_Paint/SmokeStackBlur"  />
@@ -474,6 +517,14 @@
 		<Image id="SPIKEYGOO_TRAFFICSIGN3" path="spikeygoo/signWarning6"  />
 		<Image id="SPIKEYGOO_TRAFFICSIGN4" path="spikeygoo/signWarning7"  />
 		<Image id="SPIKEYGOO_TRAFFICSIGN5" path="spikeygoo/signWarning8"  />
+		<Image id="SPIKEYGOO_TRAFFICSIGN6" path="spikeygoo/signWarning9"  />
+		<Image id="SPIKEYGOO_TRAFFICSIGN7" path="spikeygoo/signWarning10"  />
+		<Image id="SPIKEYGOO_TRAFFICSIGN8" path="spikeygoo/signWarning11"  />
+		<Image id="SPIKEYGOO_TRAFFICSIGN9" path="spikeygoo/signWarning12"  />
+		<Image id="SPIKEYGOO_TRAFFICSIGN10" path="spikeygoo/signWarning13"  />
+		<Image id="SPIKEYGOO_TRAFFICSIGN11" path="spikeygoo/signWarning14"  />
+		<Image id="SPIKEYGOO_TRAFFICSIGN12" path="spikeygoo/signWarning15"  />
+		<Image id="SPIKEYGOO_TRAFFICSIGN13" path="spikeygoo/signWarning16"  />
 
 	</Resources>
 </ResourceManifest>

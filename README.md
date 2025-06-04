@@ -20,10 +20,11 @@ Community driven assets pack for World of Goo 2.
 - vEra: Information Super Highway background, Years of Work remix
 - HesJustThisGuy: Various Items and Terrains, RPS and Jelly remixes, Red Carpet background, Prototype Triangle fix, Installation guide video.
 - jkwlong: Circle Scaffold items, various extracted beta assets
-- djm334: Flesh Spires and Pink Tentacle items, Rusty Cog assets (currently unused), Ruins background
-- 3GuB: Various Items, provided fixes for some issues + Winch asset fix
+- djm334: Various items, Rusty Cog assets (currently unused), Ruins background
+- 3GuB: Various Items, provided fixes for graphical issues, Winch Assets fix and Product Strands fixes
 - MiseryMouse: Midnight Steamliner, Red Carpet, RPS, Screamer, and Sloppy Walker remixes, Cameras ambient sound
 - Special_Plant: Smoke Stacks and Mega Smoke Stacks items
 - p0b: Small/Large/Solid Gears items, Bog Tree item, Cactus Redesign item.
 - Tristen Arctician: Generic Signpost text, Sticky Scaffolding item
-- spikey goo: Traffic sign items, provided Rejuvenation excerpt
+- spikey goo: Traffic sign items, provided Rejuvenation excerpt, Road Blocks terrains
+- Xowerr: Midnight Rocks, Hills Classic, and Rocks Holes 2 Terrains

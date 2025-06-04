@@ -1,10 +1,10 @@
 {
 	"items":	[{
-			"name":	"3GuB/Windmill Propeller",
-			"uuid":	"3GuB_windmill_propeller",
+			"name":	"3GuB/Propeller Front",
+			"uuid":	"3GuB_propeller_front",
 			"type":	1,
 			"category":	"misc",
-			"layer":	1,
+			"layer":	4,
 			"minDepth":	-1000,
 			"maxDepth":	1000,
 			"sortOffset":	0,
@@ -38,7 +38,7 @@
 			"snapObjectIndex":	0,
 			"destroyForce":	-1,
 			"objects":	[{
-					"name":	"IMAGE_ITEM_WINDMILL_PROPELLER",
+					"name":	"IMAGE_ITEM_PROPELLER_BLADES",
 					"randomizationGroup":	1,
 					"position":	{
 						"x":	0,
@@ -57,7 +57,7 @@
 						"x":	0.5,
 						"y":	0.5
 					},
-					"rotationSpeed":	1,
+					"rotationSpeed":	4,
 					"invisible":	false,
 					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
@@ -109,7 +109,7 @@
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_WINDMILL_PROPELLERBLUR",
+					"name":	"IMAGE_ITEM_PROPELLER_BLADES_2",
 					"randomizationGroup":	1,
 					"position":	{
 						"x":	0,
@@ -128,7 +128,7 @@
 						"x":	0.5,
 						"y":	0.5
 					},
-					"rotationSpeed":	1,
+					"rotationSpeed":	4,
 					"invisible":	false,
 					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
@@ -180,7 +180,7 @@
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_WINDMILL_PROPELLERSMALL",
+					"name":	"IMAGE_ITEM_PROPELLER_TIP",
 					"randomizationGroup":	1,
 					"position":	{
 						"x":	0,
@@ -199,78 +199,7 @@
 						"x":	0.5,
 						"y":	0.5
 					},
-					"rotationSpeed":	1,
-					"invisible":	false,
-					"clickable":	false,
-					"stableFluidsDensityFactor":	0,
-					"dynamicLightingFactor":	0,
-					"flipHorizontal":	false,
-					"flipVertical":	false,
-					"ignoreScale":	false,
-					"shaderFactor":	1,
-					"body":	{
-						"id":	"",
-						"type":	2,
-						"pos":	{
-							"x":	0,
-							"y":	0
-						},
-						"rotation":	0,
-						"collisionEnabled":	false,
-						"materialName":	"generic",
-						"tags":	"",
-						"geoms":	[{
-								"type":	1,
-								"width":	0,
-								"height":	0,
-								"radius":	100,
-								"density":	1,
-								"offset":	{
-									"x":	0,
-									"y":	0
-								},
-								"rotation":	0,
-								"normal":	{
-									"x":	0,
-									"y":	1
-								},
-								"isSensor":	false,
-								"friction":	-1,
-								"bounciness":	-1,
-								"points":	[]
-							}],
-						"categoryBits":	0
-					},
-					"colorFx":	{
-						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
-						"exposure":	0,
-						"saturation":	0
-					},
-					"particleEffects":	[],
-					"points":	[]
-				}, {
-					"name":	"IMAGE_ITEM_WINDMILL_PROPELLER_2",
-					"randomizationGroup":	1,
-					"position":	{
-						"x":	0,
-						"y":	0
-					},
-					"rotation":	0,
-					"scale":	{
-						"x":	1,
-						"y":	1
-					},
-					"color":	4294967295,
-					"depthOffset":	0,
-					"sortOffset":	0,
-					"imageBlendingType":	2,
-					"pivot":	{
-						"x":	0.5,
-						"y":	0.5
-					},
-					"rotationSpeed":	1,
+					"rotationSpeed":	0,
 					"invisible":	false,
 					"clickable":	false,
 					"stableFluidsDensityFactor":	0,

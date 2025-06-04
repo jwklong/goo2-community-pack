@@ -1,16 +1,17 @@
 {
 	"items":	[{
-			"name":	"spikeygoo/TrafficSigns",
-			"uuid":	"spikeygoo_TrafficSigns",
+			"name":	"3GuB/lf",
+			"uuid":	"3GuB_lf",
 			"type":	1,
-			"category":	"",
-			"layer":	1,
-			"minDepth":	-2000,
-			"maxDepth":	500,
+			"category":	"misc",
+			"layer":	3,
+			"minDepth":	-1000,
+			"maxDepth":	1000,
 			"sortOffset":	0,
 			"radiusOverride":	0,
 			"canRotate":	true,
-			"uniformScale":	true,
+			"uniformScale":	false,
+			"canBeCopied":	true,
 			"variations":	true,
 			"useLighting":	true,
 			"castShadow":	true,
@@ -19,6 +20,10 @@
 			"animationAlias":	"",
 			"animationSpeed":	1,
 			"animationInNormalizedTime":	0.5,
+			"animationPlayNormalizedTimeRange":	{
+				"x":	0,
+				"y":	0
+			},
 			"animationLocalPosition":	{
 				"x":	0,
 				"y":	0
@@ -31,18 +36,18 @@
 			"userValue1":	0,
 			"userValue2":	0,
 			"snapObjectIndex":	0,
-			"objects":	[
-				{
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN1",
+			"destroyForce":	-1,
+			"objects":	[{
+					"name":	"IMAGE_ITEM_LF_1",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0,
+						"y":	0
 					},
 					"rotation":	0,
 					"scale":	{
-						"x":	1,
-						"y":	1
+						"x":	0.6,
+						"y":	0.6
 					},
 					"color":	4294967295,
 					"depthOffset":	0,
@@ -54,10 +59,12 @@
 					},
 					"rotationSpeed":	0,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
@@ -83,16 +90,16 @@
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN2",
+					"name":	"IMAGE_ITEM_LF_2",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0,
+						"y":	0
 					},
 					"rotation":	0,
 					"scale":	{
-						"x":	1,
-						"y":	1
+						"x":	0.6,
+						"y":	0.6
 					},
 					"color":	4294967295,
 					"depthOffset":	0,
@@ -104,10 +111,12 @@
 					},
 					"rotationSpeed":	0,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
@@ -125,24 +134,24 @@
 					},
 					"colorFx":	{
 						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
+						"brightness":	-0.05000000074505806,
+						"contrast":	-0.20000000298023224,
 						"exposure":	0,
 						"saturation":	0
 					},
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN3",
+					"name":	"IMAGE_ITEM_LF_3",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0,
+						"y":	0
 					},
 					"rotation":	0,
 					"scale":	{
-						"x":	1,
-						"y":	1
+						"x":	0.6,
+						"y":	0.6
 					},
 					"color":	4294967295,
 					"depthOffset":	0,
@@ -154,10 +163,12 @@
 					},
 					"rotationSpeed":	0,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
@@ -175,24 +186,24 @@
 					},
 					"colorFx":	{
 						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
+						"brightness":	-0.05000000074505806,
+						"contrast":	-0.20000000298023224,
 						"exposure":	0,
 						"saturation":	0
 					},
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN4",
+					"name":	"IMAGE_ITEM_LF_4",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0,
+						"y":	0
 					},
 					"rotation":	0,
 					"scale":	{
-						"x":	1,
-						"y":	1
+						"x":	0.6,
+						"y":	0.6
 					},
 					"color":	4294967295,
 					"depthOffset":	0,
@@ -204,10 +215,12 @@
 					},
 					"rotationSpeed":	0,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
@@ -225,24 +238,24 @@
 					},
 					"colorFx":	{
 						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
+						"brightness":	-0.05000000074505806,
+						"contrast":	-0.20000000298023224,
 						"exposure":	0,
 						"saturation":	0
 					},
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN5",
+					"name":	"IMAGE_ITEM_LF_5",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0,
+						"y":	0
 					},
 					"rotation":	0,
 					"scale":	{
-						"x":	1,
-						"y":	1
+						"x":	0.6,
+						"y":	0.6
 					},
 					"color":	4294967295,
 					"depthOffset":	0,
@@ -254,10 +267,12 @@
 					},
 					"rotationSpeed":	0,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
@@ -275,24 +290,24 @@
 					},
 					"colorFx":	{
 						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
+						"brightness":	-0.05000000074505806,
+						"contrast":	-0.20000000298023224,
 						"exposure":	0,
 						"saturation":	0
 					},
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN6",
+					"name":	"IMAGE_ITEM_LF_6",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0,
+						"y":	0
 					},
 					"rotation":	0,
 					"scale":	{
-						"x":	1,
-						"y":	1
+						"x":	0.6,
+						"y":	0.6
 					},
 					"color":	4294967295,
 					"depthOffset":	0,
@@ -304,10 +319,12 @@
 					},
 					"rotationSpeed":	0,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
@@ -325,24 +342,24 @@
 					},
 					"colorFx":	{
 						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
+						"brightness":	-0.05000000074505806,
+						"contrast":	-0.20000000298023224,
 						"exposure":	0,
 						"saturation":	0
 					},
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN7",
+					"name":	"IMAGE_ITEM_LF_7",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0,
+						"y":	0
 					},
 					"rotation":	0,
 					"scale":	{
-						"x":	1,
-						"y":	1
+						"x":	0.6,
+						"y":	0.6
 					},
 					"color":	4294967295,
 					"depthOffset":	0,
@@ -354,10 +371,12 @@
 					},
 					"rotationSpeed":	0,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
@@ -375,24 +394,24 @@
 					},
 					"colorFx":	{
 						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
+						"brightness":	-0.05000000074505806,
+						"contrast":	-0.20000000298023224,
 						"exposure":	0,
 						"saturation":	0
 					},
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN8",
+					"name":	"IMAGE_ITEM_LF_8",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0,
+						"y":	0
 					},
 					"rotation":	0,
 					"scale":	{
-						"x":	1,
-						"y":	1
+						"x":	0.6,
+						"y":	0.6
 					},
 					"color":	4294967295,
 					"depthOffset":	0,
@@ -404,10 +423,12 @@
 					},
 					"rotationSpeed":	0,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
@@ -425,24 +446,24 @@
 					},
 					"colorFx":	{
 						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
+						"brightness":	-0.05000000074505806,
+						"contrast":	-0.20000000298023224,
 						"exposure":	0,
 						"saturation":	0
 					},
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN9",
+					"name":	"IMAGE_ITEM_LF_9",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0,
+						"y":	0
 					},
 					"rotation":	0,
 					"scale":	{
-						"x":	1,
-						"y":	1
+						"x":	0.6,
+						"y":	0.6
 					},
 					"color":	4294967295,
 					"depthOffset":	0,
@@ -454,10 +475,12 @@
 					},
 					"rotationSpeed":	0,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
@@ -475,24 +498,24 @@
 					},
 					"colorFx":	{
 						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
+						"brightness":	-0.05000000074505806,
+						"contrast":	-0.20000000298023224,
 						"exposure":	0,
 						"saturation":	0
 					},
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_SPIKEYGOO_TRAFFICSIGN10",
+					"name":	"IMAGE_ITEM_LF_10",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	-0.533027946949005,
-						"y":	0.62376219034194946
+						"x":	0,
+						"y":	0
 					},
 					"rotation":	0,
 					"scale":	{
-						"x":	1,
-						"y":	1
+						"x":	0.6,
+						"y":	0.6
 					},
 					"color":	4294967295,
 					"depthOffset":	0,
@@ -504,10 +527,12 @@
 					},
 					"rotationSpeed":	0,
 					"invisible":	false,
+					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
+					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
@@ -525,21 +550,20 @@
 					},
 					"colorFx":	{
 						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
+						"brightness":	-0.05000000074505806,
+						"contrast":	-0.20000000298023224,
 						"exposure":	0,
 						"saturation":	0
 					},
 					"particleEffects":	[],
 					"points":	[]
-				}
-				],
+				}],
 			"alternates":	[],
 			"userVariables":	[],
 			"snapPoints":	[],
 			"limits":	{
-				"minScale":	0.20000000298023224,
-				"maxScale":	10
+				"minScale":	0.10000000149011612,
+				"maxScale":	100
 			}
 		}]
 }

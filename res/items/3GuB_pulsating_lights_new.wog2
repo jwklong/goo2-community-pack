@@ -1,0 +1,101 @@
+{
+	"items":	[{
+			"name":	"3GuB/Pulsating Lights new",
+			"uuid":	"3GuB_pulsating_lights_new",
+			"type":	1,
+			"category":	"misc",
+			"layer":	1,
+			"minDepth":	-1000,
+			"maxDepth":	1000,
+			"sortOffset":	0,
+			"radiusOverride":	0,
+			"canRotate":	true,
+			"uniformScale":	false,
+			"canBeCopied":	true,
+			"variations":	false,
+			"useLighting":	true,
+			"castShadow":	true,
+			"color":	4294967295,
+			"animationName":	"ANIM_GLOBAL_PULSATINGLIGHTS",
+			"animationAlias":	"lightexport",
+			"animationSpeed":	1,
+			"animationInNormalizedTime":	0,
+			"animationPlayNormalizedTimeRange":	{
+				"x":	0,
+				"y":	0.5
+			},
+			"animationLocalPosition":	{
+				"x":	0,
+				"y":	0
+			},
+			"animationLocalScale":	{
+				"x":	1,
+				"y":	1
+			},
+			"animationRotation":	0,
+			"userValue1":	0,
+			"userValue2":	0,
+			"snapObjectIndex":	0,
+			"destroyForce":	-1,
+			"objects":	[{
+					"name":	"IMAGE_ITEM_PROTOTYPE_PROTOTYPEDYNAMICSQUARE",
+					"randomizationGroup":	0,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	{
+						"x":	0.31000000238418579,
+						"y":	0.31000000238418579
+					},
+					"color":	16777215,
+					"depthOffset":	0,
+					"sortOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"rotationSpeed":	0,
+					"invisible":	false,
+					"clickable":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"ignoreScale":	false,
+					"shaderFactor":	1,
+					"body":	{
+						"id":	"",
+						"type":	0,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	false,
+						"materialName":	"generic",
+						"tags":	"",
+						"geoms":	[],
+						"categoryBits":	0
+					},
+					"colorFx":	{
+						"enabled":	false,
+						"brightness":	0,
+						"contrast":	0,
+						"exposure":	0,
+						"saturation":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}],
+			"alternates":	[],
+			"userVariables":	[],
+			"snapPoints":	[],
+			"limits":	{
+				"minScale":	0.1,
+				"maxScale":	100
+			}
+		}]
+}
