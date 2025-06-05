@@ -76,12 +76,25 @@
 		<Image id="WOOD_PLANKS_SHADOW" path="Wood_Planks_Shadow"  />
 		<Image id="YELLOW_DIRT" path="Yellow_Dirt"  />
 		<Image id="YELLOW_GRASS" path="Yellow_Grass"  />
-		<!-- Assets provided by HesJustThisGuy -->
-		<Image id="GREEN_PANNEL_NORTH" path="Green_PannelN"  />
-		<Image id="GREEN_PANNEL_EAST" path="Green_PannelE"  />
-		<Image id="GREEN_PANNEL_SOUTH" path="Green_PannelS"  />
-		<Image id="GREEN_PANNEL_WEST" path="Green_PannelW"  />
-		<Image id="INCINERATION_DESTINATION" path="IncinerationDestination"  />
-		<Image id="TAR" path="Tar"  />
+		<!-- Assets by HesJustThisGuy -->
+		<Image id="GREEN_PANNEL_NORTH" path="HesJustThisGuy/Green_PannelN"  />
+		<Image id="GREEN_PANNEL_EAST" path="HesJustThisGuy/Green_PannelE"  />
+		<Image id="GREEN_PANNEL_SOUTH" path="HesJustThisGuy/Green_PannelS"  />
+		<Image id="GREEN_PANNEL_WEST" path="HesJustThisGuy/Green_PannelW"  />
+		<Image id="INCINERATION_DESTINATION" path="HesJustThisGuy/IncinerationDestination"  />
+		<Image id="TAR" path="HesJustThisGuy/Tar"  />
+		<!-- Assets by SpikeyGoo -->
+		<Image id="SPIKEYGOO_CONCRETE" path="spikeygoo/Concrete"  />
+		<Image id="SPIKEYGOO_ROAD" path="spikeygoo/Road"  />
+		<!-- Assets provided by djm334 -->
+		<Image id="RED_ROCKTOP" path="djm334/Red_RockTop"  />
+		<Image id="RED_ROCKS" path="djm334/Red_Rocks"  />
+		<!-- Assets provided by Xowerr -->
+		<Image id="STONE_HOLES2" path="Xowerr/Stone_Holes2"  />
+		<Image id="MIDNIGHTROCKS" path="Xowerr/MidnightRocks"  />
+		<Image id="HILL_DIRT" path="Xowerr/hill_dirt"  />
+		<Image id="HILL_GRASS" path="Xowerr/hill_grass"  />
+		<Image id="HILL_SHADOW" path="Xowerr/hill_shadow"  />
+
 	</Resources>
 </ResourceManifest>

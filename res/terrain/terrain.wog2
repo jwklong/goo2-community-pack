@@ -24763,7 +24763,7 @@
 					"genericProbability":	0
 				}]
 		}, {
-			"uuid":	"b711e991-b90e-4d7c-a086-c2e21d5d8002",
+			"uuid":	"53f3f873-c2a1-41a7-9237-1a5473aaabf4",
 			"name":	"Mossy_Rock_East",
 			"goolfHitSound":	{
 				"soundId":	""
@@ -25248,7 +25248,7 @@
 					"genericProbability":	0
 				}]
 		}, {
-			"uuid":	"b711e991-b90e-4d7c-a086-c2e21d5d8002",
+			"uuid":	"b332fa42-e686-45cb-b196-ef4181d47784",
 			"name":	"Mossy_Rock_South",
 			"goolfHitSound":	{
 				"soundId":	""
@@ -25733,7 +25733,7 @@
 					"genericProbability":	0
 				}]
 		}, {
-			"uuid":	"b711e991-b90e-4d7c-a086-c2e21d5d8002",
+			"uuid":	"987006aa-4996-466e-8fe7-08a29d43f272",
 			"name":	"Mossy_Rock_West",
 			"goolfHitSound":	{
 				"soundId":	""
@@ -26628,6 +26628,2842 @@
 					"sortOffset":	0,
 					"group":	-1,
 					"ignoreEdgeAttribute":	1,
+					"genericProbability":	0
+				}]
+		}, {
+			"uuid":	"RoadBlocks",
+			"name":	"RoadBlocks",
+			"goolfHitSound":	{
+				"soundId":	""
+			},
+			"edgeTypesSettings":	{
+				"edgeTypeSettings":	[{
+						"curvatureFactor":	{
+							"x":	0.4,
+							"y":	0.6
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.4,
+							"y":	0.6
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.4,
+							"y":	0.6
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.4,
+							"y":	0.6
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.4,
+							"y":	0.6
+						}
+					}]
+			},
+			"baseSettings":	{
+				"canBeStained":	true,
+				"metersToUv":	8,
+				"cliffDecorationValue":	1,
+				"lowPoly":	true,
+				"lowPolyNormalBlend":	0.079999998211860657,
+				"lowPolyNormalBlendFixZ":	0.649999976158142,
+				"fixSubdivisionLevelIndex":	1,
+				"mesh3DWrapFactor":	0.15000000596046448,
+				"boundaryNormalScale":	1.2000000476837158,
+				"renderMeshEdgeNormalOffset":	0.019999999552965164,
+				"image":	{
+					"imageId":	"IMAGE_TERRAIN_SPIKEYGOO_CONCRETE"
+				},
+				"overlayImage":	{
+					"imageId":	"IMAGE_TERRAIN_DIRT_OVERLAY"
+				},
+				"material":	{
+					"materialName":	"terrain_dirt"
+				},
+				"shaderType":	{
+					"value":	0
+				},
+				"baseShaderUniforms":	{
+					"_stainFactorScale":	0.33300000429153442,
+					"_stainStartOffset":	0.300000011920929,
+					"_staintStepStart":	0.20000000298023224,
+					"_staintStepEnd":	0,
+					"_staintStartScale":	0.10000000149011612,
+					"_stainHeightOffset":	0.10000000149011612,
+					"_stainHeightStartOffset":	1,
+					"_stainUScale":	1,
+					"_stainRandomOffset1":	{
+						"x":	1.2412350177764893,
+						"y":	1.1475600004196167,
+						"z":	1.3125100135803223,
+						"w":	1.4214099645614624
+					},
+					"_stainRandomOffset2":	{
+						"x":	9.4123516082763672,
+						"y":	9.17655944824219,
+						"z":	9.3165397644042969,
+						"w":	9.25364017486572
+					},
+					"_stainRandomOffset3":	{
+						"x":	4.1245126724243164,
+						"y":	4.6546449661254883,
+						"z":	4.2546000480651855,
+						"w":	4.85462999343872
+					},
+					"_alpha":	1,
+					"_laserU":	0,
+					"_laserV":	0,
+					"stainVScale":	1,
+					"_bloomFactor":	0,
+					"_overlayScale":	1,
+					"_overlayAlpha":	0.15000000596046448,
+					"_group":	0,
+					"_lightingSettings":	{
+						"x":	0,
+						"y":	0,
+						"z":	0,
+						"w":	0
+					},
+					"_stainBlend":	{
+						"x":	0.800000011920929,
+						"y":	1,
+						"z":	1,
+						"w":	1
+					},
+					"_gradientStartEnd_ZW":	{
+						"x":	0.75,
+						"y":	1,
+						"z":	0,
+						"w":	0
+					}
+				}
+			},
+			"topSettings":	{
+				"canBeStained":	true,
+				"height":	0.75,
+				"heightOffset":	-0.10499999672174454,
+				"endDistance":	0.300000011920929,
+				"endPower":	0.5,
+				"endOverhangDistance":	0.10000000149011612,
+				"collisionEdgeOffset":	0.02500000037252903,
+				"collisionHeightOffset":	-0.019999999552965164,
+				"collisionHeightScale":	0.600000023841858,
+				"image":	{
+					"imageId":	"IMAGE_TERRAIN_SPIKEYGOO_ROAD"
+				},
+				"shadowImage":	{
+					"imageId":	""
+				},
+				"material":	{
+					"materialName":	"terrain_grass"
+				},
+				"shaderType":	{
+					"value":	3
+				},
+				"topShaderUniforms":	{
+					"_stainFactorScale":	0.33300000429153442,
+					"_stainStartOffset":	0.300000011920929,
+					"_staintStepStart":	0.20000000298023224,
+					"_staintStepEnd":	0,
+					"_staintStartScale":	0.10000000149011612,
+					"_stainHeightOffset":	0.10000000149011612,
+					"_stainHeightStartOffset":	1,
+					"_stainUScale":	3,
+					"_stainVScale":	2,
+					"_alpha":	1,
+					"unused1":	0,
+					"unused2":	0,
+					"_stainRandomOffset1":	{
+						"x":	1.2412350177764893,
+						"y":	1.1475600004196167,
+						"z":	1.3125100135803223,
+						"w":	1.4214099645614624
+					},
+					"_stainRandomOffset2":	{
+						"x":	9.4123516082763672,
+						"y":	9.17655944824219,
+						"z":	9.3165397644042969,
+						"w":	9.25364017486572
+					},
+					"_stainRandomOffset3":	{
+						"x":	4.1245126724243164,
+						"y":	4.6546449661254883,
+						"z":	4.2546000480651855,
+						"w":	4.85462999343872
+					},
+					"edgeUvCenter":	{
+						"x":	0,
+						"y":	0.300000011920929
+					},
+					"_edgeUvSize":	0.34999999403953552,
+					"_alphaThreshold":	0.0040000001899898052,
+					"_stainBlend":	{
+						"x":	0.800000011920929,
+						"y":	1,
+						"z":	1,
+						"w":	1
+					},
+					"_colorR":	1,
+					"_colorG":	1,
+					"_colorB":	1,
+					"_bloomFactor":	0,
+					"unusedVector9":	{
+						"x":	0,
+						"y":	0,
+						"z":	0,
+						"w":	0
+					}
+				}
+			},
+			"deadlySettings":	{
+				"material":	{
+					"materialName":	"terrain_deadly"
+				},
+				"collisionHeight":	0.15000000596046448,
+				"edgeCollisionHeight":	0.10000000149011612
+			},
+			"edgeSettings":	{
+				"topAngle":	{
+					"x":	-45,
+					"y":	45
+				},
+				"cliffAngle":	{
+					"x":	78,
+					"y":	180
+				},
+				"underSideAngle":	{
+					"x":	-45,
+					"y":	45
+				}
+			},
+			"destructionSettings":	{
+				"enabled":	true,
+				"particleEffect":	{
+					"uuid":	"c81a8e00-d07e-4eb5-bded-18747f3316c9"
+				},
+				"spawnItem":	{
+					"uuid":	"bb72d063-89b1-402c-9411-ed681870a817"
+				},
+				"cameraShakeTime":	{
+					"x":	0.25,
+					"y":	0.449999988079071
+				},
+				"cameraShakeFrequency":	{
+					"x":	10,
+					"y":	15
+				},
+				"cameraShakeStrength":	{
+					"x":	5,
+					"y":	8
+				},
+				"stableFluidsDensityFactor":	{
+					"x":	0,
+					"y":	1,
+					"z":	0,
+					"w":	0
+				}
+			},
+			"godRaySettings":	{
+				"probability":	0,
+				"lightAngleLimit":	0.800000011920929,
+				"edgeAngleLimit":	0.5,
+				"minLighting":	0.990000009536743
+			},
+			"laserSettings":	{
+				"enabled":	false,
+				"base":	false,
+				"top":	true,
+				"baseAdditive":	false,
+				"topAdditive":	false,
+				"count":	30,
+				"timeScale":	1,
+				"waveScale":	2,
+				"moveTimeScale":	4,
+				"gravityScale":	4.9999998736893758e-05,
+				"rotationStep":	0.00050000002374872565,
+				"scaleStep":	0.0024999999441206455,
+				"positionStep":	4.9999998736893758e-05,
+				"innerGravityScale":	0.00499999988824129,
+				"centerFactor":	0.33300000429153442,
+				"gradientStart":	{
+					"color":	4294967295
+				},
+				"gradientEnd":	{
+					"color":	4294967295
+				}
+			},
+			"decorations":	[{
+					"type":	{
+						"value":	8
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_SPIKE1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE2"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE3"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE4"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE5"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.300000011920929,
+						"y":	0.5
+					},
+					"scaleDelay":	{
+						"x":	0.20000000298023224,
+						"y":	0.300000011920929
+					},
+					"scaleDuration":	{
+						"x":	0.600000023841858,
+						"y":	1
+					},
+					"tPos":	{
+						"x":	0,
+						"y":	1
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	0,
+						"y":	0
+					},
+					"angleLimit1":	{
+						"x":	-360,
+						"y":	360
+					},
+					"angleLimit2":	{
+						"x":	-360,
+						"y":	360
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.33300000429153442
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0.10000000149011612,
+					"density":	0.600000023841858,
+					"order":	{
+						"value":	2
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	0,
+					"genericProbability":	0
+				}, {
+					"type":	{
+						"value":	9
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_NIBBLE_RND_1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_NIBBLE_RND_2"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.10000000149011612,
+						"y":	0.23000000417232513
+					},
+					"scaleDelay":	{
+						"x":	0.10000000149011612,
+						"y":	0.5
+					},
+					"scaleDuration":	{
+						"x":	0.20000000298023224,
+						"y":	0.40000000596046448
+					},
+					"tPos":	{
+						"x":	0,
+						"y":	1
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	0,
+						"y":	0
+					},
+					"angleLimit1":	{
+						"x":	-360,
+						"y":	360
+					},
+					"angleLimit2":	{
+						"x":	-360,
+						"y":	360
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.649999976158142
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	6
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0,
+					"density":	0,
+					"order":	{
+						"value":	0
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	1,
+					"genericProbability":	0
+				}, {
+					"type":	{
+						"value":	5
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_SNOW_DRIP1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SNOW_DRIP2"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.10000000149011612,
+						"y":	0.300000011920929
+					},
+					"scaleDelay":	{
+						"x":	0.20000000298023224,
+						"y":	0.5
+					},
+					"scaleDuration":	{
+						"x":	0.300000011920929,
+						"y":	0.600000023841858
+					},
+					"tPos":	{
+						"x":	0.300000011920929,
+						"y":	0.600000023841858
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	-0.075000002980232239,
+						"y":	-0.075000002980232239
+					},
+					"angleLimit1":	{
+						"x":	-360,
+						"y":	360
+					},
+					"angleLimit2":	{
+						"x":	-360,
+						"y":	360
+					},
+					"rotationRange":	{
+						"x":	-180,
+						"y":	-180
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.10000000149011612
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0.33300000429153442,
+					"density":	0.10000000149011612,
+					"order":	{
+						"value":	2
+					},
+					"sortOffset":	0,
+					"group":	0,
+					"ignoreEdgeAttribute":	0,
+					"genericProbability":	0
+				}]
+		}, {
+			"uuid":	"a253655f-34fc-4048-92e6-cb3e2ebf81c5",
+			"name":	"Hill_Classic",
+			"goolfHitSound":	{
+				"soundId":	""
+			},
+			"edgeTypesSettings":	{
+				"edgeTypeSettings":	[{
+						"curvatureFactor":	{
+							"x":	1,
+							"y":	1
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	1,
+							"y":	1
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	1,
+							"y":	1
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	1,
+							"y":	1
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	1,
+							"y":	1
+						}
+					}]
+			},
+			"baseSettings":	{
+				"canBeStained":	true,
+				"metersToUv":	7.4000000953674316,
+				"cliffDecorationValue":	0.5,
+				"lowPoly":	false,
+				"lowPolyNormalBlend":	0,
+				"lowPolyNormalBlendFixZ":	0,
+				"fixSubdivisionLevelIndex":	1,
+				"mesh3DWrapFactor":	0.20000000298023224,
+				"boundaryNormalScale":	1.2000000476837158,
+				"renderMeshEdgeNormalOffset":	0.019999999552965164,
+				"image":	{
+					"imageId":	"IMAGE_TERRAIN_HILL_DIRT"
+				},
+				"overlayImage":	{
+					"imageId":	"IMAGE_TERRAIN_EMPTY"
+				},
+				"material":	{
+					"materialName":	"terrain_dirt"
+				},
+				"shaderType":	{
+					"value":	0
+				},
+				"baseShaderUniforms":	{
+					"_stainFactorScale":	0.33300000429153442,
+					"_stainStartOffset":	0.300000011920929,
+					"_staintStepStart":	0.20000000298023224,
+					"_staintStepEnd":	0,
+					"_staintStartScale":	0.10000000149011612,
+					"_stainHeightOffset":	0.10000000149011612,
+					"_stainHeightStartOffset":	1,
+					"_stainUScale":	1,
+					"_stainRandomOffset1":	{
+						"x":	1.2412350177764893,
+						"y":	1.1475600004196167,
+						"z":	1.3125100135803223,
+						"w":	1.4214099645614624
+					},
+					"_stainRandomOffset2":	{
+						"x":	9.4123516082763672,
+						"y":	9.17655944824219,
+						"z":	9.3165397644042969,
+						"w":	9.25364017486572
+					},
+					"_stainRandomOffset3":	{
+						"x":	4.1245126724243164,
+						"y":	4.6546449661254883,
+						"z":	4.2546000480651855,
+						"w":	4.85462999343872
+					},
+					"_alpha":	1,
+					"_laserU":	0,
+					"_laserV":	0,
+					"stainVScale":	1,
+					"_bloomFactor":	0,
+					"_overlayScale":	1,
+					"_overlayAlpha":	0.15000000596046448,
+					"_group":	0,
+					"_lightingSettings":	{
+						"x":	0,
+						"y":	0,
+						"z":	0,
+						"w":	0
+					},
+					"_stainBlend":	{
+						"x":	0.800000011920929,
+						"y":	1,
+						"z":	1,
+						"w":	1
+					},
+					"_gradientStartEnd_ZW":	{
+						"x":	0.75,
+						"y":	1,
+						"z":	0,
+						"w":	0
+					}
+				}
+			},
+			"topSettings":	{
+				"canBeStained":	true,
+				"height":	1,
+				"heightOffset":	-0.17499999701976776,
+				"endDistance":	0.649999976158142,
+				"endPower":	0.479999989271164,
+				"endOverhangDistance":	0.00999999977648258,
+				"collisionEdgeOffset":	0.02500000037252903,
+				"collisionHeightOffset":	-0.019999999552965164,
+				"collisionHeightScale":	0.600000023841858,
+				"image":	{
+					"imageId":	"IMAGE_TERRAIN_HILL_GRASS"
+				},
+				"shadowImage":	{
+					"imageId":	"IMAGE_TERRAIN_HILL_SHADOW"
+				},
+				"material":	{
+					"materialName":	"terrain_grass"
+				},
+				"shaderType":	{
+					"value":	3
+				},
+				"topShaderUniforms":	{
+					"_stainFactorScale":	0.33300000429153442,
+					"_stainStartOffset":	0.300000011920929,
+					"_staintStepStart":	0.20000000298023224,
+					"_staintStepEnd":	0,
+					"_staintStartScale":	0.10000000149011612,
+					"_stainHeightOffset":	0.10000000149011612,
+					"_stainHeightStartOffset":	1,
+					"_stainUScale":	3,
+					"_stainVScale":	2,
+					"_alpha":	1,
+					"unused1":	0,
+					"unused2":	0,
+					"_stainRandomOffset1":	{
+						"x":	1.2412350177764893,
+						"y":	1.1475600004196167,
+						"z":	1.3125100135803223,
+						"w":	1.4214099645614624
+					},
+					"_stainRandomOffset2":	{
+						"x":	9.4123516082763672,
+						"y":	9.17655944824219,
+						"z":	9.3165397644042969,
+						"w":	9.25364017486572
+					},
+					"_stainRandomOffset3":	{
+						"x":	4.1245126724243164,
+						"y":	4.6546449661254883,
+						"z":	4.2546000480651855,
+						"w":	4.85462999343872
+					},
+					"edgeUvCenter":	{
+						"x":	0,
+						"y":	0.300000011920929
+					},
+					"_edgeUvSize":	0.34999999403953552,
+					"_alphaThreshold":	0.0040000001899898052,
+					"_stainBlend":	{
+						"x":	0.800000011920929,
+						"y":	1,
+						"z":	1,
+						"w":	1
+					},
+					"_colorR":	1,
+					"_colorG":	1,
+					"_colorB":	1,
+					"_bloomFactor":	0,
+					"unusedVector9":	{
+						"x":	0,
+						"y":	0,
+						"z":	0,
+						"w":	0
+					}
+				}
+			},
+			"deadlySettings":	{
+				"material":	{
+					"materialName":	"terrain_deadly"
+				},
+				"collisionHeight":	0.15000000596046448,
+				"edgeCollisionHeight":	0.10000000149011612
+			},
+			"edgeSettings":	{
+				"topAngle":	{
+					"x":	-70,
+					"y":	70
+				},
+				"cliffAngle":	{
+					"x":	78,
+					"y":	180
+				},
+				"underSideAngle":	{
+					"x":	-45,
+					"y":	45
+				}
+			},
+			"destructionSettings":	{
+				"enabled":	true,
+				"particleEffect":	{
+					"uuid":	"c81a8e00-d07e-4eb5-bded-18747f3316c9"
+				},
+				"spawnItem":	{
+					"uuid":	"bb72d063-89b1-402c-9411-ed681870a817"
+				},
+				"cameraShakeTime":	{
+					"x":	0.25,
+					"y":	0.449999988079071
+				},
+				"cameraShakeFrequency":	{
+					"x":	10,
+					"y":	15
+				},
+				"cameraShakeStrength":	{
+					"x":	5,
+					"y":	8
+				},
+				"stableFluidsDensityFactor":	{
+					"x":	0,
+					"y":	1,
+					"z":	0,
+					"w":	0
+				}
+			},
+			"godRaySettings":	{
+				"probability":	0,
+				"lightAngleLimit":	0.800000011920929,
+				"edgeAngleLimit":	0.5,
+				"minLighting":	0.990000009536743
+			},
+			"laserSettings":	{
+				"enabled":	false,
+				"base":	false,
+				"top":	true,
+				"baseAdditive":	false,
+				"topAdditive":	false,
+				"count":	30,
+				"timeScale":	1,
+				"waveScale":	2,
+				"moveTimeScale":	4,
+				"gravityScale":	4.9999998736893758e-05,
+				"rotationStep":	0.00050000002374872565,
+				"scaleStep":	0.0024999999441206455,
+				"positionStep":	4.9999998736893758e-05,
+				"innerGravityScale":	0.00499999988824129,
+				"centerFactor":	0.33300000429153442,
+				"gradientStart":	{
+					"color":	4294967295
+				},
+				"gradientEnd":	{
+					"color":	4294967295
+				}
+			},
+			"decorations":	[{
+					"type":	{
+						"value":	8
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_SPIKE1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE2"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE3"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE4"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE5"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.300000011920929,
+						"y":	0.5
+					},
+					"scaleDelay":	{
+						"x":	0.20000000298023224,
+						"y":	0.300000011920929
+					},
+					"scaleDuration":	{
+						"x":	0.600000023841858,
+						"y":	1
+					},
+					"tPos":	{
+						"x":	0,
+						"y":	1
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	0,
+						"y":	0
+					},
+					"angleLimit1":	{
+						"x":	-360,
+						"y":	360
+					},
+					"angleLimit2":	{
+						"x":	-360,
+						"y":	360
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.33300000429153442
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0.10000000149011612,
+					"density":	0.600000023841858,
+					"order":	{
+						"value":	2
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	0,
+					"genericProbability":	0
+				}, {
+					"type":	{
+						"value":	9
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_NIBBLE_RND_2"
+						}, {
+							"imageId":	"IMAGE_DECORATION_NIBBLE_RND_1"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.070000000298023224,
+						"y":	0.0900000035762787
+					},
+					"scaleDelay":	{
+						"x":	0.10000000149011612,
+						"y":	0.5
+					},
+					"scaleDuration":	{
+						"x":	0.20000000298023224,
+						"y":	0.40000000596046448
+					},
+					"tPos":	{
+						"x":	0,
+						"y":	1
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	0,
+						"y":	0
+					},
+					"angleLimit1":	{
+						"x":	52,
+						"y":	128
+					},
+					"angleLimit2":	{
+						"x":	-128,
+						"y":	-52
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.649999976158142
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0,
+					"density":	0.075000002980232239,
+					"order":	{
+						"value":	0
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	1,
+					"genericProbability":	0
+				}]
+		}, {
+			"uuid":	"3230dfc0-fbbb-4d91-bffb-4d35fa1ca741",
+			"name":	"MidnightRocks",
+			"goolfHitSound":	{
+				"soundId":	""
+			},
+			"edgeTypesSettings":	{
+				"edgeTypeSettings":	[{
+						"curvatureFactor":	{
+							"x":	0,
+							"y":	0
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0,
+							"y":	0
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0,
+							"y":	0
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0,
+							"y":	0
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0,
+							"y":	0
+						}
+					}]
+			},
+			"baseSettings":	{
+				"canBeStained":	true,
+				"metersToUv":	4,
+				"cliffDecorationValue":	0.5,
+				"lowPoly":	true,
+				"lowPolyNormalBlend":	1,
+				"lowPolyNormalBlendFixZ":	0.75,
+				"fixSubdivisionLevelIndex":	1,
+				"mesh3DWrapFactor":	0.15000000596046448,
+				"boundaryNormalScale":	1.2000000476837158,
+				"renderMeshEdgeNormalOffset":	0.019999999552965164,
+				"image":	{
+					"imageId":	"IMAGE_TERRAIN_MIDNIGHTROCKS"
+				},
+				"overlayImage":	{
+					"imageId":	"IMAGE_TERRAIN_EMPTY"
+				},
+				"material":	{
+					"materialName":	"rock_walkable"
+				},
+				"shaderType":	{
+					"value":	1
+				},
+				"baseShaderUniforms":	{
+					"_stainFactorScale":	0.33300000429153442,
+					"_stainStartOffset":	0.300000011920929,
+					"_staintStepStart":	0.20000000298023224,
+					"_staintStepEnd":	0,
+					"_staintStartScale":	0.10000000149011612,
+					"_stainHeightOffset":	0.10000000149011612,
+					"_stainHeightStartOffset":	1,
+					"_stainUScale":	1,
+					"_stainRandomOffset1":	{
+						"x":	1.2412350177764893,
+						"y":	1.1475600004196167,
+						"z":	1.3125100135803223,
+						"w":	1.4214099645614624
+					},
+					"_stainRandomOffset2":	{
+						"x":	9.4123516082763672,
+						"y":	9.17655944824219,
+						"z":	9.3165397644042969,
+						"w":	9.25364017486572
+					},
+					"_stainRandomOffset3":	{
+						"x":	4.1245126724243164,
+						"y":	4.6546449661254883,
+						"z":	4.2546000480651855,
+						"w":	4.85462999343872
+					},
+					"_alpha":	1,
+					"_laserU":	0,
+					"_laserV":	0,
+					"stainVScale":	1,
+					"_bloomFactor":	0,
+					"_overlayScale":	1,
+					"_overlayAlpha":	0.15000000596046448,
+					"_group":	0,
+					"_lightingSettings":	{
+						"x":	0,
+						"y":	0,
+						"z":	0,
+						"w":	0
+					},
+					"_stainBlend":	{
+						"x":	0.800000011920929,
+						"y":	1,
+						"z":	1,
+						"w":	1
+					},
+					"_gradientStartEnd_ZW":	{
+						"x":	1,
+						"y":	0.5,
+						"z":	0,
+						"w":	0
+					}
+				}
+			},
+			"topSettings":	{
+				"canBeStained":	true,
+				"height":	0.75,
+				"heightOffset":	-0.10499999672174454,
+				"endDistance":	0.300000011920929,
+				"endPower":	0.5,
+				"endOverhangDistance":	0.10000000149011612,
+				"collisionEdgeOffset":	0.02500000037252903,
+				"collisionHeightOffset":	-0.019999999552965164,
+				"collisionHeightScale":	0.600000023841858,
+				"image":	{
+					"imageId":	""
+				},
+				"shadowImage":	{
+					"imageId":	""
+				},
+				"material":	{
+					"materialName":	"terrain_grass"
+				},
+				"shaderType":	{
+					"value":	3
+				},
+				"topShaderUniforms":	{
+					"_stainFactorScale":	0.33300000429153442,
+					"_stainStartOffset":	0.300000011920929,
+					"_staintStepStart":	0.20000000298023224,
+					"_staintStepEnd":	0,
+					"_staintStartScale":	0.10000000149011612,
+					"_stainHeightOffset":	0.10000000149011612,
+					"_stainHeightStartOffset":	1,
+					"_stainUScale":	3,
+					"_stainVScale":	2,
+					"_alpha":	1,
+					"unused1":	0,
+					"unused2":	0,
+					"_stainRandomOffset1":	{
+						"x":	1.2412350177764893,
+						"y":	1.1475600004196167,
+						"z":	1.3125100135803223,
+						"w":	1.4214099645614624
+					},
+					"_stainRandomOffset2":	{
+						"x":	9.4123516082763672,
+						"y":	9.17655944824219,
+						"z":	9.3165397644042969,
+						"w":	9.25364017486572
+					},
+					"_stainRandomOffset3":	{
+						"x":	4.1245126724243164,
+						"y":	4.6546449661254883,
+						"z":	4.2546000480651855,
+						"w":	4.85462999343872
+					},
+					"edgeUvCenter":	{
+						"x":	0,
+						"y":	0.300000011920929
+					},
+					"_edgeUvSize":	0.34999999403953552,
+					"_alphaThreshold":	0.0040000001899898052,
+					"_stainBlend":	{
+						"x":	0.800000011920929,
+						"y":	1,
+						"z":	1,
+						"w":	1
+					},
+					"_colorR":	1,
+					"_colorG":	1,
+					"_colorB":	1,
+					"_bloomFactor":	0,
+					"unusedVector9":	{
+						"x":	0,
+						"y":	0,
+						"z":	0,
+						"w":	0
+					}
+				}
+			},
+			"deadlySettings":	{
+				"material":	{
+					"materialName":	"terrain_deadly"
+				},
+				"collisionHeight":	0.15000000596046448,
+				"edgeCollisionHeight":	0.10000000149011612
+			},
+			"edgeSettings":	{
+				"topAngle":	{
+					"x":	1000,
+					"y":	1000
+				},
+				"cliffAngle":	{
+					"x":	78,
+					"y":	180
+				},
+				"underSideAngle":	{
+					"x":	-45,
+					"y":	45
+				}
+			},
+			"destructionSettings":	{
+				"enabled":	true,
+				"particleEffect":	{
+					"uuid":	"c81a8e00-d07e-4eb5-bded-18747f3316c9"
+				},
+				"spawnItem":	{
+					"uuid":	"bb72d063-89b1-402c-9411-ed681870a817"
+				},
+				"cameraShakeTime":	{
+					"x":	0.25,
+					"y":	0.449999988079071
+				},
+				"cameraShakeFrequency":	{
+					"x":	10,
+					"y":	15
+				},
+				"cameraShakeStrength":	{
+					"x":	5,
+					"y":	8
+				},
+				"stableFluidsDensityFactor":	{
+					"x":	0,
+					"y":	1,
+					"z":	0,
+					"w":	0
+				}
+			},
+			"godRaySettings":	{
+				"probability":	0,
+				"lightAngleLimit":	0.800000011920929,
+				"edgeAngleLimit":	0.5,
+				"minLighting":	0.990000009536743
+			},
+			"laserSettings":	{
+				"enabled":	false,
+				"base":	false,
+				"top":	true,
+				"baseAdditive":	false,
+				"topAdditive":	false,
+				"count":	30,
+				"timeScale":	1,
+				"waveScale":	2,
+				"moveTimeScale":	4,
+				"gravityScale":	4.9999998736893758e-05,
+				"rotationStep":	0.00050000002374872565,
+				"scaleStep":	0.0024999999441206455,
+				"positionStep":	4.9999998736893758e-05,
+				"innerGravityScale":	0.00499999988824129,
+				"centerFactor":	0.33300000429153442,
+				"gradientStart":	{
+					"color":	4294967295
+				},
+				"gradientEnd":	{
+					"color":	4294967295
+				}
+			},
+			"decorations":	[{
+					"type":	{
+						"value":	8
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_SPIKE1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE2"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE3"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE4"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE5"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.300000011920929,
+						"y":	0.5
+					},
+					"scaleDelay":	{
+						"x":	0.20000000298023224,
+						"y":	0.300000011920929
+					},
+					"scaleDuration":	{
+						"x":	0.600000023841858,
+						"y":	1
+					},
+					"tPos":	{
+						"x":	0,
+						"y":	1
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	0,
+						"y":	0
+					},
+					"angleLimit1":	{
+						"x":	-360,
+						"y":	360
+					},
+					"angleLimit2":	{
+						"x":	-360,
+						"y":	360
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.33300000429153442
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0.10000000149011612,
+					"density":	0.600000023841858,
+					"order":	{
+						"value":	2
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	0,
+					"genericProbability":	0
+				}, {
+					"type":	{
+						"value":	9
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_NIBBLE_RND_1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_NIBBLE_RND_2"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.05000000074505806,
+						"y":	0.075000002980232239
+					},
+					"scaleDelay":	{
+						"x":	0.10000000149011612,
+						"y":	0.5
+					},
+					"scaleDuration":	{
+						"x":	0.20000000298023224,
+						"y":	0.40000000596046448
+					},
+					"tPos":	{
+						"x":	0,
+						"y":	1
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	0,
+						"y":	0
+					},
+					"angleLimit1":	{
+						"x":	52,
+						"y":	128
+					},
+					"angleLimit2":	{
+						"x":	-128,
+						"y":	-52
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.649999976158142
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0,
+					"density":	0,
+					"order":	{
+						"value":	0
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	1,
+					"genericProbability":	0
+				}]
+		}, {
+			"uuid":	"cc275b82-a7a5-4bde-a660-f7a77ad0fb14",
+			"name":	"Yellow_Hills",
+			"goolfHitSound":	{
+				"soundId":	""
+			},
+			"edgeTypesSettings":	{
+				"edgeTypeSettings":	[{
+						"curvatureFactor":	{
+							"x":	0.10000000149011612,
+							"y":	0.300000011920929
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.10000000149011612,
+							"y":	0.300000011920929
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.5,
+							"y":	0.800000011920929
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.10000000149011612,
+							"y":	0.300000011920929
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.10000000149011612,
+							"y":	0.300000011920929
+						}
+					}]
+			},
+			"baseSettings":	{
+				"canBeStained":	true,
+				"metersToUv":	2,
+				"cliffDecorationValue":	0.5,
+				"lowPoly":	true,
+				"lowPolyNormalBlend":	0.40000000596046448,
+				"lowPolyNormalBlendFixZ":	0.5,
+				"fixSubdivisionLevelIndex":	1,
+				"mesh3DWrapFactor":	0.15000000596046448,
+				"boundaryNormalScale":	1.2000000476837158,
+				"renderMeshEdgeNormalOffset":	0.019999999552965164,
+				"image":	{
+					"imageId":	"IMAGE_TERRAIN_GRAY_STONE"
+				},
+				"overlayImage":	{
+					"imageId":	"IMAGE_TERRAIN_DIRT_OVERLAY"
+				},
+				"material":	{
+					"materialName":	"terrain_dirt"
+				},
+				"shaderType":	{
+					"value":	1
+				},
+				"baseShaderUniforms":	{
+					"_stainFactorScale":	0.33300000429153442,
+					"_stainStartOffset":	0.300000011920929,
+					"_staintStepStart":	0.20000000298023224,
+					"_staintStepEnd":	0,
+					"_staintStartScale":	0.10000000149011612,
+					"_stainHeightOffset":	0.10000000149011612,
+					"_stainHeightStartOffset":	1,
+					"_stainUScale":	1,
+					"_stainRandomOffset1":	{
+						"x":	1.2412350177764893,
+						"y":	1.1475600004196167,
+						"z":	1.3125100135803223,
+						"w":	1.4214099645614624
+					},
+					"_stainRandomOffset2":	{
+						"x":	9.4123516082763672,
+						"y":	9.17655944824219,
+						"z":	9.3165397644042969,
+						"w":	9.25364017486572
+					},
+					"_stainRandomOffset3":	{
+						"x":	4.1245126724243164,
+						"y":	4.6546449661254883,
+						"z":	4.2546000480651855,
+						"w":	4.85462999343872
+					},
+					"_alpha":	1,
+					"_laserU":	0,
+					"_laserV":	0,
+					"stainVScale":	1,
+					"_bloomFactor":	0,
+					"_overlayScale":	1,
+					"_overlayAlpha":	0.15000000596046448,
+					"_group":	0,
+					"_lightingSettings":	{
+						"x":	0,
+						"y":	0,
+						"z":	0,
+						"w":	0
+					},
+					"_stainBlend":	{
+						"x":	0.800000011920929,
+						"y":	1,
+						"z":	1,
+						"w":	1
+					},
+					"_gradientStartEnd_ZW":	{
+						"x":	0.75,
+						"y":	1,
+						"z":	0,
+						"w":	0
+					}
+				}
+			},
+			"topSettings":	{
+				"canBeStained":	true,
+				"height":	0.600000023841858,
+				"heightOffset":	-0.10499999672174454,
+				"endDistance":	0.300000011920929,
+				"endPower":	0.5,
+				"endOverhangDistance":	0.10000000149011612,
+				"collisionEdgeOffset":	0.02500000037252903,
+				"collisionHeightOffset":	-0.019999999552965164,
+				"collisionHeightScale":	0.600000023841858,
+				"image":	{
+					"imageId":	"IMAGE_TERRAIN_YELLOW_GRASS"
+				},
+				"shadowImage":	{
+					"imageId":	"IMAGE_TERRAIN_GRASS_SHADOW"
+				},
+				"material":	{
+					"materialName":	"terrain_grass"
+				},
+				"shaderType":	{
+					"value":	3
+				},
+				"topShaderUniforms":	{
+					"_stainFactorScale":	0.33300000429153442,
+					"_stainStartOffset":	0.300000011920929,
+					"_staintStepStart":	0.20000000298023224,
+					"_staintStepEnd":	0,
+					"_staintStartScale":	0.10000000149011612,
+					"_stainHeightOffset":	0.10000000149011612,
+					"_stainHeightStartOffset":	1,
+					"_stainUScale":	3,
+					"_stainVScale":	2,
+					"_alpha":	1,
+					"unused1":	0,
+					"unused2":	0,
+					"_stainRandomOffset1":	{
+						"x":	1.2412350177764893,
+						"y":	1.1475600004196167,
+						"z":	1.3125100135803223,
+						"w":	1.4214099645614624
+					},
+					"_stainRandomOffset2":	{
+						"x":	9.4123516082763672,
+						"y":	9.17655944824219,
+						"z":	9.3165397644042969,
+						"w":	9.25364017486572
+					},
+					"_stainRandomOffset3":	{
+						"x":	4.1245126724243164,
+						"y":	4.6546449661254883,
+						"z":	4.2546000480651855,
+						"w":	4.85462999343872
+					},
+					"edgeUvCenter":	{
+						"x":	0,
+						"y":	0.300000011920929
+					},
+					"_edgeUvSize":	0.34999999403953552,
+					"_alphaThreshold":	0.0040000001899898052,
+					"_stainBlend":	{
+						"x":	0.800000011920929,
+						"y":	1,
+						"z":	1,
+						"w":	1
+					},
+					"_colorR":	1,
+					"_colorG":	1,
+					"_colorB":	1,
+					"_bloomFactor":	0,
+					"unusedVector9":	{
+						"x":	0,
+						"y":	0,
+						"z":	0,
+						"w":	0
+					}
+				}
+			},
+			"deadlySettings":	{
+				"material":	{
+					"materialName":	"terrain_deadly"
+				},
+				"collisionHeight":	0.15000000596046448,
+				"edgeCollisionHeight":	0.10000000149011612
+			},
+			"edgeSettings":	{
+				"topAngle":	{
+					"x":	-50,
+					"y":	60
+				},
+				"cliffAngle":	{
+					"x":	78,
+					"y":	180
+				},
+				"underSideAngle":	{
+					"x":	-45,
+					"y":	45
+				}
+			},
+			"destructionSettings":	{
+				"enabled":	false,
+				"particleEffect":	{
+					"uuid":	"c81a8e00-d07e-4eb5-bded-18747f3316c9"
+				},
+				"spawnItem":	{
+					"uuid":	"bb72d063-89b1-402c-9411-ed681870a817"
+				},
+				"cameraShakeTime":	{
+					"x":	0.25,
+					"y":	0.449999988079071
+				},
+				"cameraShakeFrequency":	{
+					"x":	10,
+					"y":	15
+				},
+				"cameraShakeStrength":	{
+					"x":	5,
+					"y":	8
+				},
+				"stableFluidsDensityFactor":	{
+					"x":	0,
+					"y":	1,
+					"z":	0,
+					"w":	0
+				}
+			},
+			"godRaySettings":	{
+				"probability":	0,
+				"lightAngleLimit":	0.800000011920929,
+				"edgeAngleLimit":	0.5,
+				"minLighting":	0.990000009536743
+			},
+			"laserSettings":	{
+				"enabled":	false,
+				"base":	false,
+				"top":	true,
+				"baseAdditive":	false,
+				"topAdditive":	false,
+				"count":	30,
+				"timeScale":	1,
+				"waveScale":	2,
+				"moveTimeScale":	4,
+				"gravityScale":	4.9999998736893758e-05,
+				"rotationStep":	0.00050000002374872565,
+				"scaleStep":	0.0024999999441206455,
+				"positionStep":	4.9999998736893758e-05,
+				"innerGravityScale":	0.00499999988824129,
+				"centerFactor":	0.33300000429153442,
+				"gradientStart":	{
+					"color":	4294967295
+				},
+				"gradientEnd":	{
+					"color":	4294967295
+				}
+			},
+			"decorations":	[{
+					"type":	{
+						"value":	8
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_SPIKE1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE2"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE3"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE4"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE5"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.300000011920929,
+						"y":	0.5
+					},
+					"scaleDelay":	{
+						"x":	0.20000000298023224,
+						"y":	0.300000011920929
+					},
+					"scaleDuration":	{
+						"x":	0.600000023841858,
+						"y":	1
+					},
+					"tPos":	{
+						"x":	0,
+						"y":	1
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	0,
+						"y":	0
+					},
+					"angleLimit1":	{
+						"x":	-360,
+						"y":	360
+					},
+					"angleLimit2":	{
+						"x":	-360,
+						"y":	360
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.33300000429153442
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0.10000000149011612,
+					"density":	0.600000023841858,
+					"order":	{
+						"value":	2
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	0,
+					"genericProbability":	0
+				}, {
+					"type":	{
+						"value":	9
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_NIBBLE_RND_1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_NIBBLE_RND_2"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.10000000149011612,
+						"y":	0.300000011920929
+					},
+					"scaleDelay":	{
+						"x":	0.10000000149011612,
+						"y":	0.5
+					},
+					"scaleDuration":	{
+						"x":	0.20000000298023224,
+						"y":	0.40000000596046448
+					},
+					"tPos":	{
+						"x":	0,
+						"y":	1
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	0,
+						"y":	0.10000000149011612
+					},
+					"angleLimit1":	{
+						"x":	-360,
+						"y":	360
+					},
+					"angleLimit2":	{
+						"x":	-360,
+						"y":	360
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.649999976158142
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0,
+					"density":	0,
+					"order":	{
+						"value":	0
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	1,
+					"genericProbability":	0
+				}, {
+					"type":	{
+						"value":	1
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_YELLOW_GRASS5"
+						}, {
+							"imageId":	"IMAGE_DECORATION_YELLOW_GRASS2"
+						}, {
+							"imageId":	"IMAGE_DECORATION_YELLOW_GRASS3"
+						}, {
+							"imageId":	"IMAGE_DECORATION_YELLOW_GRASS1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_YELLOW_GRASS4"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.300000011920929,
+						"y":	0.40000000596046448
+					},
+					"scaleDelay":	{
+						"x":	0.10000000149011612,
+						"y":	0.5
+					},
+					"scaleDuration":	{
+						"x":	0.20000000298023224,
+						"y":	0.40000000596046448
+					},
+					"tPos":	{
+						"x":	0,
+						"y":	1
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	0,
+						"y":	0
+					},
+					"angleLimit1":	{
+						"x":	-360,
+						"y":	360
+					},
+					"angleLimit2":	{
+						"x":	-360,
+						"y":	360
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.600000023841858
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	1,
+					"fitWidthFactor":	0.33300000429153442,
+					"density":	0.10000000149011612,
+					"order":	{
+						"value":	4
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	0,
+					"genericProbability":	0
+				}, {
+					"type":	{
+						"value":	2
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_TERRAINGRASSYELLOSTRANDBACK2"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.300000011920929,
+						"y":	0.40000000596046448
+					},
+					"scaleDelay":	{
+						"x":	0.10000000149011612,
+						"y":	0.5
+					},
+					"scaleDuration":	{
+						"x":	0.20000000298023224,
+						"y":	0.40000000596046448
+					},
+					"tPos":	{
+						"x":	0,
+						"y":	1
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	0,
+						"y":	0
+					},
+					"angleLimit1":	{
+						"x":	-360,
+						"y":	360
+					},
+					"angleLimit2":	{
+						"x":	-360,
+						"y":	360
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.600000023841858
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0.75,
+					"fitWidthFactor":	0.33300000429153442,
+					"density":	0.20000000298023224,
+					"order":	{
+						"value":	2
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	0,
+					"genericProbability":	0
+				}]
+		}, {
+			"uuid":	"6c2c5edc-4d64-49e3-9427-0b915cc6b617",
+			"name":	"RedRocks",
+			"goolfHitSound":	{
+				"soundId":	""
+			},
+			"edgeTypesSettings":	{
+				"edgeTypeSettings":	[{
+						"curvatureFactor":	{
+							"x":	0.10000000149011612,
+							"y":	0.300000011920929
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.10000000149011612,
+							"y":	0.300000011920929
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.10000000149011612,
+							"y":	0.300000011920929
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.10000000149011612,
+							"y":	0.300000011920929
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.10000000149011612,
+							"y":	0.300000011920929
+						}
+					}]
+			},
+			"baseSettings":	{
+				"canBeStained":	true,
+				"metersToUv":	3.5999999046325684,
+				"cliffDecorationValue":	0.5,
+				"lowPoly":	true,
+				"lowPolyNormalBlend":	0.699999988079071,
+				"lowPolyNormalBlendFixZ":	1,
+				"fixSubdivisionLevelIndex":	1,
+				"mesh3DWrapFactor":	0.15000000596046448,
+				"boundaryNormalScale":	1.2000000476837158,
+				"renderMeshEdgeNormalOffset":	0.019999999552965164,
+				"image":	{
+					"imageId":	"IMAGE_TERRAIN_RED_ROCKS"
+				},
+				"overlayImage":	{
+					"imageId":	"IMAGE_TERRAIN_EMPTY"
+				},
+				"material":	{
+					"materialName":	"terrain_dirt"
+				},
+				"shaderType":	{
+					"value":	0
+				},
+				"baseShaderUniforms":	{
+					"_stainFactorScale":	0.33300000429153442,
+					"_stainStartOffset":	0.300000011920929,
+					"_staintStepStart":	0.20000000298023224,
+					"_staintStepEnd":	0,
+					"_staintStartScale":	0.10000000149011612,
+					"_stainHeightOffset":	0.10000000149011612,
+					"_stainHeightStartOffset":	1,
+					"_stainUScale":	1,
+					"_stainRandomOffset1":	{
+						"x":	1.2412350177764893,
+						"y":	1.1475600004196167,
+						"z":	1.3125100135803223,
+						"w":	1.4214099645614624
+					},
+					"_stainRandomOffset2":	{
+						"x":	9.4123516082763672,
+						"y":	9.17655944824219,
+						"z":	9.3165397644042969,
+						"w":	9.25364017486572
+					},
+					"_stainRandomOffset3":	{
+						"x":	4.1245126724243164,
+						"y":	4.6546449661254883,
+						"z":	4.2546000480651855,
+						"w":	4.85462999343872
+					},
+					"_alpha":	1,
+					"_laserU":	0,
+					"_laserV":	0,
+					"stainVScale":	1,
+					"_bloomFactor":	0,
+					"_overlayScale":	1,
+					"_overlayAlpha":	0.15000000596046448,
+					"_group":	0,
+					"_lightingSettings":	{
+						"x":	0,
+						"y":	0,
+						"z":	0,
+						"w":	0
+					},
+					"_stainBlend":	{
+						"x":	0.800000011920929,
+						"y":	1,
+						"z":	1,
+						"w":	1
+					},
+					"_gradientStartEnd_ZW":	{
+						"x":	0.75,
+						"y":	1,
+						"z":	0,
+						"w":	0
+					}
+				}
+			},
+			"topSettings":	{
+				"canBeStained":	true,
+				"height":	0.899999976158142,
+				"heightOffset":	-0.10499999672174454,
+				"endDistance":	0.699999988079071,
+				"endPower":	0.300000011920929,
+				"endOverhangDistance":	0.10000000149011612,
+				"collisionEdgeOffset":	0.02500000037252903,
+				"collisionHeightOffset":	-0.019999999552965164,
+				"collisionHeightScale":	0.600000023841858,
+				"image":	{
+					"imageId":	"IMAGE_TERRAIN_RED_ROCKTOP"
+				},
+				"shadowImage":	{
+					"imageId":	"IMAGE_TERRAIN_ROCKTOP_SHADOW"
+				},
+				"material":	{
+					"materialName":	"terrain_grass"
+				},
+				"shaderType":	{
+					"value":	3
+				},
+				"topShaderUniforms":	{
+					"_stainFactorScale":	0.33300000429153442,
+					"_stainStartOffset":	0.300000011920929,
+					"_staintStepStart":	0.20000000298023224,
+					"_staintStepEnd":	0,
+					"_staintStartScale":	0.10000000149011612,
+					"_stainHeightOffset":	0.10000000149011612,
+					"_stainHeightStartOffset":	1,
+					"_stainUScale":	3,
+					"_stainVScale":	2,
+					"_alpha":	1,
+					"unused1":	0,
+					"unused2":	0,
+					"_stainRandomOffset1":	{
+						"x":	1.2412350177764893,
+						"y":	1.1475600004196167,
+						"z":	1.3125100135803223,
+						"w":	1.4214099645614624
+					},
+					"_stainRandomOffset2":	{
+						"x":	9.4123516082763672,
+						"y":	9.17655944824219,
+						"z":	9.3165397644042969,
+						"w":	9.25364017486572
+					},
+					"_stainRandomOffset3":	{
+						"x":	4.1245126724243164,
+						"y":	4.6546449661254883,
+						"z":	4.2546000480651855,
+						"w":	4.85462999343872
+					},
+					"edgeUvCenter":	{
+						"x":	0,
+						"y":	0.300000011920929
+					},
+					"_edgeUvSize":	0.34999999403953552,
+					"_alphaThreshold":	0.0040000001899898052,
+					"_stainBlend":	{
+						"x":	0.800000011920929,
+						"y":	1,
+						"z":	1,
+						"w":	1
+					},
+					"_colorR":	1,
+					"_colorG":	1,
+					"_colorB":	1,
+					"_bloomFactor":	0,
+					"unusedVector9":	{
+						"x":	0,
+						"y":	0,
+						"z":	0,
+						"w":	0
+					}
+				}
+			},
+			"deadlySettings":	{
+				"material":	{
+					"materialName":	"terrain_deadly"
+				},
+				"collisionHeight":	0.15000000596046448,
+				"edgeCollisionHeight":	0.10000000149011612
+			},
+			"edgeSettings":	{
+				"topAngle":	{
+					"x":	-72,
+					"y":	72
+				},
+				"cliffAngle":	{
+					"x":	78,
+					"y":	180
+				},
+				"underSideAngle":	{
+					"x":	-45,
+					"y":	45
+				}
+			},
+			"destructionSettings":	{
+				"enabled":	true,
+				"particleEffect":	{
+					"uuid":	"c81a8e00-d07e-4eb5-bded-18747f3316c9"
+				},
+				"spawnItem":	{
+					"uuid":	"bb72d063-89b1-402c-9411-ed681870a817"
+				},
+				"cameraShakeTime":	{
+					"x":	0.25,
+					"y":	0.449999988079071
+				},
+				"cameraShakeFrequency":	{
+					"x":	10,
+					"y":	15
+				},
+				"cameraShakeStrength":	{
+					"x":	5,
+					"y":	8
+				},
+				"stableFluidsDensityFactor":	{
+					"x":	0,
+					"y":	1,
+					"z":	0,
+					"w":	0
+				}
+			},
+			"godRaySettings":	{
+				"probability":	0,
+				"lightAngleLimit":	0.800000011920929,
+				"edgeAngleLimit":	0.5,
+				"minLighting":	0.990000009536743
+			},
+			"laserSettings":	{
+				"enabled":	false,
+				"base":	false,
+				"top":	true,
+				"baseAdditive":	false,
+				"topAdditive":	false,
+				"count":	30,
+				"timeScale":	1,
+				"waveScale":	2,
+				"moveTimeScale":	4,
+				"gravityScale":	4.9999998736893758e-05,
+				"rotationStep":	0.00050000002374872565,
+				"scaleStep":	0.0024999999441206455,
+				"positionStep":	4.9999998736893758e-05,
+				"innerGravityScale":	0.00499999988824129,
+				"centerFactor":	0.33300000429153442,
+				"gradientStart":	{
+					"color":	4294967295
+				},
+				"gradientEnd":	{
+					"color":	4294967295
+				}
+			},
+			"decorations":	[{
+					"type":	{
+						"value":	8
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_SPIKE1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE2"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE3"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE4"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE5"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.300000011920929,
+						"y":	0.5
+					},
+					"scaleDelay":	{
+						"x":	0.20000000298023224,
+						"y":	0.300000011920929
+					},
+					"scaleDuration":	{
+						"x":	0.600000023841858,
+						"y":	1
+					},
+					"tPos":	{
+						"x":	0,
+						"y":	1
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	0,
+						"y":	0
+					},
+					"angleLimit1":	{
+						"x":	-360,
+						"y":	360
+					},
+					"angleLimit2":	{
+						"x":	-360,
+						"y":	360
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.33300000429153442
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0.10000000149011612,
+					"density":	0.600000023841858,
+					"order":	{
+						"value":	2
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	0,
+					"genericProbability":	0
+				}, {
+					"type":	{
+						"value":	9
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_NIBBLE_RND_1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_NIBBLE_RND_2"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.10000000149011612,
+						"y":	0.20000000298023224
+					},
+					"scaleDelay":	{
+						"x":	0.10000000149011612,
+						"y":	0.5
+					},
+					"scaleDuration":	{
+						"x":	0.20000000298023224,
+						"y":	0.40000000596046448
+					},
+					"tPos":	{
+						"x":	0,
+						"y":	1
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	0,
+						"y":	0
+					},
+					"angleLimit1":	{
+						"x":	52,
+						"y":	128
+					},
+					"angleLimit2":	{
+						"x":	-128,
+						"y":	-52
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.649999976158142
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0,
+					"density":	0.079999998211860657,
+					"order":	{
+						"value":	0
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	1,
+					"genericProbability":	0
+				}, {
+					"type":	{
+						"value":	5
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_BROWN_DRIP1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_BROWN_DRIP2"
+						}, {
+							"imageId":	"IMAGE_DECORATION_BROWN_DRIP3"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.05000000074505806,
+						"y":	0.10000000149011612
+					},
+					"scaleDelay":	{
+						"x":	0.20000000298023224,
+						"y":	0.5
+					},
+					"scaleDuration":	{
+						"x":	0.300000011920929,
+						"y":	0.600000023841858
+					},
+					"tPos":	{
+						"x":	0.300000011920929,
+						"y":	0.600000023841858
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	-0.029999999329447746,
+						"y":	-0.029999999329447746
+					},
+					"angleLimit1":	{
+						"x":	-360,
+						"y":	360
+					},
+					"angleLimit2":	{
+						"x":	-360,
+						"y":	360
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.10000000149011612
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0.33300000429153442,
+					"density":	0.10000000149011612,
+					"order":	{
+						"value":	2
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	0,
+					"genericProbability":	0
+				}]
+		},	{
+			"uuid":	"d8efe33c-1868-4ce9-9052-733383db8a0f",
+			"name":	"Rocks_holes2",
+			"goolfHitSound":	{
+				"soundId":	""
+			},
+			"edgeTypesSettings":	{
+				"edgeTypeSettings":	[{
+						"curvatureFactor":	{
+							"x":	0.10000000149011612,
+							"y":	0.300000011920929
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.10000000149011612,
+							"y":	0.300000011920929
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.10000000149011612,
+							"y":	0.300000011920929
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.10000000149011612,
+							"y":	0.300000011920929
+						}
+					}, {
+						"curvatureFactor":	{
+							"x":	0.10000000149011612,
+							"y":	0.300000011920929
+						}
+					}]
+			},
+			"baseSettings":	{
+				"canBeStained":	true,
+				"metersToUv":	3.5999999046325684,
+				"cliffDecorationValue":	0.5,
+				"lowPoly":	true,
+				"lowPolyNormalBlend":	0.699999988079071,
+				"lowPolyNormalBlendFixZ":	1,
+				"fixSubdivisionLevelIndex":	1,
+				"mesh3DWrapFactor":	0.15000000596046448,
+				"boundaryNormalScale":	1.2000000476837158,
+				"renderMeshEdgeNormalOffset":	0.019999999552965164,
+				"image":	{
+					"imageId":	"IMAGE_TERRAIN_STONE_HOLES2"
+				},
+				"overlayImage":	{
+					"imageId":	"IMAGE_TERRAIN_EMPTY"
+				},
+				"material":	{
+					"materialName":	"terrain_dirt"
+				},
+				"shaderType":	{
+					"value":	0
+				},
+				"baseShaderUniforms":	{
+					"_stainFactorScale":	0.33300000429153442,
+					"_stainStartOffset":	0.300000011920929,
+					"_staintStepStart":	0.20000000298023224,
+					"_staintStepEnd":	0,
+					"_staintStartScale":	0.10000000149011612,
+					"_stainHeightOffset":	0.10000000149011612,
+					"_stainHeightStartOffset":	1,
+					"_stainUScale":	1,
+					"_stainRandomOffset1":	{
+						"x":	1.2412350177764893,
+						"y":	1.1475600004196167,
+						"z":	1.3125100135803223,
+						"w":	1.4214099645614624
+					},
+					"_stainRandomOffset2":	{
+						"x":	9.4123516082763672,
+						"y":	9.17655944824219,
+						"z":	9.3165397644042969,
+						"w":	9.25364017486572
+					},
+					"_stainRandomOffset3":	{
+						"x":	4.1245126724243164,
+						"y":	4.6546449661254883,
+						"z":	4.2546000480651855,
+						"w":	4.85462999343872
+					},
+					"_alpha":	1,
+					"_laserU":	0,
+					"_laserV":	0,
+					"stainVScale":	1,
+					"_bloomFactor":	0,
+					"_overlayScale":	1,
+					"_overlayAlpha":	0.15000000596046448,
+					"_group":	0,
+					"_lightingSettings":	{
+						"x":	0,
+						"y":	0,
+						"z":	0,
+						"w":	0
+					},
+					"_stainBlend":	{
+						"x":	0.800000011920929,
+						"y":	1,
+						"z":	1,
+						"w":	1
+					},
+					"_gradientStartEnd_ZW":	{
+						"x":	0.75,
+						"y":	1,
+						"z":	0,
+						"w":	0
+					}
+				}
+			},
+			"topSettings":	{
+				"canBeStained":	true,
+				"height":	0.899999976158142,
+				"heightOffset":	-0.10499999672174454,
+				"endDistance":	0.699999988079071,
+				"endPower":	0.300000011920929,
+				"endOverhangDistance":	0.10000000149011612,
+				"collisionEdgeOffset":	0.02500000037252903,
+				"collisionHeightOffset":	-0.019999999552965164,
+				"collisionHeightScale":	0.600000023841858,
+				"image":	{
+					"imageId":	"IMAGE_TERRAIN_BLUEGRASS1"
+				},
+				"shadowImage":	{
+					"imageId":	"IMAGE_TERRAIN_EMPTY"
+				},
+				"material":	{
+					"materialName":	"terrain_grass"
+				},
+				"shaderType":	{
+					"value":	3
+				},
+				"topShaderUniforms":	{
+					"_stainFactorScale":	0.33300000429153442,
+					"_stainStartOffset":	0.300000011920929,
+					"_staintStepStart":	0.20000000298023224,
+					"_staintStepEnd":	0,
+					"_staintStartScale":	0.10000000149011612,
+					"_stainHeightOffset":	0.10000000149011612,
+					"_stainHeightStartOffset":	1,
+					"_stainUScale":	3,
+					"_stainVScale":	2,
+					"_alpha":	1,
+					"unused1":	0,
+					"unused2":	0,
+					"_stainRandomOffset1":	{
+						"x":	1.2412350177764893,
+						"y":	1.1475600004196167,
+						"z":	1.3125100135803223,
+						"w":	1.4214099645614624
+					},
+					"_stainRandomOffset2":	{
+						"x":	9.4123516082763672,
+						"y":	9.17655944824219,
+						"z":	9.3165397644042969,
+						"w":	9.25364017486572
+					},
+					"_stainRandomOffset3":	{
+						"x":	4.1245126724243164,
+						"y":	4.6546449661254883,
+						"z":	4.2546000480651855,
+						"w":	4.85462999343872
+					},
+					"edgeUvCenter":	{
+						"x":	0,
+						"y":	0.300000011920929
+					},
+					"_edgeUvSize":	0.34999999403953552,
+					"_alphaThreshold":	0.0040000001899898052,
+					"_stainBlend":	{
+						"x":	0.800000011920929,
+						"y":	1,
+						"z":	1,
+						"w":	1
+					},
+					"_colorR":	1,
+					"_colorG":	1,
+					"_colorB":	1,
+					"_bloomFactor":	0,
+					"unusedVector9":	{
+						"x":	0,
+						"y":	0,
+						"z":	0,
+						"w":	0
+					}
+				}
+			},
+			"deadlySettings":	{
+				"material":	{
+					"materialName":	"terrain_deadly"
+				},
+				"collisionHeight":	0.15000000596046448,
+				"edgeCollisionHeight":	0.10000000149011612
+			},
+			"edgeSettings":	{
+				"topAngle":	{
+					"x":	-72,
+					"y":	72
+				},
+				"cliffAngle":	{
+					"x":	78,
+					"y":	180
+				},
+				"underSideAngle":	{
+					"x":	-45,
+					"y":	45
+				}
+			},
+			"destructionSettings":	{
+				"enabled":	true,
+				"particleEffect":	{
+					"uuid":	"c81a8e00-d07e-4eb5-bded-18747f3316c9"
+				},
+				"spawnItem":	{
+					"uuid":	"bb72d063-89b1-402c-9411-ed681870a817"
+				},
+				"cameraShakeTime":	{
+					"x":	0.25,
+					"y":	0.449999988079071
+				},
+				"cameraShakeFrequency":	{
+					"x":	10,
+					"y":	15
+				},
+				"cameraShakeStrength":	{
+					"x":	5,
+					"y":	8
+				},
+				"stableFluidsDensityFactor":	{
+					"x":	0,
+					"y":	1,
+					"z":	0,
+					"w":	0
+				}
+			},
+			"godRaySettings":	{
+				"probability":	0,
+				"lightAngleLimit":	0.800000011920929,
+				"edgeAngleLimit":	0.5,
+				"minLighting":	0.990000009536743
+			},
+			"laserSettings":	{
+				"enabled":	false,
+				"base":	false,
+				"top":	true,
+				"baseAdditive":	false,
+				"topAdditive":	false,
+				"count":	30,
+				"timeScale":	1,
+				"waveScale":	2,
+				"moveTimeScale":	4,
+				"gravityScale":	4.9999998736893758e-05,
+				"rotationStep":	0.00050000002374872565,
+				"scaleStep":	0.0024999999441206455,
+				"positionStep":	4.9999998736893758e-05,
+				"innerGravityScale":	0.00499999988824129,
+				"centerFactor":	0.33300000429153442,
+				"gradientStart":	{
+					"color":	4294967295
+				},
+				"gradientEnd":	{
+					"color":	4294967295
+				}
+			},
+			"decorations":	[{
+					"type":	{
+						"value":	8
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_SPIKE1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE2"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE3"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE4"
+						}, {
+							"imageId":	"IMAGE_DECORATION_SPIKE5"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.300000011920929,
+						"y":	0.5
+					},
+					"scaleDelay":	{
+						"x":	0.20000000298023224,
+						"y":	0.300000011920929
+					},
+					"scaleDuration":	{
+						"x":	0.600000023841858,
+						"y":	1
+					},
+					"tPos":	{
+						"x":	0,
+						"y":	1
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	0,
+						"y":	0
+					},
+					"angleLimit1":	{
+						"x":	-360,
+						"y":	360
+					},
+					"angleLimit2":	{
+						"x":	-360,
+						"y":	360
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.33300000429153442
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0.10000000149011612,
+					"density":	0.600000023841858,
+					"order":	{
+						"value":	2
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	0,
+					"genericProbability":	0
+				}, {
+					"type":	{
+						"value":	9
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_NIBBLE_SQ_1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_NIBBLE_SQ_2"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.10000000149011612,
+						"y":	0.20000000298023224
+					},
+					"scaleDelay":	{
+						"x":	0.10000000149011612,
+						"y":	0.5
+					},
+					"scaleDuration":	{
+						"x":	0.20000000298023224,
+						"y":	0.40000000596046448
+					},
+					"tPos":	{
+						"x":	0,
+						"y":	1
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	0,
+						"y":	0
+					},
+					"angleLimit1":	{
+						"x":	52,
+						"y":	128
+					},
+					"angleLimit2":	{
+						"x":	-128,
+						"y":	-52
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.649999976158142
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0,
+					"density":	0.079999998211860657,
+					"order":	{
+						"value":	0
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	1,
+					"genericProbability":	0
+				}, {
+					"type":	{
+						"value":	5
+					},
+					"images":	[{
+							"imageId":	"IMAGE_DECORATION_BROWN_DRIP1"
+						}, {
+							"imageId":	"IMAGE_DECORATION_BROWN_DRIP2"
+						}, {
+							"imageId":	"IMAGE_DECORATION_BROWN_DRIP3"
+						}],
+					"selectionWeight":	1,
+					"scaleStart":	{
+						"x":	0,
+						"y":	0
+					},
+					"scaleEnd":	{
+						"x":	0.05000000074505806,
+						"y":	0.10000000149011612
+					},
+					"scaleDelay":	{
+						"x":	0.20000000298023224,
+						"y":	0.5
+					},
+					"scaleDuration":	{
+						"x":	0.300000011920929,
+						"y":	0.600000023841858
+					},
+					"tPos":	{
+						"x":	0.300000011920929,
+						"y":	0.600000023841858
+					},
+					"tPosMaxAngleDifference":	-180,
+					"yOffset":	{
+						"x":	-0.029999999329447746,
+						"y":	-0.029999999329447746
+					},
+					"angleLimit1":	{
+						"x":	-360,
+						"y":	360
+					},
+					"angleLimit2":	{
+						"x":	-360,
+						"y":	360
+					},
+					"rotationRange":	{
+						"x":	-360,
+						"y":	360
+					},
+					"alpha":	{
+						"x":	1,
+						"y":	1
+					},
+					"anchor":	{
+						"x":	0.5,
+						"y":	0.10000000149011612
+					},
+					"followEdgeFactor":	1,
+					"stainLiquidType":	{
+						"liquidType":	4
+					},
+					"stainFactor":	-1,
+					"windFactor":	0,
+					"fitWidthFactor":	0.33300000429153442,
+					"density":	0.10000000149011612,
+					"order":	{
+						"value":	2
+					},
+					"sortOffset":	0,
+					"group":	-1,
+					"ignoreEdgeAttribute":	0,
 					"genericProbability":	0
 				}]
 		}

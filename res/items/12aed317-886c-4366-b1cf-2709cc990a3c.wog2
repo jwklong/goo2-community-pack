@@ -1,0 +1,128 @@
+{
+	"items":	[{
+			"name":	"EyeBasic",
+			"uuid":	"12aed317-886c-4366-b1cf-2709cc990a3c",
+			"type":	42,
+			"category":	"",
+			"layer":	5,
+			"minDepth":	-5,
+			"maxDepth":	5,
+			"sortOffset":	0,
+			"radiusOverride":	0,
+			"canRotate":	true,
+			"uniformScale":	true,
+			"canBeCopied":	true,
+			"variations":	false,
+			"useLighting":	false,
+			"castShadow":	true,
+			"color":	4294967038,
+			"animationName":	"ANIM_GLOBAL_EYE_DEFAULT",
+			"animationAlias":	"idle",
+			"animationSpeed":	1,
+			"animationInNormalizedTime":	1,
+			"animationPlayNormalizedTimeRange":	{
+				"x":	0,
+				"y":	0
+			},
+			"animationLocalPosition":	{
+				"x":	0,
+				"y":	0
+			},
+			"animationLocalScale":	{
+				"x":	1,
+				"y":	1
+			},
+			"animationRotation":	0,
+			"userValue1":	0,
+			"userValue2":	0,
+			"snapObjectIndex":	0,
+			"destroyForce":	-1,
+			"objects":	[{
+					"name":	"IMAGE_ITEM_PROTOTYPE_PROTOTYPEDYNAMICSPHERE",
+					"randomizationGroup":	0,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"color":	4294967295,
+					"depthOffset":	0,
+					"sortOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"rotationSpeed":	0,
+					"invisible":	true,
+					"clickable":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"ignoreScale":	false,
+					"shaderFactor":	1,
+					"body":	{
+						"id":	"",
+						"type":	0,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	false,
+						"materialName":	"generic",
+						"tags":	"",
+						"geoms":	[],
+						"categoryBits":	0
+					},
+					"colorFx":	{
+						"enabled":	false,
+						"brightness":	0,
+						"contrast":	0,
+						"exposure":	0,
+						"saturation":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}],
+			"alternates":	[],
+			"userVariables":	[{
+					"name":	"Group Id",
+					"defaultValue":	0,
+					"minValue":	0,
+					"maxValue":	15,
+					"orderIndex":	0,
+					"enabled":	true,
+					"type":	1,
+					"stringValue":	""
+				}, {
+					"name":	"Blinking",
+					"defaultValue":	0,
+					"minValue":	0,
+					"maxValue":	0,
+					"orderIndex":	1,
+					"enabled":	true,
+					"type":	2,
+					"stringValue":	""
+				}, {
+					"name":	"Sleeping",
+					"defaultValue":	0,
+					"minValue":	0,
+					"maxValue":	0,
+					"orderIndex":	2,
+					"enabled":	true,
+					"type":	2,
+					"stringValue":	""
+				}],
+			"snapPoints":	[],
+			"limits":	{
+				"minScale":	0.10000000149011612,
+				"maxScale":	3
+			}
+		}]
+}
