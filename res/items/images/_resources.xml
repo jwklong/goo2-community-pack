@@ -525,6 +525,17 @@
 		<Image id="SPIKEYGOO_TRAFFICSIGN11" path="spikeygoo/signWarning14"  />
 		<Image id="SPIKEYGOO_TRAFFICSIGN12" path="spikeygoo/signWarning15"  />
 		<Image id="SPIKEYGOO_TRAFFICSIGN13" path="spikeygoo/signWarning16"  />
+		<!-- Assets provided by Xowerr -->
+		<Image id="NIGHTROCKS_WALL_LEFT" path="Fireworks/NightRocks_wall_left"  />
+		<Image id="NIGHTROCKS_WALL_RIGHT" path="Fireworks/NightRocks_wall_right"  />
+		<Image id="FW_LEFT_ISLANDS" path="Fireworks/left_islands"  />
+		<Image id="FW_RIGHT_ISLANDS" path="Fireworks/right_islands"  />
+		<Image id="FW_SPIRE1" path="Fireworks/spire1"  />
+		<Image id="FW_SPIRE1_RIGHT" path="Fireworks/spire1_right"  />
+		<Image id="FW_SPIRE2" path="Fireworks/spire2"  />
+		<Image id="FW_SPIRE2_RIGHT" path="Fireworks/spire2_right"  />
+		<Image id="FW_SPIRE3" path="Fireworks/spire3"  />
+		<Image id="FW_SPIRE3_RIGHT" path="Fireworks/spire3_right"  />
 
 	</Resources>
 </ResourceManifest>

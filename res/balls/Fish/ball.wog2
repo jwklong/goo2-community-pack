@@ -1,0 +1,1002 @@
+{
+	"name":	"Fish",
+	"width":	0.5,
+	"height":	0.5,
+	"shape":	{
+		"ballShape":	0
+	},
+	"sizeVariance":	0.019999999552965164,
+	"mass":	0.6600000262260437,
+	"towerMass":	0.16500000655651093,
+	"dragMass":	0.6600000262260437,
+	"destroyForce":	-1,
+	"maxDropDistance":	10,
+	"maxStrands":	1,
+	"walkSpeed":	0,
+	"climbSpeed":	0.00999999977648258,
+	"speedVariance":	0.20000000298023224,
+	"antiGravFactor":	5,
+	"isAntiGravAttached":	true,
+	"isAntiGravUnattached":	false,
+	"dampening":	4,
+	"rotationalDampening":	0,
+	"isEditable":	true,
+	"isDraggable":	true,
+	"isDetachable":	true,
+	"diesOnDetach":	false,
+	"isInvulnerable":	false,
+	"isInvulnerableToLava":	false,
+	"isStickyAttached":	false,
+	"isStickyUnattached":	false,
+	"attachToSameTypeOnly":	false,
+	"isGrumpy":	true,
+	"isStatic":	false,
+	"isStaticWhenSleeping":	false,
+	"selectionMarkerRadius":	0.49000000953674316,
+	"countMoveOnUnatachedRelease":	false,
+	"attachedMaginSS":	20,
+	"unattachedMarginSS":	40,
+	"health":	20,
+	"blinkColor":	{
+		"color":	4281995809
+	},
+	"jumpMultiplierMin":	0,
+	"jumpMultiplierMax":	0.300000011920929,
+	"collideAttached":	true,
+	"collideWithAttached":	false,
+	"collideWithParticlesAttached":	true,
+	"collisionGroup":	0,
+	"allowAttachmentsWhenStuck":	false,
+	"allowAttachmentsWhenFalling":	false,
+	"motorMaxForce":	5,
+	"isSuckable":	true,
+	"opensExitUnattached":	false,
+	"affectsAutoboundsAttached":	true,
+	"affectsAutoboundsUnattached":	false,
+	"burnTime":	0,
+	"detonateForce":	0,
+	"detonateRadius":	0,
+	"detonateKillBalls":	true,
+	"detonateKillItems":	true,
+	"detonateKillTerrain":	true,
+	"detonateParticleEffect":	{
+		"uuid":	""
+	},
+	"autoAttach":	false,
+	"isClimber":	true,
+	"attachedParticleBarrierFactor":	3,
+	"material":	{
+		"materialName":	"balldefault"
+	},
+	"contains":	[],
+	"popSoundId":	{
+		"soundId":	""
+	},
+	"popParticlesId":	"",
+	"despawnTriggersFullDeath":	false,
+	"deathParticleEffect":	{
+		"uuid":	""
+	},
+	"fireworksParticleEffect":	{
+		"uuid":	""
+	},
+	"trailEffectId":	"",
+	"trailParticleEffect":	{
+		"uuid":	""
+	},
+	"trailEffectEnabled":	false,
+	"popDuration":	0,
+	"popDelayMin":	0,
+	"popDelayMax":	0,
+	"hideEyes":	false,
+	"botoxEyesWhenAttached":	false,
+	"isBehindStrands":	false,
+	"wakeOtherBallsAtDistance":	-3.4028234663852886e+38,
+	"spawnType":	{
+		"ballType":	0
+	},
+	"decay":	-1,
+	"flingForceFactor":	0,
+	"flingStrandMaxLength":	0,
+	"autoDisable":	false,
+	"maxDragForce":	3.4028234663852886e+38,
+	"dragDampeningFactor":	0.600000023841858,
+	"alwaysLookAtMouse":	false,
+	"hingeDrag":	false,
+	"maxAttachSpeed":	10,
+	"jumpOnWakeup":	true,
+	"thrust":	0,
+	"useDistantSounds":	true,
+	"canBeRotatedByHand":	false,
+	"stencil":	0,
+	"stencilWhenAttached":	false,
+	"canSuckLiquidExternally":	false,
+	"canSuckLiquidFromPipe":	false,
+	"liquidParticlesPerSecond":	0,
+	"initialBallLiquidAmount":	0,
+	"maxBallLiquidAmount":	0,
+	"maxStrandLiquidAmount":	0,
+	"liquidSinkOffset":	0,
+	"strandSuckLiquidParticlesPerSecond":	0,
+	"hitVelocityAccumulationLimit":	0,
+	"strandType":	{
+		"strandType":	6
+	},
+	"springConstMin":	4500,
+	"springConstMax":	4500,
+	"strandDampening":	0.019999999552965164,
+	"maxReplacementStrandLength":	3,
+	"maxNormalStrandLength":	1.7999999523162842,
+	"minStrandLength":	1.5,
+	"strandShrinkLength":	1.7999999523162842,
+	"maxStretchForce":	1000,
+	"maxCompressForce":	1000,
+	"maxStrandAngle":	-1,
+	"maxStrandSeparation":	-1,
+	"strandDensity":	0.10000000149011612,
+	"strandThickness":	0.10000000149011612,
+	"strandGrowMultiplier":	1,
+	"isSingleStrandAllowed":	false,
+	"isSingleStrandAllowedEvenForOneStrand":	false,
+	"allowBallToStrandConversion":	false,
+	"swallowBall":	true,
+	"useStrandConnect":	true,
+	"isStrandWalkable":	false,
+	"canShrinkStrand":	true,
+	"strandImageId":	{
+		"imageId":	"IMAGE_BALL_FISH_STRING3"
+	},
+	"strandInactiveImageId":	{
+		"imageId":	"IMAGE_BALL_FISH_STRING_INACTIVE"
+	},
+	"strandInactiveOverlayImageId":	{
+		"imageId":	"IMAGE_BALL_GENERIC_ARM_INACTIVE_SHADOW"
+	},
+	"strandIgniteDelay":	0,
+	"strandBurnSpeed":	0,
+	"strandFireParticlesId":	"",
+	"strandBurntImageId":	{
+		"imageId":	"IMAGE_BALL_COMMON_STRAND"
+	},
+	"strandBackgroundImageId":	{
+		"imageId":	""
+	},
+	"detachStrandImageId":	{
+		"imageId":	"IMAGE_BALL_COMMON_STRAND"
+	},
+	"detachStrandMaxLength":	0.600000023841858,
+	"dragMarkerImageId":	{
+		"imageId":	"IMAGE_BALL_GENERIC_SELECTIONMARKER"
+	},
+	"detachMarkerImageId":	{
+		"imageId":	""
+	},
+	"markerRotSpeed":	-2,
+	"stainLiquidType":	{
+		"liquidType":	0
+	},
+	"deselectAttenuationFunc":	{
+		"frames":	[1.2999999523162842, 0.899999976158142, 1.1000000238418579, 1],
+		"totalLength":	0.239999994635582
+	},
+	"selectAttenuationFunc":	{
+		"frames":	[1.6000000238418579, 1.3500000238418579],
+		"totalLength":	0.20000000298023224
+	},
+	"dropAttenuationFunc":	{
+		"frames":	[1.5, 1.2000000476837158, 1.1000000238418579, 1],
+		"totalLength":	0.300000011920929
+	},
+	"dragAttenuationFunc":	{
+		"frames":	[1.8500000238418579, 1.25, 1],
+		"totalLength":	0.20000000298023224
+	},
+	"spawnAttenuationFunc":	{
+		"frames":	[0.5, 0.899999976158142, 1],
+		"totalLength":	0.20000000298023224
+	},
+	"ballParts":	[{
+			"name":	"wingLeft",
+			"images":	[{
+					"imageId":	{
+						"imageId":	"IMAGE_BALL_FISH_WINGLEFT"
+					},
+					"imageMaskId":	{
+						"imageId":	""
+					}
+				}],
+			"imageBackgroundIds":	[],
+			"layer":	0,
+			"drawWhenAttached":	true,
+			"drawWhenNotAttached":	false,
+			"minX":	-0.40000000596046448,
+			"maxX":	-0.300000011920929,
+			"minY":	0,
+			"maxY":	0,
+			"minRangeX":	0,
+			"maxRangeX":	0,
+			"minRangeY":	0,
+			"maxRangeY":	0,
+			"states":	[],
+			"isActiveWhenUndiscovered":	true,
+			"scale":	0.0063437498174607754,
+			"scaleIsRelative":	false,
+			"rotation":	0,
+			"isEye":	false,
+			"pupilImageIds":	[],
+			"pupilInset":	0,
+			"pupilScale":	1.3999999761581421,
+			"isRotating":	false,
+			"stretchMaxSpeed":	-1,
+			"stretchParallel":	-1,
+			"stretchPerpendicular":	0,
+			"color":	{
+				"color":	4294967295
+			},
+			"stretchFactorFromStrandForce":	0
+		}, {
+			"name":	"wingRight",
+			"images":	[{
+					"imageId":	{
+						"imageId":	"IMAGE_BALL_FISH_WINGRIGHT"
+					},
+					"imageMaskId":	{
+						"imageId":	""
+					}
+				}],
+			"imageBackgroundIds":	[],
+			"layer":	0,
+			"drawWhenAttached":	true,
+			"drawWhenNotAttached":	false,
+			"minX":	0.300000011920929,
+			"maxX":	0.40000000596046448,
+			"minY":	0,
+			"maxY":	0,
+			"minRangeX":	0,
+			"maxRangeX":	0,
+			"minRangeY":	0,
+			"maxRangeY":	0,
+			"states":	[],
+			"isActiveWhenUndiscovered":	true,
+			"scale":	0.0063437498174607754,
+			"scaleIsRelative":	false,
+			"rotation":	0,
+			"isEye":	false,
+			"pupilImageIds":	[],
+			"pupilInset":	0,
+			"pupilScale":	1.3999999761581421,
+			"isRotating":	false,
+			"stretchMaxSpeed":	-1,
+			"stretchParallel":	-1,
+			"stretchPerpendicular":	0,
+			"color":	{
+				"color":	4294967295
+			},
+			"stretchFactorFromStrandForce":	0
+		}, {
+			"name":	"body",
+			"images":	[{
+					"imageId":	{
+						"imageId":	"IMAGE_BALL_FISH_BODY"
+					},
+					"imageMaskId":	{
+						"imageId":	""
+					}
+				}],
+			"imageBackgroundIds":	[],
+			"layer":	1,
+			"drawWhenAttached":	true,
+			"drawWhenNotAttached":	true,
+			"minX":	0,
+			"maxX":	0,
+			"minY":	0,
+			"maxY":	0,
+			"minRangeX":	0,
+			"maxRangeX":	0,
+			"minRangeY":	0,
+			"maxRangeY":	0,
+			"states":	[],
+			"isActiveWhenUndiscovered":	true,
+			"scale":	1.1799999475479126,
+			"scaleIsRelative":	true,
+			"rotation":	0,
+			"isEye":	false,
+			"pupilImageIds":	[],
+			"pupilInset":	0,
+			"pupilScale":	1.3999999761581421,
+			"isRotating":	false,
+			"stretchMaxSpeed":	16,
+			"stretchParallel":	2.5,
+			"stretchPerpendicular":	0.5,
+			"color":	{
+				"color":	4294967295
+			},
+			"stretchFactorFromStrandForce":	0
+		}, {
+			"name":	"lefteye",
+			"images":	[{
+					"imageId":	{
+						"imageId":	"IMAGE_BALL_COMMON_EYE"
+					},
+					"imageMaskId":	{
+						"imageId":	""
+					}
+				}],
+			"imageBackgroundIds":	[],
+			"layer":	2,
+			"drawWhenAttached":	true,
+			"drawWhenNotAttached":	true,
+			"minX":	-0.15000000596046448,
+			"maxX":	-0.079999998211860657,
+			"minY":	-0.05000000074505806,
+			"maxY":	0.05000000074505806,
+			"minRangeX":	0,
+			"maxRangeX":	0,
+			"minRangeY":	0,
+			"maxRangeY":	0,
+			"states":	[{
+					"ballState":	0
+				}, {
+					"ballState":	1
+				}, {
+					"ballState":	2
+				}, {
+					"ballState":	3
+				}, {
+					"ballState":	4
+				}, {
+					"ballState":	5
+				}, {
+					"ballState":	7
+				}, {
+					"ballState":	12
+				}, {
+					"ballState":	15
+				}],
+			"isActiveWhenUndiscovered":	false,
+			"scale":	0.001500000013038516,
+			"scaleIsRelative":	false,
+			"rotation":	0,
+			"isEye":	true,
+			"pupilImageIds":	[{
+					"imageId":	"IMAGE_BALL_COMMON_PUPIL"
+				}],
+			"pupilInset":	37.5,
+			"pupilScale":	1.3999999761581421,
+			"isRotating":	true,
+			"stretchMaxSpeed":	-1,
+			"stretchParallel":	-1,
+			"stretchPerpendicular":	0,
+			"color":	{
+				"color":	4294967295
+			},
+			"stretchFactorFromStrandForce":	0
+		}, {
+			"name":	"righteye",
+			"images":	[{
+					"imageId":	{
+						"imageId":	"IMAGE_BALL_COMMON_EYE"
+					},
+					"imageMaskId":	{
+						"imageId":	""
+					}
+				}],
+			"imageBackgroundIds":	[],
+			"layer":	2,
+			"drawWhenAttached":	true,
+			"drawWhenNotAttached":	true,
+			"minX":	0.079999998211860657,
+			"maxX":	0.15000000596046448,
+			"minY":	-0.05000000074505806,
+			"maxY":	0.05000000074505806,
+			"minRangeX":	0,
+			"maxRangeX":	0,
+			"minRangeY":	0,
+			"maxRangeY":	0,
+			"states":	[{
+					"ballState":	0
+				}, {
+					"ballState":	1
+				}, {
+					"ballState":	2
+				}, {
+					"ballState":	3
+				}, {
+					"ballState":	4
+				}, {
+					"ballState":	5
+				}, {
+					"ballState":	7
+				}, {
+					"ballState":	12
+				}, {
+					"ballState":	15
+				}],
+			"isActiveWhenUndiscovered":	false,
+			"scale":	0.001500000013038516,
+			"scaleIsRelative":	false,
+			"rotation":	0,
+			"isEye":	true,
+			"pupilImageIds":	[{
+					"imageId":	"IMAGE_BALL_COMMON_PUPIL"
+				}],
+			"pupilInset":	37.5,
+			"pupilScale":	1.3999999761581421,
+			"isRotating":	true,
+			"stretchMaxSpeed":	-1,
+			"stretchParallel":	-1,
+			"stretchPerpendicular":	0,
+			"color":	{
+				"color":	4294967295
+			},
+			"stretchFactorFromStrandForce":	0
+		}],
+	"bodyPart":	{
+		"partName":	"body"
+	},
+	"stateAnimations":	[{
+			"partAnimations":	[{
+					"parts":	[{
+							"partName":	"body"
+						}],
+					"axis":	{
+						"axis":	0
+					},
+					"type":	{
+						"type":	1
+					},
+					"localSpace":	true,
+					"frequency":	2,
+					"amplitude":	0.10000000149011612,
+					"phaseShift":	0
+				}, {
+					"parts":	[{
+							"partName":	"body"
+						}],
+					"axis":	{
+						"axis":	1
+					},
+					"type":	{
+						"type":	1
+					},
+					"localSpace":	true,
+					"frequency":	2,
+					"amplitude":	0.10000000149011612,
+					"phaseShift":	0.5
+				}, {
+					"parts":	[{
+							"partName":	"body"
+						}],
+					"axis":	{
+						"axis":	1
+					},
+					"type":	{
+						"type":	0
+					},
+					"localSpace":	true,
+					"frequency":	2,
+					"amplitude":	0.019999999552965164,
+					"phaseShift":	0
+				}, {
+					"parts":	[{
+							"partName":	"lefteye"
+						}, {
+							"partName":	"righteye"
+						}],
+					"axis":	{
+						"axis":	1
+					},
+					"type":	{
+						"type":	0
+					},
+					"localSpace":	true,
+					"frequency":	2,
+					"amplitude":	0.019999999552965164,
+					"phaseShift":	0
+				}, {
+					"parts":	[{
+							"partName":	"righteye"
+						}],
+					"axis":	{
+						"axis":	0
+					},
+					"type":	{
+						"type":	0
+					},
+					"localSpace":	true,
+					"frequency":	2,
+					"amplitude":	0.00499999988824129,
+					"phaseShift":	0
+				}, {
+					"parts":	[{
+							"partName":	"lefteye"
+						}],
+					"axis":	{
+						"axis":	0
+					},
+					"type":	{
+						"type":	0
+					},
+					"localSpace":	true,
+					"frequency":	2,
+					"amplitude":	0.00499999988824129,
+					"phaseShift":	0.5
+				}],
+			"states":	[{
+					"ballState":	0
+				}],
+			"frequenceyVarianceMagnitude":	1.2000000476837158,
+			"amplitudeVarianceMagnitude":	0.0010000000474974513,
+			"phaseShiftVarianceMagnitude":	3.1400001049041748
+		}, {
+			"partAnimations":	[{
+					"parts":	[{
+							"partName":	"body"
+						}],
+					"axis":	{
+						"axis":	0
+					},
+					"type":	{
+						"type":	1
+					},
+					"localSpace":	true,
+					"frequency":	1,
+					"amplitude":	0.070000000298023224,
+					"phaseShift":	0
+				}, {
+					"parts":	[{
+							"partName":	"body"
+						}],
+					"axis":	{
+						"axis":	1
+					},
+					"type":	{
+						"type":	1
+					},
+					"localSpace":	true,
+					"frequency":	1,
+					"amplitude":	0.070000000298023224,
+					"phaseShift":	0.5
+				}, {
+					"parts":	[{
+							"partName":	"wingLeft"
+						}],
+					"type":	{
+						"type":	3
+					},
+					"frequency":	21,
+					"amplitude":	0.4,
+					"phaseShift":	0,
+					"pivotX": 0.2
+				}, {
+					"parts":	[{
+							"partName":	"wingRight"
+						}],
+					"type":	{
+						"type":	3
+					},
+					"frequency":	23,
+					"amplitude":	0.4,
+					"phaseShift":	0,
+					"pivotX": -0.2
+				}],
+			"states":	[{
+					"ballState":	4
+				}],
+			"frequenceyVarianceMagnitude":	0,
+			"amplitudeVarianceMagnitude":	0.019999999552965164,
+			"phaseShiftVarianceMagnitude":	0
+		}, {
+			"partAnimations":	[{
+					"parts":	[{
+							"partName":	"lefteye"
+						}, {
+							"partName":	"righteye"
+						}],
+					"axis":	{
+						"axis":	1
+					},
+					"type":	{
+						"type":	0
+					},
+					"localSpace":	true,
+					"frequency":	1,
+					"amplitude":	0.00999999977648258,
+					"phaseShift":	0
+				}, {
+					"parts":	[{
+							"partName":	"righteye"
+						}],
+					"axis":	{
+						"axis":	0
+					},
+					"type":	{
+						"type":	0
+					},
+					"localSpace":	true,
+					"frequency":	1,
+					"amplitude":	0.00499999988824129,
+					"phaseShift":	0
+				}, {
+					"parts":	[{
+							"partName":	"lefteye"
+						}],
+					"axis":	{
+						"axis":	0
+					},
+					"type":	{
+						"type":	0
+					},
+					"localSpace":	true,
+					"frequency":	1,
+					"amplitude":	0.00499999988824129,
+					"phaseShift":	0.5
+				}],
+			"states":	[{
+					"ballState":	4
+				}],
+			"frequenceyVarianceMagnitude":	0,
+			"amplitudeVarianceMagnitude":	0.0010000000474974513,
+			"phaseShiftVarianceMagnitude":	0
+		}, {
+			"partAnimations":	[{
+					"parts":	[{
+							"partName":	"body"
+						}],
+					"axis":	{
+						"axis":	0
+					},
+					"type":	{
+						"type":	1
+					},
+					"localSpace":	true,
+					"frequency":	1,
+					"amplitude":	0.20000000298023224,
+					"phaseShift":	0
+				}, {
+					"parts":	[{
+							"partName":	"body"
+						}],
+					"axis":	{
+						"axis":	1
+					},
+					"type":	{
+						"type":	1
+					},
+					"localSpace":	true,
+					"frequency":	1,
+					"amplitude":	0.20000000298023224,
+					"phaseShift":	0.33000001311302185
+				}],
+			"states":	[{
+					"ballState":	3
+				}],
+			"frequenceyVarianceMagnitude":	1.5,
+			"amplitudeVarianceMagnitude":	0.05000000074505806,
+			"phaseShiftVarianceMagnitude":	0
+		}, {
+			"partAnimations":	[{
+					"parts":	[{
+							"partName":	"righteye"
+						}],
+					"axis":	{
+						"axis":	0
+					},
+					"type":	{
+						"type":	0
+					},
+					"localSpace":	true,
+					"frequency":	1,
+					"amplitude":	-0.00999999977648258,
+					"phaseShift":	0
+				}, {
+					"parts":	[{
+							"partName":	"lefteye"
+						}],
+					"axis":	{
+						"axis":	0
+					},
+					"type":	{
+						"type":	0
+					},
+					"localSpace":	true,
+					"frequency":	1,
+					"amplitude":	0.00999999977648258,
+					"phaseShift":	0
+				}],
+			"states":	[{
+					"ballState":	3
+				}],
+			"frequenceyVarianceMagnitude":	1.5,
+			"amplitudeVarianceMagnitude":	0.00499999988824129,
+			"phaseShiftVarianceMagnitude":	0
+		}, {
+			"partAnimations":	[{
+					"parts":	[{
+							"partName":	"body"
+						}],
+					"axis":	{
+						"axis":	0
+					},
+					"type":	{
+						"type":	1
+					},
+					"localSpace":	true,
+					"frequency":	2,
+					"amplitude":	0.10000000149011612,
+					"phaseShift":	0
+				}, {
+					"parts":	[{
+							"partName":	"body"
+						}],
+					"axis":	{
+						"axis":	1
+					},
+					"type":	{
+						"type":	1
+					},
+					"localSpace":	true,
+					"frequency":	2,
+					"amplitude":	0.10000000149011612,
+					"phaseShift":	0.5
+				}, {
+					"parts":	[{
+							"partName":	"body"
+						}],
+					"axis":	{
+						"axis":	1
+					},
+					"type":	{
+						"type":	0
+					},
+					"localSpace":	true,
+					"frequency":	2,
+					"amplitude":	0.019999999552965164,
+					"phaseShift":	0
+				}, {
+					"parts":	[{
+							"partName":	"lefteye"
+						}, {
+							"partName":	"righteye"
+						}],
+					"axis":	{
+						"axis":	1
+					},
+					"type":	{
+						"type":	0
+					},
+					"localSpace":	true,
+					"frequency":	2,
+					"amplitude":	0.019999999552965164,
+					"phaseShift":	0
+				}, {
+					"parts":	[{
+							"partName":	"righteye"
+						}],
+					"axis":	{
+						"axis":	0
+					},
+					"type":	{
+						"type":	0
+					},
+					"localSpace":	true,
+					"frequency":	2,
+					"amplitude":	0.00499999988824129,
+					"phaseShift":	0
+				}, {
+					"parts":	[{
+							"partName":	"lefteye"
+						}],
+					"axis":	{
+						"axis":	0
+					},
+					"type":	{
+						"type":	0
+					},
+					"localSpace":	true,
+					"frequency":	2,
+					"amplitude":	0.00499999988824129,
+					"phaseShift":	0.5
+				}],
+			"states":	[{
+					"ballState":	1
+				}],
+			"frequenceyVarianceMagnitude":	1.2000000476837158,
+			"amplitudeVarianceMagnitude":	0.0010000000474974513,
+			"phaseShiftVarianceMagnitude":	3.1400001049041748
+		}],
+	"splatImageIds":	[{
+			"imageId":	"IMAGE_BALL_FISH_SPLAT1"
+		}, {
+			"imageId":	"IMAGE_BALL_FISH_SPLAT2"
+		}],
+	"soundEvents":	[{
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_FISH_SQUAK1"
+				}, {
+					"soundId":	"SOUND_BALL_FISH_SQUAK2"
+				}, {
+					"soundId":	"SOUND_BALL_FISH_SQUAK3"
+				}, {
+					"soundId":	"SOUND_BALL_FISH_SQUAK4"
+				}],
+			"soundEvent":	{
+				"soundEvent":	0
+			},
+			"minTimeBetweenSounds":	0.25
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_FISH_SQUAK1"
+				}, {
+					"soundId":	"SOUND_BALL_FISH_SQUAK2"
+				}, {
+					"soundId":	"SOUND_BALL_FISH_SQUAK3"
+				}, {
+					"soundId":	"SOUND_BALL_FISH_SQUAK4"
+				}],
+			"soundEvent":	{
+				"soundEvent":	1
+			},
+			"minTimeBetweenSounds":	0.25
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_FISH_SQUAK1"
+				}, {
+					"soundId":	"SOUND_BALL_FISH_SQUAK2"
+				}, {
+					"soundId":	"SOUND_BALL_FISH_SQUAK3"
+				}, {
+					"soundId":	"SOUND_BALL_FISH_SQUAK4"
+				}],
+			"soundEvent":	{
+				"soundEvent":	2
+			},
+			"minTimeBetweenSounds":	0.25
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER1"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER2"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER3"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER4"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER5"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER6"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER7"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER8"
+				}],
+			"soundEvent":	{
+				"soundEvent":	3
+			},
+			"minTimeBetweenSounds":	0.25
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_FISH_WINGFLAP1"
+				}, {
+					"soundId":	"SOUND_BALL_FISH_WINGFLAP2"
+				}, {
+					"soundId":	"SOUND_BALL_FISH_WINGFLAP3"
+				}],
+			"soundEvent":	{
+				"soundEvent":	4
+			},
+			"minTimeBetweenSounds":	0.25
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_FISH_WINGFLAP1"
+				}, {
+					"soundId":	"SOUND_BALL_FISH_WINGFLAP2"
+				}, {
+					"soundId":	"SOUND_BALL_FISH_WINGFLAP3"
+				}],
+			"soundEvent":	{
+				"soundEvent":	5
+			},
+			"minTimeBetweenSounds":	0.25
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_GENERIC_DEATH"
+				}],
+			"soundEvent":	{
+				"soundEvent":	9
+			},
+			"minTimeBetweenSounds":	0.25
+		}],
+	"flashAnimation":	{
+		"flashAnimationId":	""
+	},
+	"flashAnimationPreLiquidLayerTextureIndices":	[],
+	"stateScales":	[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+	"particleEffects":	[{
+			"particleEffectId":	"sleepyZzz",
+			"particleEffectV2Id":	{
+				"uuid":	""
+			},
+			"states":	[],
+			"sleeping":	true,
+			"onFire":	false,
+			"thruster":	false,
+			"depth":	9.99999974737875e-05
+		}],
+	"stableFluidsDensityFactor":	{
+		"color":	0
+	},
+	"stableFluidsMinTrailVelocity":	-1,
+	"stableFluidsDensityRange":	{
+		"x":	0,
+		"y":	0
+	},
+	"isLauncher":	false,
+	"canBeSuckedByLauncher":	true,
+	"inputPipeForceVariation":	0.10000000149011612,
+	"whenAttachedRenderOnTop":	false,
+	"renderInPlayMode":	true,
+	"canActOnBalls":	true,
+	"lighting":	true,
+	"popSpawnItems":	[],
+	"popSpawnItemProbability":	0,
+	"popSpawnItemCountRange":	{
+		"x":	1,
+		"y":	1
+	},
+	"popSpawnItemRadiusRange":	{
+		"x":	0,
+		"y":	1
+	},
+	"popSpawnItemScaleRange":	{
+		"x":	1,
+		"y":	1
+	},
+	"strandShatterItem":	{
+		"uuid":	""
+	},
+	"strandShatterItemProbability":	0.25,
+	"strandShatterParticleEffect":	{
+		"uuid":	""
+	},
+	"strandShatterParticleEffectProbability":	0.75,
+	"strandShatterFragmentSize":	0.15000000596046448,
+	"unwalkableTime":	3,
+	"dynamicLightingFactor":	0,
+	"attachedDynamicLightingFactor":	0,
+	"undiscoveredDynamicLightingFactor":	0,
+	"shadow":	true,
+	"neededLighting":	0,
+	"sortOffset":	100,
+	"canPinToJelly":	false,
+	"hideWhenPinnedToJelly":	true,
+	"popOnUnpinFromJelly":	false,
+	"canStrandCutJelly":	false,
+	"inactiveStrandCollideWithJelly":	false,
+	"renderInJellyBackground":	false,
+	"thrusterStableFluidsImage":	{
+		"imageId":	""
+	},
+	"markerColor":	{
+		"color":	4294967295
+	},
+	"zoomFactorAttached":	0,
+	"zoomFactorUnattached":	0,
+	"zoomSpeed":	2.5,
+	"liquidParticlesRadiusScale":	1,
+	"structureFillingLayers":	[],
+	"ropeOffsetRadiusScale":	0.699999988079071,
+	"ropeStiffness":	0.600000023841858,
+	"ropeDamping":	0.10000000149011612,
+	"visibilityScale":	1,
+	"laserCount":	0,
+	"laserGradientStart":	{
+		"color":	4294967295
+	},
+	"laserGradientEnd":	{
+		"color":	4294967295
+	},
+	"laserOverrideImage":	{
+		"imageId":	""
+	}
+}

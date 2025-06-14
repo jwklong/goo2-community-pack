@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<ResourceManifest>
+
+  <Resources id="ball_BalloonEye">
+	<SetDefaults path="res/balls/BalloonEye/" idprefix="BALL_BALLOONEYE_" />
+	<Image id="EYE" path="new/bg"/>
+	<Image id="PUPIL" path="new/pupil"/>
+	<Image id="SHINE" path="new/shine"/>
+  </Resources>
+
+</ResourceManifest>
