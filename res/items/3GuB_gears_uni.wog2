@@ -57,7 +57,7 @@
 						"x":	0.5,
 						"y":	0.5
 					},
-					"rotationSpeed":	1,
+					"rotationSpeed":	3,
 					"invisible":	false,
 					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
