@@ -250,8 +250,8 @@
 			"userVariables":	[],
 			"snapPoints":	[],
 			"limits":	{
-				"minScale":	0.10000000149011612,
-				"maxScale":	100
+				"minScale":	0.01,
+				"maxScale":	1000
 			}
 		}]
 }
