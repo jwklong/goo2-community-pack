@@ -21,7 +21,7 @@ Community driven assets pack for World of Goo 2.
 - HesJustThisGuy: Various Items and Terrains, RPS and Jelly remixes, Red Carpet background, Prototype Triangle fix, Installation guide video.
 - jwklong: Circle Scaffold items, various extracted beta assets
 - djm334: Various items, Rusty Cog assets (currently unused), Ruins background, Jelly Goo visuals and sounds
-- 3GuB: Various Items, provided fixes for graphical issues, Winch Assets fix and Product Strands fixes, Jelly goo fixes
+- 3GuB: Various Items, provided fixes for graphical issues, Winch Assets fix and Product Strands fixes, Eye fixes, Sticky Bomb tweaks, white product Invulnerable to lava, Jelly goo fixes, new materials
 - MiseryMouse: Midnight Steamliner, Red Carpet, RPS, Screamer, and Sloppy Walker remixes, Cameras ambient sound
 - Special_Plant: Smoke Stacks and Mega Smoke Stacks items
 - p0b: Small/Large/Solid Gears items, Bog Tree item, Cactus Redesign item.
