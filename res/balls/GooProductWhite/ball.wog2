@@ -24,6 +24,7 @@
 	"isDetachable":	false,
 	"diesOnDetach":	false,
 	"isInvulnerable":	false,
+	"isInvulnerableToLava":	true,
 	"isStickyAttached":	false,
 	"isStickyUnattached":	false,
 	"attachToSameTypeOnly":	false,
@@ -39,13 +40,14 @@
 	"collideAttached":	false,
 	"collideWithAttached":	false,
 	"collideWithParticlesAttached":	true,
+	"collisionGroup":	0,
 	"allowAttachmentsWhenStuck":	false,
 	"allowAttachmentsWhenFalling":	false,
 	"motorMaxForce":	5,
 	"isSuckable":	true,
 	"affectsAutoboundsAttached":	true,
 	"affectsAutoboundsUnattached":	true,
-	"burnTime":	0.10000000149011612,
+	"burnTime":	0,
 	"detonateForce":	0,
 	"detonateRadius":	0,
 	"detonateParticleEffect":	{
@@ -137,7 +139,7 @@
 		"imageId":	"IMAGE_BALL_GENERIC_ARM_INACTIVE_SHADOW"
 	},
 	"strandIgniteDelay":	0,
-	"strandBurnSpeed":	0.05000000074505806,
+	"strandBurnSpeed":	0,
 	"strandFireParticlesId":	"",
 	"strandBurntImageId":	{
 		"imageId":	"IMAGE_BALL_COMMONALBINO_STRAND"
