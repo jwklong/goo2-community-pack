@@ -4,15 +4,15 @@
 			"uuid":	"3GuB_invisiblerotatingwheel",
 			"type":	1,
 			"category":	"misc",
-			"layer":	1,
-			"minDepth":	0,
-			"maxDepth":	0,
-			"sortOffset":	-999,
+			"layer":	5,
+			"minDepth":	-10,
+			"maxDepth":	10,
+			"sortOffset":	5,
 			"radiusOverride":	0,
 			"canRotate":	true,
 			"uniformScale":	true,
 			"canBeCopied":	true,
-			"variations":	false,
+			"variations":	true,
 			"useLighting":	false,
 			"castShadow":	false,
 			"color":	4294967295,
@@ -39,7 +39,7 @@
 			"destroyForce":	-1,
 			"objects":	[{
 					"name":	"IMAGE_ITEM_INVISIBLE_ROTATING_WHEEL",
-					"randomizationGroup":	0,
+					"randomizationGroup":	1,
 					"position":	{
 						"x":	0,
 						"y":	0
@@ -57,7 +57,7 @@
 						"x":	0.5,
 						"y":	0.5
 					},
-					"rotationSpeed":	1,
+					"rotationSpeed":	3,
 					"invisible":	true,
 					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
@@ -81,6 +81,158 @@
 						"rotation":	0,
 						"collisionEnabled":	true,
 						"materialName":	"rock",
+						"tags":	"",
+						"geoms":	[{
+								"type":	1,
+								"width":	0,
+								"height":	0,
+								"radius":	122,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[]
+							}],
+						"categoryBits":	0
+					},
+					"colorFx":	{
+						"enabled":	false,
+						"brightness":	0,
+						"contrast":	0,
+						"exposure":	0,
+						"saturation":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}, {
+					"name":	"IMAGE_ITEM_INVISIBLE_ROTATING_WHEEL_STICKY",
+					"randomizationGroup":	1,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	{
+						"x":	1,
+						"y":	1
+					},
+					"color":	4294967295,
+					"depthOffset":	0,
+					"sortOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"rotationSpeed":	3,
+					"invisible":	true,
+					"clickable":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"ignoreScale":	false,
+					"shaderFactor":	1,
+					"enableWind":	false,
+					"windFactor":	{
+						"x":	0,
+						"y":	0
+					},
+					"body":	{
+						"id":	"",
+						"type":	2,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	true,
+						"materialName":	"rock_sticky",
+						"tags":	"",
+						"geoms":	[{
+								"type":	1,
+								"width":	0,
+								"height":	0,
+								"radius":	122,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[]
+							}],
+						"categoryBits":	0
+					},
+					"colorFx":	{
+						"enabled":	false,
+						"brightness":	0,
+						"contrast":	0,
+						"exposure":	0,
+						"saturation":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}, {
+					"name":	"IMAGE_ITEM_INVISIBLE_ROTATING_WHEEL_DEADLY",
+					"randomizationGroup":	1,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	{
+						"x":	1,
+						"y":	1
+					},
+					"color":	4294967295,
+					"depthOffset":	0,
+					"sortOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"rotationSpeed":	3,
+					"invisible":	true,
+					"clickable":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"ignoreScale":	false,
+					"shaderFactor":	1,
+					"enableWind":	false,
+					"windFactor":	{
+						"x":	0,
+						"y":	0
+					},
+					"body":	{
+						"id":	"",
+						"type":	2,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	true,
+						"materialName":	"rock_deadly",
 						"tags":	"",
 						"geoms":	[{
 								"type":	1,

@@ -1,29 +1,27 @@
 {
 	"items":	[{
-			"name":	"3GuB/Gears Detach/Ballbuster",
-			"uuid":	"3GuB_gears_detachballbuster",
+			"name":	"3GuB/Block Buddy",
+			"uuid":	"3GuB_blockbuddy",
 			"type":	1,
 			"category":	"misc",
 			"layer":	1,
-			"minDepth":	-1000,
-			"maxDepth":	1000,
-			"sortOffset":	0,
-			"radiusOverride":	0,
+			"minDepth":	-10,
+			"maxDepth":	10,
+			"sortOffset":	1,
+			"radiusOverride":	1.5,
 			"canRotate":	true,
-			"uniformScale":	true,
+			"uniformScale":	false,
 			"canBeCopied":	true,
+			"canTriggerEndOfLevel":	true,
 			"variations":	true,
 			"useLighting":	true,
 			"castShadow":	true,
+			"checkVisibility":	true,
 			"color":	4294967295,
 			"animationName":	"",
 			"animationAlias":	"",
 			"animationSpeed":	1,
 			"animationInNormalizedTime":	0.5,
-			"animationPlayNormalizedTimeRange":	{
-				"x":	0,
-				"y":	0
-			},
 			"animationLocalPosition":	{
 				"x":	0,
 				"y":	0
@@ -36,9 +34,10 @@
 			"userValue1":	0,
 			"userValue2":	0,
 			"snapObjectIndex":	0,
-			"destroyForce":	-1,
+			"destroyForce":	1000,
+			"buoyant":	true,
 			"objects":	[{
-					"name":	"IMAGE_ITEM_GEAR_DETACH",
+					"name":	"IMAGE_ITEM_BLOCKBUDDY",
 					"randomizationGroup":	1,
 					"position":	{
 						"x":	0,
@@ -46,8 +45,8 @@
 					},
 					"rotation":	0,
 					"scale":	{
-						"x":	1,
-						"y":	1
+						"x":	0.66,
+						"y":	0.66
 					},
 					"color":	4294967295,
 					"depthOffset":	0,
@@ -57,32 +56,30 @@
 						"x":	0.5,
 						"y":	0.5
 					},
-					"rotationSpeed":	3,
+					"rotationSpeed":	0,
 					"invisible":	false,
-					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
-					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
-						"type":	2,
+						"type":	0,
 						"pos":	{
 							"x":	0,
 							"y":	0
 						},
 						"rotation":	0,
-						"collisionEnabled":	false,
-						"materialName":	"generic",
+						"collisionEnabled":	true,
+						"materialName":	"rock",
 						"tags":	"",
 						"geoms":	[{
-								"type":	1,
+								"type":	4,
 								"width":	0,
 								"height":	0,
-								"radius":	100,
-								"density":	1,
+								"radius":	0,
+								"density":	10,
 								"offset":	{
 									"x":	0,
 									"y":	0
@@ -95,65 +92,68 @@
 								"isSensor":	false,
 								"friction":	-1,
 								"bounciness":	-1,
-								"points":	[]
+								"points":	[{
+										"x":	-240.45532,
+										"y":	-56.36742
+									},{
+										"x":	240.45532,
+										"y":	-56.36742
+									},  {
+										"x":	240.45532,
+										"y":	56.36742
+									}, {
+										"x":	-240.45532,
+										"y":	56.36742
+									}]
 							}],
 						"categoryBits":	0
-					},
-					"colorFx":	{
-						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
-						"exposure":	0,
-						"saturation":	0
 					},
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_GEAR_BALLBUSTER",
+					"name":	"IMAGE_ITEM_BLOCKBUDDY_EXPLOADED_L",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	0,
+						"x":	-224.50000,
 						"y":	0
 					},
 					"rotation":	0,
 					"scale":	{
-						"x":	1,
-						"y":	1
+						"x":	0.66,
+						"y":	0.66
 					},
 					"color":	4294967295,
 					"depthOffset":	0,
 					"sortOffset":	0,
 					"imageBlendingType":	2,
 					"pivot":	{
-						"x":	0.5,
+						"x":	4.063492,
 						"y":	0.5
 					},
-					"rotationSpeed":	3,
+					"rotationSpeed":	0,
 					"invisible":	false,
-					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
-					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
-						"type":	2,
+						"type":	0,
 						"pos":	{
 							"x":	0,
 							"y":	0
 						},
 						"rotation":	0,
-						"collisionEnabled":	false,
-						"materialName":	"generic",
+						"collisionEnabled":	true,
+						"materialName":	"rock",
 						"tags":	"",
 						"geoms":	[{
-								"type":	1,
+								"type":	0,
 								"width":	0,
 								"height":	0,
-								"radius":	100,
-								"density":	1,
+								"radius":	0,
+								"density":	10,
 								"offset":	{
 									"x":	0,
 									"y":	0
@@ -169,62 +169,53 @@
 								"points":	[]
 							}],
 						"categoryBits":	0
-					},
-					"colorFx":	{
-						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
-						"exposure":	0,
-						"saturation":	0
 					},
 					"particleEffects":	[],
 					"points":	[]
 				}, {
-					"name":	"IMAGE_ITEM_GEAR_DETACH_B",
+					"name":	"IMAGE_ITEM_BLOCKBUDDY_EXPLOADED_R",
 					"randomizationGroup":	1,
 					"position":	{
-						"x":	0,
+						"x":	222.00000,
 						"y":	0
 					},
 					"rotation":	0,
 					"scale":	{
-						"x":	1,
-						"y":	1
+						"x":	0.66,
+						"y":	0.66
 					},
 					"color":	4294967295,
 					"depthOffset":	0,
 					"sortOffset":	0,
 					"imageBlendingType":	2,
 					"pivot":	{
-						"x":	0.5,
+						"x":	-2.764706,
 						"y":	0.5
 					},
-					"rotationSpeed":	3,
+					"rotationSpeed":	0,
 					"invisible":	false,
-					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
 					"dynamicLightingFactor":	0,
 					"flipHorizontal":	false,
 					"flipVertical":	false,
-					"ignoreScale":	false,
 					"shaderFactor":	1,
 					"body":	{
 						"id":	"",
-						"type":	2,
+						"type":	0,
 						"pos":	{
 							"x":	0,
 							"y":	0
 						},
 						"rotation":	0,
-						"collisionEnabled":	false,
-						"materialName":	"generic",
+						"collisionEnabled":	true,
+						"materialName":	"rock",
 						"tags":	"",
 						"geoms":	[{
-								"type":	1,
+								"type":	0,
 								"width":	0,
 								"height":	0,
-								"radius":	100,
-								"density":	1,
+								"radius":	0,
+								"density":	10,
 								"offset":	{
 									"x":	0,
 									"y":	0
@@ -240,84 +231,6 @@
 								"points":	[]
 							}],
 						"categoryBits":	0
-					},
-					"colorFx":	{
-						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
-						"exposure":	0,
-						"saturation":	0
-					},
-					"particleEffects":	[],
-					"points":	[]
-				}, {
-					"name":	"IMAGE_ITEM_GEAR_BALLBUSTER_B",
-					"randomizationGroup":	1,
-					"position":	{
-						"x":	0,
-						"y":	0
-					},
-					"rotation":	0,
-					"scale":	{
-						"x":	1,
-						"y":	1
-					},
-					"color":	4294967295,
-					"depthOffset":	0,
-					"sortOffset":	0,
-					"imageBlendingType":	2,
-					"pivot":	{
-						"x":	0.5,
-						"y":	0.5
-					},
-					"rotationSpeed":	3,
-					"invisible":	false,
-					"clickable":	false,
-					"stableFluidsDensityFactor":	0,
-					"dynamicLightingFactor":	0,
-					"flipHorizontal":	false,
-					"flipVertical":	false,
-					"ignoreScale":	false,
-					"shaderFactor":	1,
-					"body":	{
-						"id":	"",
-						"type":	2,
-						"pos":	{
-							"x":	0,
-							"y":	0
-						},
-						"rotation":	0,
-						"collisionEnabled":	false,
-						"materialName":	"generic",
-						"tags":	"",
-						"geoms":	[{
-								"type":	1,
-								"width":	0,
-								"height":	0,
-								"radius":	100,
-								"density":	1,
-								"offset":	{
-									"x":	0,
-									"y":	0
-								},
-								"rotation":	0,
-								"normal":	{
-									"x":	0,
-									"y":	1
-								},
-								"isSensor":	false,
-								"friction":	-1,
-								"bounciness":	-1,
-								"points":	[]
-							}],
-						"categoryBits":	0
-					},
-					"colorFx":	{
-						"enabled":	false,
-						"brightness":	0,
-						"contrast":	0,
-						"exposure":	0,
-						"saturation":	0
 					},
 					"particleEffects":	[],
 					"points":	[]
@@ -326,8 +239,44 @@
 			"userVariables":	[],
 			"snapPoints":	[],
 			"limits":	{
-				"minScale":	0.10000000149011612,
+				"minScale":	0.1,
 				"maxScale":	100
-			}
+			},
+			"sound":	{
+				"collisionSounds":	[],
+				"minCollisionCosine":	0.699999988079071,
+				"collisionTimeout":	0.5,
+				"collisionLoopSound":	{
+					"soundId":	""
+				},
+				"minCollisionLoopAngularVelocity":	0.10000000149011612,
+				"maxCollisionLoopAngularVelocity":	0.5,
+				"collisionLoopBlendSpeed":	0.10000000149011612
+			},
+			"laserSettings":	{
+				"enabled":	false,
+				"count":	30,
+				"timeScale":	1,
+				"waveScale":	0.5,
+				"moveTimeScale":	4,
+				"gravityScale":	0.0010000000474974513,
+				"rotationStep":	0.00999999977648258,
+				"scaleStep":	0.00499999988824129,
+				"positionStep":	0.00999999977648258,
+				"centerFactor":	0.5,
+				"gradientStart":	{
+					"color":	4294967295
+				},
+				"gradientEnd":	{
+					"color":	4294967295
+				},
+				"image":	{
+					"imageId":	""
+				}
+			},
+			"destructionSound":	{
+				"soundId":	""
+			},
+			"destructionEffect":	"terrainDestroy"
 		}]
 }

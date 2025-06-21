@@ -1,0 +1,661 @@
+{
+	"items":	[{
+			"name":	"3GuB/Invisible Rotating Gear",
+			"uuid":	"3GuB_invisiblerotatinggear",
+			"type":	1,
+			"category":	"misc",
+			"layer":	5,
+			"minDepth":	-10,
+			"maxDepth":	10,
+			"sortOffset":	5,
+			"radiusOverride":	0,
+			"canRotate":	true,
+			"uniformScale":	true,
+			"canBeCopied":	true,
+			"variations":	true,
+			"useLighting":	true,
+			"castShadow":	true,
+			"checkVisibility":	false,
+			"color":	4294967295,
+			"animationName":	"",
+			"animationAlias":	"",
+			"animationSpeed":	1,
+			"animationInNormalizedTime":	0.5,
+			"animationPlayNormalizedTimeRange":	{
+				"x":	0,
+				"y":	0
+			},
+			"animationLocalPosition":	{
+				"x":	0,
+				"y":	0
+			},
+			"animationLocalScale":	{
+				"x":	1,
+				"y":	1
+			},
+			"animationRotation":	0.1,
+			"userValue1":	0,
+			"userValue2":	0,
+			"snapObjectIndex":	0,
+			"destroyForce":	-1,
+			"objects":	[{
+					"name":	"IMAGE_ITEM_INVISIBLE_ROTATING_GEAR",
+					"randomizationGroup":	1,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	{
+						"x":	1,
+						"y":	1
+					},
+					"color":	4294967295,
+					"depthOffset":	0,
+					"sortOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"rotationSpeed":	3,
+					"invisible":	true,
+					"clickable":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"ignoreScale":	false,
+					"shaderFactor":	1,
+					"enableWind":	false,
+					"windFactor":	{
+						"x":	0,
+						"y":	0
+					},
+					"body":	{
+						"id":	"",
+						"type":	2,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	true,
+						"materialName":	"rock",
+						"tags":	"",
+						"geoms":	[{
+								"type":	1,
+								"width":	0,
+								"height":	0,
+								"radius":	169,
+								"density":	3,
+								"offset":	{
+									"x":	-2.00000,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-217.92972,
+										"y":	-37.19774
+									}, {
+										"x":	217.94654,
+										"y":	-37.19774
+									}, {
+										"x":	217.94654,
+										"y":	37.20425
+									}, {
+										"x":	-217.92972,
+										"y":	37.20425
+									}]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-127.80410,
+										"y":	-180.41885
+									}, {
+										"x":	180.40696,
+										"y":	127.79220
+									}, {
+										"x":	127.79681,
+										"y":	180.40236
+									}, {
+										"x":	-180.41425,
+										"y":	-127.80870
+									}]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	37.19774,
+										"y":	-217.92972
+									}, {
+										"x":	37.19774,
+										"y":	217.94654
+									}, {
+										"x":	-37.20425,
+										"y":	217.94654
+									}, {
+										"x":	-37.20425,
+										"y":	-217.92972
+									}]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	180.41885,
+										"y":	-127.80410
+									}, {
+										"x":	-127.79220,
+										"y":	180.40696
+									}, {
+										"x":	-180.40236,
+										"y":	127.79681
+									}, {
+										"x":	127.80870,
+										"y":	-180.41425
+									}]
+							}],
+						"categoryBits":	0
+					},
+					"colorFx":	{
+						"enabled":	false,
+						"brightness":	0,
+						"contrast":	0,
+						"exposure":	0,
+						"saturation":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}, {
+					"name":	"IMAGE_ITEM_INVISIBLE_ROTATING_GEAR_STICKY",
+					"randomizationGroup":	1,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	{
+						"x":	1,
+						"y":	1
+					},
+					"color":	4294967295,
+					"depthOffset":	0,
+					"sortOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"rotationSpeed":	3,
+					"invisible":	true,
+					"clickable":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"ignoreScale":	false,
+					"shaderFactor":	1,
+					"enableWind":	false,
+					"windFactor":	{
+						"x":	0,
+						"y":	0
+					},
+					"body":	{
+						"id":	"",
+						"type":	2,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	true,
+						"materialName":	"rock_sticky",
+						"tags":	"",
+						"geoms":	[{
+								"type":	1,
+								"width":	0,
+								"height":	0,
+								"radius":	169,
+								"density":	3,
+								"offset":	{
+									"x":	-2.00000,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-217.92972,
+										"y":	-37.19774
+									}, {
+										"x":	217.94654,
+										"y":	-37.19774
+									}, {
+										"x":	217.94654,
+										"y":	37.20425
+									}, {
+										"x":	-217.92972,
+										"y":	37.20425
+									}]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-127.80410,
+										"y":	-180.41885
+									}, {
+										"x":	180.40696,
+										"y":	127.79220
+									}, {
+										"x":	127.79681,
+										"y":	180.40236
+									}, {
+										"x":	-180.41425,
+										"y":	-127.80870
+									}]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	37.19774,
+										"y":	-217.92972
+									}, {
+										"x":	37.19774,
+										"y":	217.94654
+									}, {
+										"x":	-37.20425,
+										"y":	217.94654
+									}, {
+										"x":	-37.20425,
+										"y":	-217.92972
+									}]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	180.41885,
+										"y":	-127.80410
+									}, {
+										"x":	-127.79220,
+										"y":	180.40696
+									}, {
+										"x":	-180.40236,
+										"y":	127.79681
+									}, {
+										"x":	127.80870,
+										"y":	-180.41425
+									}]
+							}],
+						"categoryBits":	0
+					},
+					"colorFx":	{
+						"enabled":	false,
+						"brightness":	0,
+						"contrast":	0,
+						"exposure":	0,
+						"saturation":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}, {
+					"name":	"IMAGE_ITEM_INVISIBLE_ROTATING_GEAR_DEADLY",
+					"randomizationGroup":	1,
+					"position":	{
+						"x":	0,
+						"y":	0
+					},
+					"rotation":	0,
+					"scale":	{
+						"x":	1,
+						"y":	1
+					},
+					"color":	4294967295,
+					"depthOffset":	0,
+					"sortOffset":	0,
+					"imageBlendingType":	2,
+					"pivot":	{
+						"x":	0.5,
+						"y":	0.5
+					},
+					"rotationSpeed":	3,
+					"invisible":	true,
+					"clickable":	false,
+					"stableFluidsDensityFactor":	0,
+					"dynamicLightingFactor":	0,
+					"flipHorizontal":	false,
+					"flipVertical":	false,
+					"ignoreScale":	false,
+					"shaderFactor":	1,
+					"enableWind":	false,
+					"windFactor":	{
+						"x":	0,
+						"y":	0
+					},
+					"body":	{
+						"id":	"",
+						"type":	2,
+						"pos":	{
+							"x":	0,
+							"y":	0
+						},
+						"rotation":	0,
+						"collisionEnabled":	true,
+						"materialName":	"rock_deadly",
+						"tags":	"",
+						"geoms":	[{
+								"type":	1,
+								"width":	0,
+								"height":	0,
+								"radius":	169,
+								"density":	3,
+								"offset":	{
+									"x":	-2.00000,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-217.92972,
+										"y":	-37.19774
+									}, {
+										"x":	217.94654,
+										"y":	-37.19774
+									}, {
+										"x":	217.94654,
+										"y":	37.20425
+									}, {
+										"x":	-217.92972,
+										"y":	37.20425
+									}]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	-127.80410,
+										"y":	-180.41885
+									}, {
+										"x":	180.40696,
+										"y":	127.79220
+									}, {
+										"x":	127.79681,
+										"y":	180.40236
+									}, {
+										"x":	-180.41425,
+										"y":	-127.80870
+									}]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	37.19774,
+										"y":	-217.92972
+									}, {
+										"x":	37.19774,
+										"y":	217.94654
+									}, {
+										"x":	-37.20425,
+										"y":	217.94654
+									}, {
+										"x":	-37.20425,
+										"y":	-217.92972
+									}]
+							}, {
+								"type":	4,
+								"width":	0,
+								"height":	0,
+								"radius":	0,
+								"density":	3,
+								"offset":	{
+									"x":	0,
+									"y":	0
+								},
+								"rotation":	0,
+								"normal":	{
+									"x":	0,
+									"y":	1
+								},
+								"isSensor":	false,
+								"friction":	-1,
+								"bounciness":	-1,
+								"points":	[{
+										"x":	180.41885,
+										"y":	-127.80410
+									}, {
+										"x":	-127.79220,
+										"y":	180.40696
+									}, {
+										"x":	-180.40236,
+										"y":	127.79681
+									}, {
+										"x":	127.80870,
+										"y":	-180.41425
+									}]
+							}],
+						"categoryBits":	0
+					},
+					"colorFx":	{
+						"enabled":	false,
+						"brightness":	0,
+						"contrast":	0,
+						"exposure":	0,
+						"saturation":	0
+					},
+					"particleEffects":	[],
+					"points":	[]
+				}],
+			"alternates":	[],
+			"userVariables":	[],
+			"snapPoints":	[],
+			"limits":	{
+				"minScale":	0.1,
+				"maxScale":	100
+			},
+			"sound":	{
+				"collisionSounds":	[],
+				"minCollisionCosine":	0.699999988079071,
+				"collisionTimeout":	0.5,
+				"collisionLoopSound":	{
+					"soundId":	""
+				},
+				"minCollisionLoopAngularVelocity":	0.10000000149011612,
+				"maxCollisionLoopAngularVelocity":	0.5,
+				"collisionLoopBlendSpeed":	0.10000000149011612
+			}
+		}]
+}

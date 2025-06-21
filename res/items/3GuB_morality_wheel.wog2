@@ -8,7 +8,7 @@
 			"minDepth":	-10,
 			"maxDepth":	10,
 			"sortOffset":	0,
-			"radiusOverride":	0,
+			"radiusOverride":	2,
 			"canRotate":	true,
 			"uniformScale":	true,
 			"canBeCopied":	true,
@@ -58,7 +58,7 @@
 						"x":	0.5,
 						"y":	0.5
 					},
-					"rotationSpeed":	1,
+					"rotationSpeed":	3,
 					"invisible":	false,
 					"clickable":	false,
 					"stableFluidsDensityFactor":	0,

@@ -44,7 +44,7 @@
 						"x":	0.5,
 						"y":	1
 					},
-					"rotation":	0,
+					"rotation":	1.570796012878418,
 					"scale":	{
 						"x":	1,
 						"y":	1
@@ -57,7 +57,7 @@
 						"x":	0.5,
 						"y":	1
 					},
-					"rotationSpeed":	2,
+					"rotationSpeed":	3,
 					"invisible":	false,
 					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
@@ -115,7 +115,7 @@
 						"x":	0.5,
 						"y":	1
 					},
-					"rotation":	0,
+					"rotation":	1.570796012878418,
 					"scale":	{
 						"x":	1,
 						"y":	1
@@ -128,7 +128,7 @@
 						"x":	0.5,
 						"y":	1
 					},
-					"rotationSpeed":	2,
+					"rotationSpeed":	3,
 					"invisible":	false,
 					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
@@ -186,7 +186,7 @@
 						"x":	0.5,
 						"y":	1
 					},
-					"rotation":	0,
+					"rotation":	1.570796012878418,
 					"scale":	{
 						"x":	1,
 						"y":	1
@@ -199,7 +199,7 @@
 						"x":	0.5,
 						"y":	1
 					},
-					"rotationSpeed":	2,
+					"rotationSpeed":	3,
 					"invisible":	false,
 					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
@@ -257,7 +257,7 @@
 						"x":	0.5,
 						"y":	1
 					},
-					"rotation":	0,
+					"rotation":	1.570796012878418,
 					"scale":	{
 						"x":	1,
 						"y":	1
@@ -270,7 +270,7 @@
 						"x":	0.5,
 						"y":	1
 					},
-					"rotationSpeed":	2,
+					"rotationSpeed":	3,
 					"invisible":	false,
 					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
@@ -328,7 +328,7 @@
 						"x":	0.5,
 						"y":	1
 					},
-					"rotation":	0,
+					"rotation":	1.570796012878418,
 					"scale":	{
 						"x":	1,
 						"y":	1
@@ -341,7 +341,7 @@
 						"x":	0.5,
 						"y":	1
 					},
-					"rotationSpeed":	2,
+					"rotationSpeed":	3,
 					"invisible":	false,
 					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
@@ -399,7 +399,7 @@
 						"x":	0.5,
 						"y":	1
 					},
-					"rotation":	0,
+					"rotation":	1.570796012878418,
 					"scale":	{
 						"x":	1,
 						"y":	1
@@ -412,7 +412,7 @@
 						"x":	0.5,
 						"y":	1
 					},
-					"rotationSpeed":	2,
+					"rotationSpeed":	3,
 					"invisible":	false,
 					"clickable":	false,
 					"stableFluidsDensityFactor":	0,
