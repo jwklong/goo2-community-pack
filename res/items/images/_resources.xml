@@ -392,7 +392,7 @@
 		<Image id="DJM_SATELLITEDISH" path="djm334/SatelliteDish"  />
 		<Image id="DJM_SPINTOWINWHEEL" path="djm334/SpinToWinWheel"  />
 		<Image id="DJM_SPINTOWINWHEELOPEN" path="djm334/SpinToWinWheelOpen"  />
-		<!-- Assets provided by 3GuB -->
+				<!-- Assets provided by 3GuB -->
 		<Image id="MORALITY_WHEEL" path="3GuB/morality_wheel"/>
 		<Image id="LEVER" path="3GuB/lever"/>
 		<Image id="LEVER_BLUR" path="3GuB/lever_blur"/>
@@ -400,6 +400,10 @@
 		<Image id="INVISIBLE_SCAFFOLD" path="3GuB/invisible_scaffold"/>
 		<Image id="INVISIBLE_ROTATING_WHEEL" path="3GuB/invisible_rotating_sphere"/>
 		<Image id="INVISIBLE_ROTATING_WHEEL_DEADLY" path="3GuB/invisible_rotating_sphere_deadly"/>
+		<Image id="INVISIBLE_ROTATING_WHEEL_STICKY" path="3GuB/invisible_rotating_sphere_sticky"/>
+		<Image id="INVISIBLE_ROTATING_GEAR" path="3GuB/invisible_rotating_gear"/>
+		<Image id="INVISIBLE_ROTATING_GEAR_DEADLY" path="3GuB/invisible_rotating_gear_deadly"/>
+		<Image id="INVISIBLE_ROTATING_GEAR_STICKY" path="3GuB/invisible_rotating_gear_sticky"/>
 		<Image id="GEAR_1" path="3GuB/gear1"/>
 		<Image id="GEAR_1BLACK" path="3GuB/gear1black"/>
 		<Image id="GEAR_1WHITE" path="3GuB/gear1white"/>
@@ -408,7 +412,9 @@
 		<Image id="GEAR_1BLURGRAY" path="3GuB/gear1blurGray"/>
 		<Image id="GEAR_2_256" path="3GuB/gear2_256"/>
 		<Image id="GEAR_BALLBUSTER" path="3GuB/gearBallbuster"/>
+		<Image id="GEAR_BALLBUSTER_B" path="3GuB/gearBallbuster_b"/>
 		<Image id="GEAR_DETACH" path="3GuB/gearDetach"/>
+		<Image id="GEAR_DETACH_B" path="3GuB/gearDetach_b"/>
 		<Image id="GEAR_DISTANT" path="3GuB/gearDistant"/>
 		<Image id="GEAR_ISH_BLUR" path="3GuB/ish_gearblur"/>
 		<Image id="GEAR_ISHR_BLUR" path="3GuB/ishr_gearblur"/>
@@ -442,7 +448,9 @@
 		<Image id="BG_VEGGIES" path="3GuB/bg_veggies"/>
 		<Image id="BG_VEGGIES_WARM" path="3GuB/bg_veggiesWarm"/>
 		<Image id="BG_YHTETH" path="3GuB/bg_YHTETH"/>
+		<Image id="BG_WAVESUNSET_BUSH" path="3GuB/bg_wavesunset_bush"/>
 		<Image id="FG_FOGGYEDGES" path="3GuB/fg_foggyedges"/>
+		<Image id="FG_ISH_SCANLINES" path="3GuB/ish_scanlines"/>
 		<Image id="BB_POST_1" path="3GuB/bb_post_1"/>
 		<Image id="BB_POST_2" path="3GuB/bb_post_2"/>
 		<Image id="BB_POST_3" path="3GuB/bb_post_3"/>
@@ -489,6 +497,162 @@
 		<Image id="PROPELLER_BLADES" path="3GuB/propellerBlades"/>
 		<Image id="PROPELLER_BLADES_2" path="3GuB/propellerBlades_2"/>
 		<Image id="PROPELLER_TIP" path="3GuB/propellerTip"/>
+		<Image id="SIGN_BLANK" path="3GuB/sign_blank"/>
+		<Image id="SIGN_BLANK_B" path="3GuB/sign_blank_b"/>
+		<Image id="SIGN_NEON_BLANK" path="3GuB/sign_neon_blank"/>
+		<Image id="SIGN_NEON_BLANK_B" path="3GuB/sign_neon_blank_b"/>
+		<Image id="SIGN_PAPER_BLANK" path="3GuB/sign_paper_blank"/>
+		<Image id="SIGN_PAPER_BLANK_B" path="3GuB/sign_paper_blank_b"/>
+		<Image id="SIGN_ICON_2BIT" path="3GuB/sign_icon_2bit"/>
+		<Image id="SIGN_ICON_BALOON" path="3GuB/sign_icon_baloon"/>
+		<Image id="SIGN_ICON_BALOON_EYE" path="3GuB/sign_icon_baloon_eye"/>
+		<Image id="SIGN_ICON_BOMB" path="3GuB/sign_icon_bomb"/>
+		<Image id="SIGN_ICON_BOUNCE" path="3GuB/sign_icon_bounce"/>
+		<Image id="SIGN_ICON_GOOLF" path="3GuB/sign_icon_goolf"/>
+		<Image id="SIGN_ICON_GOOLF_SINGLE" path="3GuB/sign_icon_goolf_single"/>
+		<Image id="SIGN_ICON_PRODUCT_B" path="3GuB/sign_icon_product_b"/>
+		<Image id="SIGN_ICON_PRODUCT_W" path="3GuB/sign_icon_product_w"/>
+		<Image id="SIGN_ICON_NEON_2BIT" path="3GuB/sign_icon_neon_2bit"/>
+		<Image id="SIGN_ICON_NEON_BALOON" path="3GuB/sign_icon_neon_baloon"/>
+		<Image id="SIGN_ICON_NEON_BALOON_EYE" path="3GuB/sign_icon_neon_baloon_eye"/>
+		<Image id="SIGN_ICON_NEON_BOMB" path="3GuB/sign_icon_neon_bomb"/>
+		<Image id="SIGN_ICON_NEON_BOUNCE" path="3GuB/sign_icon_neon_bounce"/>
+		<Image id="SIGN_ICON_NEON_GOOLF" path="3GuB/sign_icon_neon_goolf"/>
+		<Image id="SIGN_ICON_NEON_GOOLF_SINGLE" path="3GuB/sign_icon_neon_goolf_single"/>
+		<Image id="SIGN_ICON_NEON_PRODUCT_W" path="3GuB/sign_icon_neon_product_w"/>
+		<Image id="SIGN_ICON_PAPER_2BIT" path="3GuB/sign_icon_paper_2bit"/>
+		<Image id="SIGN_ICON_PAPER_BALOON" path="3GuB/sign_icon_paper_baloon"/>
+		<Image id="SIGN_ICON_PAPER_BALOON_EYE" path="3GuB/sign_icon_paper_baloon_eye"/>
+		<Image id="SIGN_ICON_PAPER_BOMB" path="3GuB/sign_icon_paper_bomb"/>
+		<Image id="SIGN_ICON_PAPER_BOUNCE" path="3GuB/sign_icon_paper_bounce"/>
+		<Image id="SIGN_ICON_PAPER_GOOLF" path="3GuB/sign_icon_paper_goolf"/>
+		<Image id="SIGN_ICON_PAPER_GOOLF_SINGLE" path="3GuB/sign_icon_paper_goolf_single"/>
+		<Image id="SIGN_ICON_PAPER_PRODUCT_B" path="3GuB/sign_icon_paper_product_b"/>
+		<Image id="SIGN_ICON_PAPER_PRODUCT_W" path="3GuB/sign_icon_paper_product_w"/>
+		<Image id="PIPEBEND_Bl_NORMAL" path="3GuB/Pipe_Bend_Bl_Normal"/>
+		<Image id="PIPEBEND_BR_NORMAL" path="3GuB/Pipe_Bend_Br_Normal"/>
+		<Image id="PIPEBEND_TL_NORMAL" path="3GuB/Pipe_Bend_Tl_Normal"/>
+		<Image id="PIPEBEND_TR_NORMAL" path="3GuB/Pipe_Bend_Tr_Normal"/>
+		<Image id="PIPEBEND_Bl_NEON" path="3GuB/Pipe_Bend_Bl_Neon"/>
+		<Image id="PIPEBEND_BR_NEON" path="3GuB/Pipe_Bend_Br_Neon"/>
+		<Image id="PIPEBEND_TL_NEON" path="3GuB/Pipe_Bend_Tl_Neon"/>
+		<Image id="PIPEBEND_TR_NEON" path="3GuB/Pipe_Bend_Tr_Neon"/>
+		<Image id="PIPEBEND_Bl_PAPER" path="3GuB/Pipe_Bend_Bl_Paper"/>
+		<Image id="PIPEBEND_BR_PAPER" path="3GuB/Pipe_Bend_Br_Paper"/>
+		<Image id="PIPEBEND_TL_PAPER" path="3GuB/Pipe_Bend_Tl_Paper"/>
+		<Image id="PIPEBEND_TR_PAPER" path="3GuB/Pipe_Bend_Tr_Paper"/>
+		<Image id="PIPECAP_CLOSED_NORMAL" path="3GuB/Pipe_Cap_Closed_Normal"/>
+		<Image id="PIPECAP_CLOSED_NEON" path="3GuB/Pipe_Cap_Closed_Neon"/>
+		<Image id="PIPECAP_CLOSED_PAPER" path="3GuB/Pipe_Cap_Closed_Paper"/>
+		<Image id="PIPECAP_OPENBACK_NORMAL" path="3GuB/Pipe_Cap_Openback_Normal"/>
+		<Image id="PIPECAP_OPENBACK_NEON" path="3GuB/Pipe_Cap_Openback_Neon"/>
+		<Image id="PIPECAP_OPENBACK_PAPER" path="3GuB/Pipe_Cap_Openback_Paper"/>
+		<Image id="PIPECAP_OPENFRONT_NORMAL" path="3GuB/Pipe_Cap_Openfront_Normal"/>
+		<Image id="PIPECAP_OPENFRONT_NEON" path="3GuB/Pipe_Cap_Openfront_Neon"/>
+		<Image id="PIPECAP_OPENFRONT_PAPER" path="3GuB/Pipe_Cap_Openfront_Paper"/>
+		<Image id="PIPE_NORMAL" path="3GuB/Pipe_Normal"/>
+		<Image id="PIPE_NEON" path="3GuB/Pipe_Neon"/>
+		<Image id="PIPE_PAPER" path="3GuB/Pipe_Paper"/>
+		<Image id="PIPECURVEDCAP_OPENFRONT_NORMAL" path="3GuB/PipeCurved_Cap_Open_Normal"/>
+		<Image id="PIPECURVEDCAP_OPENFRONT_NEON" path="3GuB/PipeCurved_Cap_Open_Neon"/>
+		<Image id="PIPECURVEDCAP_OPENFRONT_PAPER" path="3GuB/PipeCurved_Cap_Open_Paper"/>
+		<Image id="PIPECURVEDCAP_OPENBACK_NORMAL" path="3GuB/PipeCurved_Cap_Openback_Normal"/>
+		<Image id="PIPECURVEDCAP_OPENBACK_NEON" path="3GuB/PipeCurved_Cap_Openback_Neon"/>
+		<Image id="PIPECURVEDCAP_OPENBACK_PAPER" path="3GuB/PipeCurved_Cap_Openback_Paper"/>
+		<Image id="PIPECURVED_NORMAL" path="3GuB/PipeCurved_Normal"/>
+		<Image id="PIPECURVED_NEON" path="3GuB/PipeCurved_Neon"/>
+		<Image id="PIPECURVED_PAPER" path="3GuB/PipeCurved_Paper"/>
+		<Image id="REV400_PIPE" path="3GuB/rev400_pipe_horiz"/>
+		<Image id="REV400_PIPE_BEND_BR" path="3GuB/rev400_pipe_bend_br"/>
+		<Image id="REV400_PIPE_BEND_TL" path="3GuB/rev400_pipe_bend_tl"/>
+		<Image id="REV400_PIPECAP_OPEN_FRONT" path="3GuB/rev400_pipecap_open_front"/>
+		<Image id="REV400_PIPECAP_OPEN_BACK" path="3GuB/rev400_pipecap_open_back"/>
+		<Image id="REV400_PIPECAP2_OPEN_FRONT" path="3GuB/rev400_pipecap2_open_front"/>
+		<Image id="REV400_PIPECAP2_OPEN_BACK" path="3GuB/rev400_pipecap2_open_back"/>
+		<Image id="REV400_TANK" path="3GuB/rev400_tank"/>
+		<Image id="REV400_TANK_BG1" path="3GuB/rev400_tank_bg1"/>
+		<Image id="REV400_TANK_BG2" path="3GuB/rev400_tank_bg2"/>
+		<Image id="REV821_PIPE" path="3GuB/rev821_pipe_horiz"/>
+		<Image id="REV821_PIPE_BEND_BR" path="3GuB/rev821_pipe_bend_br"/>
+		<Image id="REV821_PIPE_BEND_TL" path="3GuB/rev821_pipe_bend_tl"/>
+		<Image id="REV821_PIPECAP_OPEN_FRONT" path="3GuB/rev821_pipecap_open_front"/>
+		<Image id="REV821_PIPECAP_OPEN_BACK" path="3GuB/rev821_pipecap_open_back"/>
+		<Image id="REV821_PIPECAP2_OPEN_FRONT" path="3GuB/rev821_pipecap2_open_front"/>
+		<Image id="REV821_PIPECAP2_OPEN_BACK" path="3GuB/rev821_pipecap2_open_back"/>
+		<Image id="HAND_BGRED" path="3GuB/hand_bgred"/>
+		<Image id="HAND_FLATRED" path="3GuB/hand_flatred"/>
+		<Image id="HAND_FINGER_RED1" path="3GuB/hand_finger_red1"/>
+		<Image id="HAND_FINGER_RED2" path="3GuB/hand_finger_red2"/>
+		<Image id="SCREW1" path="3GuB/screw1"/>
+		<Image id="SCREW2" path="3GuB/screw2"/>
+		<Image id="SCREW3" path="3GuB/screw3"/>
+		<Image id="SCREW4" path="3GuB/screw4"/>
+		<Image id="SCREW5" path="3GuB/screw5"/>
+		<Image id="SPIKEBLACK_GROUP" path="3GuB/spikeBlack_group"/>
+		<Image id="SPIKEBLACK_SINGLE_1" path="3GuB/spikeBlack_single_1"/>
+		<Image id="SPIKEBLACK_SINGLE_2" path="3GuB/spikeBlack_single_2"/>
+		<Image id="SPIKEBLACK_SINGLE_3" path="3GuB/spikeBlack_single_3"/>
+		<Image id="SPIKEBLACK_SINGLE_4" path="3GuB/spikeBlack_single_4"/>
+		<Image id="SPIKEBLACK_SINGLE_5" path="3GuB/spikeBlack_single_5"/>
+		<Image id="SPIKEGRAY_GROUP" path="3GuB/spikeGray_group"/>
+		<Image id="SPIKEGRAY_SINGLE_1" path="3GuB/spikeGray_single_1"/>
+		<Image id="SPIKEGRAY_SINGLE_2" path="3GuB/spikeGray_single_2"/>
+		<Image id="SPIKEGRAY_SINGLE_3" path="3GuB/spikeGray_single_3"/>
+		<Image id="SPIKEGRAY_SINGLE_4" path="3GuB/spikeGray_single_4"/>
+		<Image id="SPIKEGRAY_SINGLE_5" path="3GuB/spikeGray_single_5"/>
+		<Image id="SPIKES_BLACK_REV821" path="3GuB/spikes_black_rev821"/>
+		<Image id="SPIKES_BLACK_REV821_SINGLE_1" path="3GuB/spikes_black_rev821_single_1"/>
+		<Image id="SPIKES_BLACK_REV821_SINGLE_2" path="3GuB/spikes_black_rev821_single_2"/>
+		<Image id="SPIKES_BLACK_REV821_SINGLE_3" path="3GuB/spikes_black_rev821_single_3"/>
+		<Image id="SPIKES_BLACK_REV821_SINGLE_4" path="3GuB/spikes_black_rev821_single_4"/>
+		<Image id="SPIKES_BLACK_REV821_SINGLE_5" path="3GuB/spikes_black_rev821_single_5"/>
+		<Image id="SPIKES_BLACK_REV821_SINGLE_6" path="3GuB/spikes_black_rev821_single_6"/>
+		<Image id="SPIKES_BLACK_REV821_SINGLE_7" path="3GuB/spikes_black_rev821_single_7"/>
+		<Image id="SPIKESROW1_REV601" path="3GuB/spikesRow1_rev601"/>
+		<Image id="INVISIBLE_COLLISION_SQUARE" path="3GuB/invisible_collision_square"/>
+		<Image id="INVISIBLE_COLLISION_SQUARE_UNWALKABLE" path="3GuB/invisible_collision_square_unwalkable"/>
+		<Image id="INVISIBLE_COLLISION_SQUARE_DEADLY" path="3GuB/invisible_collision_square_deadly"/>
+		<Image id="INVISIBLE_COLLISION_SQUARE_SLIPPY" path="3GuB/invisible_collision_square_slippy"/>
+		<Image id="INVISIBLE_COLLISION_SQUARE_STICKY" path="3GuB/invisible_collision_square_sticky"/>
+		<Image id="INVISIBLE_COLLISION_CIRCLE" path="3GuB/invisible_collision_circle"/>
+		<Image id="INVISIBLE_COLLISION_CIRCLE_UNWALKABLE" path="3GuB/invisible_collision_circle_unwalkable"/>
+		<Image id="INVISIBLE_COLLISION_CIRCLE_DEADLY" path="3GuB/invisible_collision_circle_deadly"/>
+		<Image id="INVISIBLE_COLLISION_CIRCLE_SLIPPY" path="3GuB/invisible_collision_circle_slippy"/>
+		<Image id="INVISIBLE_COLLISION_CIRCLE_STICKY" path="3GuB/invisible_collision_circle_sticky"/>
+		<Image id="INVISIBLE_COLLISION_3ANGLE" path="3GuB/invisible_collision_3angle"/>
+		<Image id="INVISIBLE_COLLISION_3ANGLE_UNWALKABLE" path="3GuB/invisible_collision_3angle_unwalkable"/>
+		<Image id="INVISIBLE_COLLISION_3ANGLE_DEADLY" path="3GuB/invisible_collision_3angle_deadly"/>
+		<Image id="INVISIBLE_COLLISION_3ANGLE_SLIPPY" path="3GuB/invisible_collision_3angle_slippy"/>
+		<Image id="INVISIBLE_COLLISION_3ANGLE_STICKY" path="3GuB/invisible_collision_3angle_sticky"/>
+		<Image id="MOAI_1" path="3GuB/moai_1"/>
+		<Image id="MOAI_2" path="3GuB/moai_2"/>
+		<Image id="MOAI_3" path="3GuB/moai_3"/>
+		<Image id="MOAI_4" path="3GuB/moai_4"/>
+		<Image id="MOAI_5" path="3GuB/moai_5"/>
+		<Image id="MOAI_6" path="3GuB/moai_6"/>
+		<Image id="MOAI_7" path="3GuB/moai_7"/>
+		<Image id="MOAI_1_DISTANT" path="3GuB/moai_1_distant"/>
+		<Image id="MOAI_2_DISTANT" path="3GuB/moai_2_distant"/>
+		<Image id="MOAI_3_DISTANT" path="3GuB/moai_3_distant"/>
+		<Image id="MOAI_4_DISTANT" path="3GuB/moai_4_distant"/>
+		<Image id="MOAI_5_DISTANT" path="3GuB/moai_5_distant"/>
+		<Image id="MOAI_6_DISTANT" path="3GuB/moai_6_distant"/>
+		<Image id="MOAI_7_DISTANT" path="3GuB/moai_7_distant"/>
+		<Image id="FALO_TONGUE_1" path="3GuB/FALO_tongue_1"/>
+		<Image id="FALO_TONGUE_2" path="3GuB/FALO_tongue_2"/>
+		<Image id="FALO_TONGUE_3" path="3GuB/FALO_tongue_3"/>
+		<Image id="FALO_TONGUE_4" path="3GuB/FALO_tongue_4"/>
+		<Image id="FALO_TONGUE_5" path="3GuB/FALO_tongue_5"/>
+		<Image id="FALO_TONGUE_6" path="3GuB/FALO_tongue_6"/>
+		<Image id="FALO_TONGUE_7" path="3GuB/FALO_tongue_7"/>
+		<Image id="FALO_TONGUE_8" path="3GuB/FALO_tongue_8"/>
+		<Image id="FALO_TONGUE_9" path="3GuB/FALO_tongue_9"/>
+		<Image id="FALO_TONGUE_10" path="3GuB/FALO_tongue_10"/>
+		<Image id="BLOCKBUDDY" path="3GuB/blockBuddy"/>
+		<Image id="BLOCKBUDDY_EXPLOADED_L" path="3GuB/blockBuddy_exploaded_L"/>
+		<Image id="BLOCKBUDDY_EXPLOADED_R" path="3GuB/blockBuddy_exploaded_R"/>
+		<Image id="PIPE_WHISTLER_FRONT" path="3GuB/pipe_whistler_front"/>
+		<Image id="PIPE_WHISTLER_BACK" path="3GuB/pipe_whistler_back"/>
 		<!-- Assets provided by Special_Paint -->
 		<Image id="SPECIAL_PAINT_SMOKESTACK" path="Special_Paint/SmokeStack"  />
 		<Image id="SPECIAL_PAINT_SMOKESTACKBLUR" path="Special_Paint/SmokeStackBlur"  />
