@@ -1,0 +1,637 @@
+{
+	"name":	"BombSticky",
+	"width":	0.600000023841858,
+	"height":	0.600000023841858,
+	"shape":	{
+		"ballShape":	0
+	},
+	"sizeVariance":	0,
+	"mass":	1,
+	"towerMass":	0.10000000149011612,
+	"dragMass":	2,
+	"destroyForce":	-1,
+	"maxDropDistance":	10,
+	"maxStrands":	2,
+	"walkSpeed":	0.0010000000474974513,
+	"climbSpeed":	0,
+	"speedVariance":	0,
+	"antiGravFactor":	0,
+	"isAntiGravAttached":	false,
+	"isAntiGravUnattached":	false,
+	"dampening":	0,
+	"isEditable":	true,
+	"isDraggable":	true,
+	"isDetachable":	true,
+	"diesOnDetach":	false,
+	"isInvulnerable":	true,
+	"isStickyAttached":	true,
+	"isStickyUnattached":	false,
+	"attachToSameTypeOnly":	false,
+	"isGrumpy":	false,
+	"isStatic":	false,
+	"isStaticWhenSleeping":	false,
+	"selectionMarkerRadius":	0.600000023841858,
+	"attachedMaginSS":	20,
+	"unattachedMarginSS":	40,
+	"health":	20,
+	"blinkColor":	{
+		"color":	4278190080
+	},
+	"jumpMultiplierMin":	0,
+	"jumpMultiplierMax":	0,
+	"collideAttached":	false,
+	"collideWithAttached":	false,
+	"collideWithParticlesAttached":	true,
+	"allowAttachmentsWhenStuck":	false,
+	"allowAttachmentsWhenFalling":	false,
+	"motorMaxForce":	5,
+	"isSuckable":	false,
+	"opensExitUnattached":	false,
+	"affectsAutoboundsAttached":	true,
+	"affectsAutoboundsUnattached":	false,
+	"burnTime":	1,
+	"detonateForce":	50000,
+	"detonateRadius":	1.5,
+	"detonateKillBalls":	true,
+	"detonateKillItems":	true,
+	"detonateKillTerrain":	true,
+	"detonateParticleEffect":	{
+		"uuid":	"1a3774fd-14c6-464e-a008-8de724b25372"
+	},
+	"autoAttach":	false,
+	"isClimber":	false,
+	"attachedParticleBarrierFactor":	1,
+	"material":	{
+		"materialName":	"rock_stickable"
+	},
+	"contains":	[],
+	"popSoundId":	{
+		"soundId":	""
+	},
+	"popParticlesId":	"",
+	"fireworksParticleEffect":	{
+		"uuid":	""
+	},
+	"trailEffectId":	"",
+	"trailParticleEffect":	{
+		"uuid":	""
+	},
+	"trailEffectEnabled":	false,
+	"popDuration":	0,
+	"popDelayMin":	0,
+	"popDelayMax":	0,
+	"hideEyes":	false,
+	"botoxEyesWhenAttached":	false,
+	"isBehindStrands":	false,
+	"wakeOtherBallsAtDistance":	-3.4028234663852886e+38,
+	"spawnType":	{
+		"ballType":	0
+	},
+	"decay":	-1,
+	"flingForceFactor":	0,
+	"flingStrandMaxLength":	0,
+	"autoDisable":	false,
+	"maxDragForce":	3.4028234663852886e+38,
+	"dragDampeningFactor":	0.600000023841858,
+	"alwaysLookAtMouse":	true,
+	"hingeDrag":	false,
+	"maxAttachSpeed":	10,
+	"jumpOnWakeup":	false,
+	"thrust":	0,
+	"useDistantSounds":	true,
+	"canBeRotatedByHand":	false,
+	"stencil":	0,
+	"stencilWhenAttached":	false,
+	"canSuckLiquidExternally":	false,
+	"canSuckLiquidFromPipe":	false,
+	"liquidParticlesPerSecond":	0,
+	"initialBallLiquidAmount":	0,
+	"maxBallLiquidAmount":	0,
+	"maxStrandLiquidAmount":	0,
+	"liquidSinkOffset":	0,
+	"strandSuckLiquidParticlesPerSecond":	0,
+	"hitVelocityAccumulationLimit":	0,
+	"strandType":	{
+		"strandType":	1
+	},
+	"springConstMin":	50000,
+	"springConstMax":	50000,
+	"strandDampening":	0.00899999961256981,
+	"maxReplacementStrandLength":	-1,
+	"maxNormalStrandLength":	1.3999999761581421,
+	"minStrandLength":	1.2999999523162842,
+	"strandShrinkLength":	1.3999999761581421,
+	"maxStretchForce":	1000000,
+	"maxCompressForce":	1000000,
+	"strandDensity":	0.10000000149011612,
+	"strandThickness":	0.40000000596046448,
+	"strandGrowMultiplier":	1,
+	"isSingleStrandAllowed":	false,
+	"allowBallToStrandConversion":	false,
+	"swallowBall":	true,
+	"useStrandConnect":	true,
+	"isStrandWalkable":	false,
+	"canShrinkStrand":	true,
+	"strandImageId":	{
+		"imageId":	"IMAGE_BALL_BOMBSTICKY_STRAND"
+	},
+	"strandInactiveImageId":	{
+		"imageId":	"IMAGE_BALL_BOMBSTICKY_STRAND"
+	},
+	"strandInactiveOverlayImageId":	{
+		"imageId":	"IMAGE_BALL_GENERIC_ARM_INACTIVE_SHADOW"
+	},
+	"strandIgniteDelay":	0,
+	"strandBurnSpeed":	3,
+	"strandFireParticlesId":	"fireArmBurn",
+	"strandBurntImageId":	{
+		"imageId":	"IMAGE_BALL_BOMBSTICKY_STRAND_BURNT"
+	},
+	"strandBackgroundImageId":	{
+		"imageId":	""
+	},
+	"detachStrandImageId":	{
+		"imageId":	"IMAGE_BALL_BOMBSTICKY_STRAND"
+	},
+	"detachStrandMaxLength":	0.600000023841858,
+	"dragMarkerImageId":	{
+		"imageId":	"IMAGE_BALL_GENERIC_SELECTIONMARKER"
+	},
+	"detachMarkerImageId":	{
+		"imageId":	""
+	},
+	"markerRotSpeed":	2,
+	"stainLiquidType":	{
+		"liquidType":	4
+	},
+	"deselectAttenuationFunc":	{
+		"frames":	[1.2000000476837158, 1],
+		"totalLength":	0.05000000074505806
+	},
+	"selectAttenuationFunc":	{
+		"frames":	[1, 1.2000000476837158],
+		"totalLength":	0.05000000074505806
+	},
+	"dropAttenuationFunc":	{
+		"frames":	[1.2000000476837158, 1],
+		"totalLength":	0.05000000074505806
+	},
+	"dragAttenuationFunc":	{
+		"frames":	[1.2000000476837158, 1],
+		"totalLength":	0.05000000074505806
+	},
+	"spawnAttenuationFunc":	{
+		"frames":	[0.5, 0.899999976158142, 1],
+		"totalLength":	0.20000000298023224
+	},
+	"ballParts":	[{
+			"name":	"spikes",
+			"images":	[{
+					"imageId":	{
+						"imageId":	"IMAGE_BALL_BOMBSTICKY_SPIKES"
+					},
+					"imageMaskId":	{
+						"imageId":	""
+					}
+				}],
+			"imageBackgroundIds":	[],
+			"layer":	1,
+			"drawWhenAttached":	true,
+			"drawWhenNotAttached":	true,
+			"minX":	0,
+			"maxX":	0,
+			"minY":	0,
+			"maxY":	0,
+			"minRangeX":	0,
+			"maxRangeX":	0,
+			"minRangeY":	0,
+			"maxRangeY":	0,
+			"states":	[{
+					"ballState":	0
+				}, {
+					"ballState":	1
+				}, {
+					"ballState":	2
+				}, {
+					"ballState":	3
+				}, {
+					"ballState":	5
+				}, {
+					"ballState":	7
+				}, {
+					"ballState":	8
+				}, {
+					"ballState":	9
+				}, {
+					"ballState":	10
+				}, {
+					"ballState":	12
+				}],
+			"isActiveWhenUndiscovered":	true,
+			"scale":	1,
+			"scaleIsRelative":	true,
+			"rotation":	0,
+			"isEye":	false,
+			"pupilImageIds":	[],
+			"pupilInset":	0,
+			"pupilScale":	1.3999999761581421,
+			"isRotating":	true,
+			"stretchMaxSpeed":	-1,
+			"stretchParallel":	-1,
+			"stretchPerpendicular":	0,
+			"color":	{
+				"color":	4294967295
+			},
+			"stretchFactorFromStrandForce":	0
+		}, {
+			"name":	"spikesStuck",
+			"images":	[{
+					"imageId":	{
+						"imageId":	"IMAGE_BALL_BOMBSTICKY_SPIKES"
+					},
+					"imageMaskId":	{
+						"imageId":	""
+					}
+				}],
+			"imageBackgroundIds":	[],
+			"layer":	1,
+			"drawWhenAttached":	true,
+			"drawWhenNotAttached":	true,
+			"minX":	0,
+			"maxX":	0,
+			"minY":	0,
+			"maxY":	0,
+			"minRangeX":	0,
+			"maxRangeX":	0,
+			"minRangeY":	0,
+			"maxRangeY":	0,
+			"states":	[{
+					"ballState":	4
+				}],
+			"isActiveWhenUndiscovered":	false,
+			"scale":	1,
+			"scaleIsRelative":	true,
+			"rotation":	0,
+			"isEye":	false,
+			"pupilImageIds":	[],
+			"pupilInset":	0,
+			"pupilScale":	1.3999999761581421,
+			"isRotating":	true,
+			"stretchMaxSpeed":	-1,
+			"stretchParallel":	-1,
+			"stretchPerpendicular":	0,
+			"color":	{
+				"color":	4294967295
+			},
+			"stretchFactorFromStrandForce":	0
+		}, {
+			"name":	"body",
+			"images":	[{
+					"imageId":	{
+						"imageId":	"IMAGE_BALL_BOMBSTICKY_BODY"
+					},
+					"imageMaskId":	{
+						"imageId":	""
+					}
+				}],
+			"imageBackgroundIds":	[],
+			"layer":	2,
+			"drawWhenAttached":	true,
+			"drawWhenNotAttached":	true,
+			"minX":	0,
+			"maxX":	0,
+			"minY":	0,
+			"maxY":	0,
+			"minRangeX":	0,
+			"maxRangeX":	0,
+			"minRangeY":	0,
+			"maxRangeY":	0,
+			"states":	[],
+			"isActiveWhenUndiscovered":	true,
+			"scale":	1,
+			"scaleIsRelative":	true,
+			"rotation":	0,
+			"isEye":	false,
+			"pupilImageIds":	[],
+			"pupilInset":	0,
+			"pupilScale":	1.3999999761581421,
+			"isRotating":	false,
+			"stretchMaxSpeed":	-1,
+			"stretchParallel":	-1,
+			"stretchPerpendicular":	0,
+			"color":	{
+				"color":	4294967295
+			},
+			"stretchFactorFromStrandForce":	0
+		}, {
+			"name":	"valve",
+			"images":	[{
+					"imageId":	{
+						"imageId":	"IMAGE_BALL_BOMBSTICKY_VALVE"
+					},
+					"imageMaskId":	{
+						"imageId":	""
+					}
+				}],
+			"imageBackgroundIds":	[],
+			"layer":	3,
+			"drawWhenAttached":	true,
+			"drawWhenNotAttached":	true,
+			"minX":	0.08,
+			"maxX":	0.08,
+			"minY":	-0.14,
+			"maxY":	-0.14,
+			"minRangeX":	0,
+			"maxRangeX":	0,
+			"minRangeY":	0,
+			"maxRangeY":	0,
+			"states":	[],
+			"isActiveWhenUndiscovered":	true,
+			"scale":	1,
+			"scaleIsRelative":	true,
+			"rotation":	0,
+			"isEye":	false,
+			"pupilImageIds":	[],
+			"pupilInset":	0,
+			"pupilScale":	1.3999999761581421,
+			"isRotating":	true,
+			"stretchMaxSpeed":	-1,
+			"stretchParallel":	-1,
+			"stretchPerpendicular":	0,
+			"color":	{
+				"color":	4294967295
+			},
+			"stretchFactorFromStrandForce":	0
+		}, {
+			"name":	"valveblink",
+			"images":	[{
+					"imageId":	{
+						"imageId":	"IMAGE_BALL_BOMBSTICKY_VALVEBLINK"
+					},
+					"imageMaskId":	{
+						"imageId":	""
+					}
+				}],
+			"imageBackgroundIds":	[],
+			"layer":	3,
+			"drawWhenAttached":	true,
+			"drawWhenNotAttached":	true,
+			"minX":	0.08,
+			"maxX":	0.08,
+			"minY":	-0.14,
+			"maxY":	-0.14,
+			"minRangeX":	0,
+			"maxRangeX":	0,
+			"minRangeY":	0,
+			"maxRangeY":	0,
+			"states":	[],
+			"isActiveWhenUndiscovered":	false,
+			"scale":	1,
+			"scaleIsRelative":	true,
+			"rotation":	0,
+			"isEye":	false,
+			"pupilImageIds":	[],
+			"pupilInset":	0,
+			"pupilScale":	1.3999999761581421,
+			"isRotating":	true,
+			"stretchMaxSpeed":	-1,
+			"stretchParallel":	-1,
+			"stretchPerpendicular":	0,
+			"color":	{
+				"color":	4294967295
+			},
+			"stretchFactorFromStrandForce":	0
+		}],
+	"bodyPart":	{
+		"partName":	"body"
+	},
+	"stateAnimations":	[{
+			"partAnimations":	[{
+					"parts":	[{
+							"partName":	"valveblink"
+						}],
+					"axis":	{
+						"axis":	0
+					},
+					"type":	{
+						"type":	2
+					},
+					"localSpace":	true,
+					"frequency":	1,
+					"amplitude":	0.1,
+					"phaseShift":	0
+				} ],
+			"states":	[{"ballState":	0}, {"ballState":	1}, {"ballState":	2}, {"ballState":	3}, {"ballState":	4}, {"ballState":	5}, {"ballState":	6}, {"ballState":	7}, {"ballState":	8}, {"ballState":	9}, {"ballState":	10}, {"ballState":	11}, {"ballState":	12}, {"ballState":	13}, {"ballState":	14}, {"ballState":	15}],
+			"frequenceyVarianceMagnitude":	0.300000011920929,
+			"amplitudeVarianceMagnitude":	0.00030000001424923539,
+			"phaseShiftVarianceMagnitude":	0
+		}],
+	"splatImageIds":	[{
+			"imageId":	"IMAGE_FX_SMOKEBLACK"
+		}],
+	"soundEvents":	[{
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_GENERIC_GRUMBLE"
+				}],
+			"soundEvent":	{
+				"soundEvent":	0
+			}
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_GENERIC_GRUMBLE"
+				}],
+			"soundEvent":	{
+				"soundEvent":	1
+			}
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_GENERIC_STICK1"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_STICK2"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_STICK3"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_STICK4"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_STICK5"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_STICK6"
+				}],
+			"soundEvent":	{
+				"soundEvent":	2
+			}
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER1"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER2"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER3"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER4"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER5"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER6"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER7"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_ROLLOVER8"
+				}],
+			"soundEvent":	{
+				"soundEvent":	3
+			}
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_GENERIC_STICK1"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_STICK2"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_STICK3"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_STICK4"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_STICK5"
+				}, {
+					"soundId":	"SOUND_BALL_GENERIC_STICK6"
+				}],
+			"soundEvent":	{
+				"soundEvent":	4
+			}
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_GENERIC_GLEE"
+				}],
+			"soundEvent":	{
+				"soundEvent":	5
+			}
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_GENERIC_DETACHING1"
+				}],
+			"soundEvent":	{
+				"soundEvent":	6
+			}
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_GENERIC_DETACHED1"
+				}],
+			"soundEvent":	{
+				"soundEvent":	7
+			}
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_GENERIC_DEATH"
+				}],
+			"soundEvent":	{
+				"soundEvent":	9
+			}
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_BOMBSTICKY_IGNITE01"
+				}, {
+					"soundId":	"SOUND_BALL_BOMBSTICKY_IGNITE02"
+				}, {
+					"soundId":	"SOUND_BALL_BOMBSTICKY_IGNITE03"
+				}, {
+					"soundId":	"SOUND_BALL_BOMBSTICKY_IGNITE04"
+				}],
+			"soundEvent":	{
+				"soundEvent":	11
+			}
+		}, {
+			"soundIds":	[{
+					"soundId":	"SOUND_BALL_BOMBSTICKY_DETONATE1"
+				}],
+			"soundEvent":	{
+				"soundEvent":	13
+			}
+		}],
+	"flashAnimation":	{
+		"flashAnimationId":	""
+	},
+	"stateScales":	[1, 1, 1, 1, 1.25, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+	"particleEffects":	[{
+			"particleEffectId":	"sleepyZzz",
+			"particleEffectV2Id":	{
+				"uuid":	""
+			},
+			"states":	[],
+			"sleeping":	true,
+			"onFire":	false,
+			"thruster":	false,
+			"depth":	9.99999974737875e-05
+		}, {
+			"particleEffectId":	"fireRobotHead",
+			"particleEffectV2Id":	{
+				"uuid":	""
+			},
+			"states":	[],
+			"sleeping":	false,
+			"onFire":	true,
+			"thruster":	false,
+			"depth":	9.99999974737875e-05
+		}],
+	"stableFluidsDensityFactor":	{
+		"color":	0
+	},
+	"stableFluidsMinTrailVelocity":	-1,
+	"stableFluidsDensityRange":	{
+		"x":	0,
+		"y":	0
+	},
+	"isLauncher":	false,
+	"canBeSuckedByLauncher":	true,
+	"whenAttachedRenderOnTop":	true,
+	"renderInPlayMode":	true,
+	"canActOnBalls":	true,
+	"lighting":	true,
+	"popSpawnItems":	[],
+	"popSpawnItemProbability":	0,
+	"popSpawnItemCountRange":	{
+		"x":	1,
+		"y":	1
+	},
+	"popSpawnItemRadiusRange":	{
+		"x":	0,
+		"y":	1
+	},
+	"popSpawnItemScaleRange":	{
+		"x":	1,
+		"y":	1
+	},
+	"strandShatterItem":	{
+		"uuid":	""
+	},
+	"strandShatterItemProbability":	0.25,
+	"strandShatterParticleEffect":	{
+		"uuid":	""
+	},
+	"strandShatterParticleEffectProbability":	0.75,
+	"strandShatterFragmentSize":	0.15000000596046448,
+	"unwalkableTime":	3,
+	"dynamicLightingFactor":	0,
+	"shadow":	true,
+	"neededLighting":	0,
+	"sortOffset":	100,
+	"canPinToJelly":	false,
+	"hideWhenPinnedToJelly":	true,
+	"popOnUnpinFromJelly":	false,
+	"canStrandCutJelly":	true,
+	"inactiveStrandCollideWithJelly":	true,
+	"renderInJellyBackground":	true,
+	"thrusterStableFluidsImage":	{
+		"imageId":	""
+	},
+	"markerColor":	{
+		"color":	4294967295
+	},
+	"zoomFactorAttached":	0,
+	"zoomFactorUnattached":	0,
+	"zoomSpeed":	2.5,
+	"liquidParticlesRadiusScale":	1,
+	"structureFillingLayers":	[],
+	"ropeOffsetRadiusScale":	0,
+	"ropeStiffness":	-1,
+	"ropeDamping":	-1
+}
